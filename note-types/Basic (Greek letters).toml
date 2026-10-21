@@ -1,0 +1,4 @@
+fields = ["Symbol (front)", "Name (back)", "Number (back)", "Modern Greek pronunciation (back)", "Classic Greek pronunciation (back)", "Audio (back)"]
+cards = [
+  "Symbol (front) -> Audio (back), Name (back), Number (back), Modern Greek pronunciation (back), Classic Greek pronunciation (back)",
+]

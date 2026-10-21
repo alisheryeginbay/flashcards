@@ -1,0 +1,4 @@
+fields = ["Expression", "Meaning", "Sentence", "Image", "Etymology", "Audio", "MiscInfo"]
+cards = [
+  "Expression -> Audio, Meaning, Sentence, Image, Etymology, MiscInfo",
+]

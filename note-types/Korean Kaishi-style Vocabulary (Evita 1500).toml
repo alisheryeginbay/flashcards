@@ -1,0 +1,4 @@
+fields = ["Number", "Word", "Word Meaning", "Word Audio", "Image", "Hanja", "Target Surface", "Sentence", "Sentence Audio", "Sentence Meaning", "Grammar Breakdown", "Mnemonic"]
+cards = [
+  "Word, Sentence -> Word Audio, Sentence Audio, Word Meaning, Hanja, Sentence Meaning, Image, Mnemonic",
+]

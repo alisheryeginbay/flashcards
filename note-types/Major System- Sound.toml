@@ -1,0 +1,4 @@
+fields = ["Digit", "Sounds", "Hint"]
+cards = [
+  "Digit -> Sounds, Hint",
+]

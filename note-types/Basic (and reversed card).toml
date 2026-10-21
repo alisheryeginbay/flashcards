@@ -1,0 +1,5 @@
+fields = ["Front", "Back", "Example"]
+cards = [
+  "Front -> Back",
+  "Back -> Front",
+]

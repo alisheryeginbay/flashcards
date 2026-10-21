@@ -1,3 +1,4 @@
 .amgi.sqlite*
 cards/private/
 media/private/
+.DS_Store

@@ -60,3 +60,5 @@ A: 30–35 mg
 
 Q: How much caffeine is in a cup of black tea as a rule of thumb?
 A: About 50 mg (40–70 mg)
+
+C: YIMBY is an acronym for the phrase ["yes in my back yard"].

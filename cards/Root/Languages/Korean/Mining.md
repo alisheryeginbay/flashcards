@@ -5156,7 +5156,7 @@ Sentence1이 2를 꺼내다
 Misc. info
 COMPLETE Beginner Korean #10 \[Lv.A0\] - YouTube
 asbplayer leech yomitan
-#asbplayer #leech #yomitan #suspended
+#asbplayer #leech #yomitan
 
 Q: 소리
 A: 751
@@ -6015,7 +6015,7 @@ Sentence Reference'2와'가 없으면 1에 복수를 나타내는 말이 온다.
 Misc. info
 COMPLETE Beginner Korean #11 \[Lv.A0\] - YouTube
 asbplayer yomitan
-#asbplayer #yomitan
+#asbplayer #yomitan #suspended
 
 Q: 으니까
 A: 3434

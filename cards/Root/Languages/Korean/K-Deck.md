@@ -2191,7 +2191,7 @@ Sentence: **아이**가 방에서 자요.
 Sentence Audio: ![](../../../../media/hypertts-3ce7078abca8b51f35f64e4e7d99e735bb99a8051bb55d920cb64fc6.mp3)
 Sentence Meaning: The child is sleeping in the room.
 Grammar Breakdown: 아이 + 가 marks the subject.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 185
@@ -11105,7 +11105,7 @@ Sentence: 가방에서 책을 **꺼냈어요**.
 Sentence Audio: ![](../../../../media/hypertts-c655c78747508e2a478b60c273d7308e857bacbc5a8a64806aa8190e.mp3)
 Sentence Meaning: I took a book out of my bag.
 Grammar Breakdown: 에서 꺼내다 = to take out of.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 1119

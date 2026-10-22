@@ -2156,3 +2156,8 @@ Meaning: - *(verb, seth-oald-extra)*
 Sentence: com⁠; FDA adverse events⁠) is a hormone⁠ secreted by the pineal gland⁠.
 Audio: ![](../../../../media/yomitan_audio_59b6d86555829b4cecafbbdc641d20df0f438d24.ogg)
 #english #yomitan
+
+@English Vocabulary
+Expression: rampant
+Meaning: existing or spreading everywhere in a way that cannot be controlled
+#english #vocabulary

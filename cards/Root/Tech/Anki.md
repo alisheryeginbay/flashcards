@@ -8,3 +8,4 @@ A: `/` + `⌘+N`
 
 Q: How do I create a card in a specific deck?
 A: / -> choose the deck -> Enter -> a
+#suspended

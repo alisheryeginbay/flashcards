@@ -278,3 +278,17 @@ A: An element may appear multiple times in the one sample.
 Q: What is sampling *without replacement*?
 A: No element can be selected more than once in the same sample.
 #statistics
+
+Q: Suppose $v_1, \ldots, v_m$ is a list of vectors in $V$. Define $T \in \mathcal{L}(\mathbf{F}^{m}, V)$ by
+$$
+T(z_1, \ldots, z_m) = z_1 v_1 + \cdots + z_m v_m.
+$$
+What property of $T$ corresponds to $v_1, \ldots, v_m$ spanning $V$?
+A: $v_1, \ldots, v_m$ spans $V$ if and only if $T$ is surjective.
+
+Q: Suppose $v_1, \ldots, v_m$ is a list of vectors in $V$. Define $T \in \mathcal{L}(\mathbf{F}^{m}, V)$ by
+$$
+T(z_1, \ldots, z_m) = z_1 v_1 + \cdots + z_m v_m.
+$$
+What property of $T$ corresponds to the list $v_1, \ldots, v_m$ being linearly independent?
+A: $v_1, \ldots, v_m$ is linearly independent if and only if $T$ is injective.

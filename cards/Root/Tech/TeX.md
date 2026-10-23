@@ -30,5 +30,5 @@ Q: How to type $\cap$ in LaTeX?
 A: `\cap`
 
 Q: How to denote $\times$ in LaTeX?
-A: \\times
+A: `\times`
 #latex

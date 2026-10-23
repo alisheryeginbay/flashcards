@@ -5627,7 +5627,7 @@ Sentence: 우리는 **오래** 기다렸어요.
 Sentence Audio: ![](../../../../media/hypertts-908f1eb4eee0206a9c9b89600fbf3aaf9332e6683ff916106974288c.mp3)
 Sentence Meaning: We waited a long time.
 Grammar Breakdown: 오래 = for a long time.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 389
@@ -13019,7 +13019,7 @@ Grammar Breakdown: 댁: honorific of 집.
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 1271
 Word: 역시
-Word Meaning: too, also; as expected;; still
+Word Meaning: too, also; as expected; still
 Word Audio: ![](../../../../media/hypertts-71974adffe61e2b9ffe2092967e27660d4d54d46e84a64a5ca8af4a6.mp3)
 Hanja: 亦是
 Target Surface: 역시
@@ -13509,7 +13509,7 @@ Sentence: 밤에는 날씨가 **추워져요**.
 Sentence Audio: ![](../../../../media/hypertts-aa9b68369baacf4040150883b2ec7448c6f109b6596bde81feb6f57d.mp3)
 Sentence Meaning: It gets cold at night.
 Grammar Breakdown: -아/어지다 = to become.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 684

@@ -2240,7 +2240,7 @@ Meaning: - *(noun, seth-oald-extra)* an area in a room that is formed by part of
 - The bookcase fits neatly into the alcove.
 Sentence: alcove
 Audio: ![](../media/yomitan_audio_d17fb1ef7ce4acec9d399fe9b9c26f223bc8b888.wav)
-#yomitan
+#yomitan #suspended
 
 @English Vocabulary
 Expression: lavatory
@@ -2775,8 +2775,7 @@ A: Pineal gland
 Q: Where is pineal gland located in?
 A: In the brain
 
-Q: $\text{length of linearly independent list} \leq \text{length of spanning list}$
-Suppose that $u_1, \ldots, u_m$ is linearly independent in $V$. Suppose also that $w_1, \ldots, w_n$ spans $V$. We need to prove that $m \leq n$.
+Q: Suppose that $u_1, \ldots, u_m$ is linearly independent in $V$. Suppose also that $w_1, \ldots, w_n$ spans $V$. We need to prove that $m \leq n$.
 What's the key idea?
 A: We keep adjoining $u_k$ into the list $B$, which is initially $w_1, \ldots, w_n$. At each step, the adjoined list consisting of $u$'s is linearly independent. So by the linear dependence lemma we can remove one of the $w$'s so that the list $B$ still spans $V$. At step $m$, we have added all the $u$'s. Thus there are at least as many $w$'s as $u$'s.
 #linear-algebra #mathematics

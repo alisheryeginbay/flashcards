@@ -1888,7 +1888,7 @@ Sentence: **저녁**에 뭐 먹어요?
 Sentence Audio: ![](../../../../media/hypertts-8ed4a2a9f7a52da44c150f9dea6807f97657ecd5d9010aa409bc1451.mp3)
 Sentence Meaning: What are you eating for dinner?
 Grammar Breakdown: 저녁 = evening or dinner.
-#korean #suspended
+#korean
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 170

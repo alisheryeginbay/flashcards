@@ -11621,3 +11621,28 @@ Q: What is the difference between 과거 and 광고?
 A: 과거 = the past
 광고 = advertisement
 #korean #vocabulary
+
+@Korean Kaishi-style Vocabulary (Evita 1500)
+Number: 다행히
+Word: 다행히
+Word Meaning: - 다행히 〔多幸히〕
+luckily; with luck
+Luckily unexpected.
+See More
+- 다행히 만나다.
+- 다행히 잘 끝나다.
+- 다행히 찾다.
+- 다행히 해결하다.
+- 다행히 화해하다.
+- 친구가 교통사고를 당했지만 다행히 많이 다치지는 않았다.
+- 동생은 아침에 늦게 일어났지만 다행히 지각은 하지 않았다.
+- 잃어 버린 줄로만 알았던 지갑을 다행히 찾았구나.
+- 【多幸히】
+多 - 많을 다, much, many; more than, over (6)
+幸 - 다행할 행, 바랄 행, luck(ily), favor, fortunately (8)
+Word Audio: ![](../../../../media/yomitan_audio_f5b1848359d0d5b23396b9f273936f5f2a041afa.mp3)
+Hanja: - *(hanja)* 【多幸히】
+多 - 많을 다, much, many; more than, over (6)
+幸 - 다행할 행, 바랄 행, luck(ily), favor, fortunately (8)
+Sentence: **다행히**
+#yomitan #korean #vocabulary

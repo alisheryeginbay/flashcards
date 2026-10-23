@@ -62,3 +62,18 @@ Q: How much caffeine is in a cup of black tea as a rule of thumb?
 A: About 50 mg (40–70 mg)
 
 C: YIMBY is an acronym for the phrase ["yes in my back yard"].
+
+Q: Which country's song is "Happy Birthday to You" originally?
+A: US
+
+Q: Who wrote the melody of "Happy Birthday to You"?
+A: American sisters Mildred and Patty Hill.
+
+Q: When was the melody of "Happy Birthday to You" written?
+A: 1890s.
+
+Q: Where was the melody of "Happy Birthday to You" written?
+A: Louisville, Kentucky.
+
+Q: Where does the melody of "Happy Birthday to You" come from?
+A: The song "Good Morning to All"

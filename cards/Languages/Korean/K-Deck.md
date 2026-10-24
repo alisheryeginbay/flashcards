@@ -15007,7 +15007,7 @@ Sentence: 우산을 **가져가세요**. 오후에 비가 올 거예요.
 Sentence Audio: ![](../../../media/hypertts-68dd448f65f2272793b82504229eec23dbbb4b0cdccb38f709e7a983.mp3)
 Sentence Meaning: Take an umbrella. It'll rain in the afternoon.
 Grammar Breakdown: 가져가다 ↔ 가져오다.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 1399

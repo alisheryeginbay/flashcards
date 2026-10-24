@@ -1,16 +1,16 @@
 Q: University name?
-![](../../media/Seoul_national_university_emblem.svg)
+![](../media/Seoul_national_university_emblem.svg)
 A: Seoul National University
 
 Q: University name?
-![](../../media/Korea_University_Global_Symbol.svg)
+![](../media/Korea_University_Global_Symbol.svg)
 A: Korea University
 
 Q: Code for South Korean won
 A: KRW
 
 Q: What is the name of this symbol in Korean?
-![](../../media/Taegeuk.svg)
+![](../media/Taegeuk.svg)
 A: 태극
 #leech #suspended
 

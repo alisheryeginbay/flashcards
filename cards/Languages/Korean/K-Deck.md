@@ -2760,7 +2760,6 @@ Number: 223
 Word: 치마
 Word Meaning: skirt
 Word Audio: ![](@/media/hypertts-f5476f29312cf2c985724b0fb2758199f06c2e92d524bcd7f0a48937.mp3)
-Image: ![](../../../../media/6911016_1165207_248.jpg)
 Target Surface: 치마
 Sentence: 지민은 오늘 **치마**를 입었어요.
 Sentence Audio: ![](@/media/hypertts-b28ee4e027dd6b84c26e3ba824ae39568974c3f4d4523a2ba7db6e1a.mp3)

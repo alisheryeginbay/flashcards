@@ -1,6 +1,6 @@
 C: 저는 [세] 시간 동안 잤어요. (I slept for 3 hours)
 
-![](../../../media/hypertts-49c5b2e73bbb83a416177b6c39d8aa0ed7675dd347aef4551552763e.mp3)
+![](@/media/hypertts-49c5b2e73bbb83a416177b6c39d8aa0ed7675dd347aef4551552763e.mp3)
 
 Q: 놀이공원
 A: 9999999
@@ -11640,7 +11640,7 @@ See More
 - 【多幸히】
 多 - 많을 다, much, many; more than, over (6)
 幸 - 다행할 행, 바랄 행, luck(ily), favor, fortunately (8)
-Word Audio: ![](../../../media/yomitan_audio_f5b1848359d0d5b23396b9f273936f5f2a041afa.mp3)
+Word Audio: ![](@/media/yomitan_audio_f5b1848359d0d5b23396b9f273936f5f2a041afa.mp3)
 Hanja: - *(hanja)* 【多幸히】
 多 - 많을 다, much, many; more than, over (6)
 幸 - 다행할 행, 바랄 행, luck(ily), favor, fortunately (8)

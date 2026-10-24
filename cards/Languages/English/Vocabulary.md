@@ -325,7 +325,7 @@ Meaning: - *(noun, seth-oald-extra)*
 - a gaggle of tourists/schoolchildren
 - a group of geese
 Sentence: gaggle
-Audio: ![](../../../media/yomitan_audio_25c812fefd27f961dcdc6fd789ff39dcb5dcaa9b.ogg)
+Audio: ![](@/media/yomitan_audio_25c812fefd27f961dcdc6fd789ff39dcb5dcaa9b.ogg)
 #english #yomitan
 
 @English Vocabulary
@@ -333,7 +333,7 @@ Expression: playwright
 Meaning: - *(noun, seth-oald-extra)* a person who writes plays for the theatre, television or radio
 - Which playwright wrote ‘Doctor Faustus’?
 Sentence: playwright
-Audio: ![](../../../media/yomitan_audio_f22c9912cae2b992a58f030bade2444719450358.ogg)
+Audio: ![](@/media/yomitan_audio_f22c9912cae2b992a58f030bade2444719450358.ogg)
 #english #yomitan
 
 @English Vocabulary
@@ -355,7 +355,7 @@ to be full of something, especially something bad or unpleasant
 - Her typing was slow and riddled with mistakes.
 - The woods are riddled with rabbit holes.
 Sentence: riddle
-Audio: ![](../../../media/yomitan_audio_5d231ac029d81c052034f29e6c7ed028c68650e3.wav)
+Audio: ![](@/media/yomitan_audio_5d231ac029d81c052034f29e6c7ed028c68650e3.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -380,7 +380,7 @@ Meaning: - *(5K, verb, seth-oald-extra)*
 - to give something as an explanation or excuse for something
 - He pleaded family problems for his lack of concentration.
 Sentence: plead
-Audio: ![](../../../media/yomitan_audio_87dd69367a4a836d57e8adedbce4e6f2003e309e.mp3)
+Audio: ![](@/media/yomitan_audio_87dd69367a4a836d57e8adedbce4e6f2003e309e.mp3)
 #english #yomitan
 
 @English Vocabulary
@@ -404,7 +404,7 @@ Meaning: - *(verb, seth-oald-extra)*
 - light rain
 - We’ve only had a few sprinkles (of rain) recently.
 Sentence: sprinkle
-Audio: ![](../../../media/yomitan_audio_b91f1f5e37d7d21a3ff0d0cdb6cce4c9ff8e2820.wav)
+Audio: ![](@/media/yomitan_audio_b91f1f5e37d7d21a3ff0d0cdb6cce4c9ff8e2820.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -416,7 +416,7 @@ Meaning: - *(noun, seth-oald-extra)*
 - a small thing such as an idea or a fact that people think of as valuable
 - a useful nugget of information
 Sentence: nugget
-Audio: ![](../../../media/yomitan_audio_71b90e42ac9f02f71c9af2c0254f24b0f4553edb.wav)
+Audio: ![](@/media/yomitan_audio_71b90e42ac9f02f71c9af2c0254f24b0f4553edb.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -441,7 +441,7 @@ Meaning: - *(verb, seth-oald-extra)* to shake slightly because you are cold, fri
 - I don't like him. He gives me the shivers.
 - Symptoms include headaches, vomiting and the shivers.
 Sentence: shiver
-Audio: ![](../../../media/yomitan_audio_669df4a2d62a6c48df9e2884c62e475312699da7.wav)
+Audio: ![](@/media/yomitan_audio_669df4a2d62a6c48df9e2884c62e475312699da7.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -451,7 +451,7 @@ Meaning: - *(adjective, seth-oald-extra)*
 - having wide interests in a particular area or activity
 - She has always been an omnivorous reader.
 Sentence: omnivorous
-Audio: ![](../../../media/yomitan_audio_fd173b52916f10c4d8acd2c81ac0cf8ed97f1286.wav)
+Audio: ![](@/media/yomitan_audio_fd173b52916f10c4d8acd2c81ac0cf8ed97f1286.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -460,7 +460,7 @@ Meaning: - *(adjective, seth-oald-extra)* complicated and difficult to find your
 - labyrinthine corridors
 - labyrinthine legislation
 Sentence: labyrinthine
-Audio: ![](../../../media/yomitan_audio_aa263598a365c7918e4b941015b5a061ae2efcf8.wav)
+Audio: ![](@/media/yomitan_audio_aa263598a365c7918e4b941015b5a061ae2efcf8.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -468,7 +468,7 @@ Expression: fritter away
 Meaning: - *(verb, phrasal, seth-oald-extra)* to waste time or money on things that are not important
 - He frittered away the millions his father had left him.
 Sentence: fritter away
-Audio: ![](../../../media/yomitan_audio_6afebe898e70b1397a86ca4d51baa932a5ddcf9e.wav)
+Audio: ![](@/media/yomitan_audio_6afebe898e70b1397a86ca4d51baa932a5ddcf9e.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -480,7 +480,7 @@ Meaning: - *(5K, adjective, seth-oald-extra)* very interested and excited by som
 - Everyone in the class seemed eager to learn.
 - They're eager to please (= wanting to be helpful).
 Sentence: eager
-Audio: ![](../../../media/yomitan_audio_8a0b929919fe34155631a48c6d26e189e22e76b7.mp3)
+Audio: ![](@/media/yomitan_audio_8a0b929919fe34155631a48c6d26e189e22e76b7.mp3)
 #english #yomitan
 
 @English Vocabulary
@@ -492,7 +492,7 @@ Meaning: - *(noun, seth-oald-extra)* a person walking in the street and not trav
 - *(adjective, seth-oald-extra)* without any imagination or excitement; boring
 - Her latest play is more pedestrian and less ambitious than her earlier work.
 Sentence: pedestrian
-Audio: ![](../../../media/yomitan_audio_f89371a3cc6a29c269f3a0d4405e4c69314c9400.wav)
+Audio: ![](@/media/yomitan_audio_f89371a3cc6a29c269f3a0d4405e4c69314c9400.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -509,14 +509,14 @@ Meaning: - *(5K, verb, seth-oald-extra)*
 - to stay alive but become weaker
 - He lingered on for several months after the heart attack.
 Sentence: linger
-Audio: ![](../../../media/yomitan_audio_01f15c2f9b7d8c14d95d5772a5f0cdefb813b8c9.wav)
+Audio: ![](@/media/yomitan_audio_01f15c2f9b7d8c14d95d5772a5f0cdefb813b8c9.wav)
 #english #yomitan
 
 @English Vocabulary
 Expression: dole out
 Meaning: - *(verb, phrasal, seth-oald-extra)* to give out an amount of food, money, etc. to a number of people in a group
 Sentence: dole out
-Audio: ![](../../../media/yomitan_audio_4e708146f38d42785c3f46200171158b55bac0c1.ogg)
+Audio: ![](@/media/yomitan_audio_4e708146f38d42785c3f46200171158b55bac0c1.ogg)
 #english #yomitan
 
 @English Vocabulary
@@ -527,7 +527,7 @@ Meaning: - *(noun, seth-oald-extra)* a difficult situation in which no progress 
 - The Governor attempted to resolve Minnesota’s current budget impasse.
 - The proposal offered both sides a way out of the diplomatic impasse.
 Sentence: impasse
-Audio: ![](../../../media/yomitan_audio_686819a20b0a87b885ba2a2e1ee04a7682339a62.wav)
+Audio: ![](@/media/yomitan_audio_686819a20b0a87b885ba2a2e1ee04a7682339a62.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -539,7 +539,7 @@ Meaning: - *(noun, seth-oald-extra)*
 - She has won her place in the pantheon of popular culture.
 - a temple (= religious building) built in honour of all the gods of a nation; a building in which famous dead people of a nation are buried or honoured
 Sentence: pantheon
-Audio: ![](../../../media/yomitan_audio_e5e66517618b2b27e7f6c5a170d3b542da1328d6.ogg)
+Audio: ![](@/media/yomitan_audio_e5e66517618b2b27e7f6c5a170d3b542da1328d6.ogg)
 #english #yomitan
 
 @English Vocabulary
@@ -549,7 +549,7 @@ Meaning: - *(adjective, seth-oald-extra)* that makes you feel sad; not bright or
 - a dreary film
 - a long and dreary journey on the train
 Sentence: dreary
-Audio: ![](../../../media/yomitan_audio_0e84ed5eb0c06057cffc413ad0987144033ee6f6.ogg)
+Audio: ![](@/media/yomitan_audio_0e84ed5eb0c06057cffc413ad0987144033ee6f6.ogg)
 #english #yomitan
 
 @English Vocabulary
@@ -563,7 +563,7 @@ Meaning: - *(verb, seth-oald-extra)* to make a serious, angry or worried express
 - She looked up with a puzzled frown on her face.
 - a slight frown of disapproval/concentration, etc.
 Sentence: frown
-Audio: ![](../../../media/yomitan_audio_9a69e709b500cacb65b48f863a2890a50ceb74db.mp3)
+Audio: ![](@/media/yomitan_audio_9a69e709b500cacb65b48f863a2890a50ceb74db.mp3)
 #english #yomitan
 
 @English Vocabulary
@@ -574,7 +574,7 @@ Meaning: - *(adjective, seth-oald-extra)*
 - used to describe something that is placed, for example in a book or play, in the wrong period of history
 - The costumes were anachronistic for a Victorian play.
 Sentence: anachronistic
-Audio: ![](../../../media/yomitan_audio_262337d4de37448ee3044bb6cbaf6ff25cff2a2e.ogg)
+Audio: ![](@/media/yomitan_audio_262337d4de37448ee3044bb6cbaf6ff25cff2a2e.ogg)
 #english #yomitan
 
 @English Vocabulary
@@ -591,7 +591,7 @@ Meaning: - *(noun, seth-oald-extra)*
 - an object from ancient times
 - Egyptian/Roman antiquities
 Sentence: antiquity
-Audio: ![](../../../media/yomitan_audio_6a3cda7bdf6cbdd6df7edbe6cf9c6bceef38e9f8.ogg)
+Audio: ![](@/media/yomitan_audio_6a3cda7bdf6cbdd6df7edbe6cf9c6bceef38e9f8.ogg)
 #english #yomitan
 
 @English Vocabulary
@@ -605,7 +605,7 @@ Meaning: - *(noun, seth-oald-extra)*
 - a group of people with the same religious beliefs
 - the Anglican communion
 Sentence: communion
-Audio: ![](../../../media/yomitan_audio_a46df84be2950cb2747b30671be421ea3d9d3ec9.wav)
+Audio: ![](@/media/yomitan_audio_a46df84be2950cb2747b30671be421ea3d9d3ec9.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -616,8 +616,8 @@ Meaning: - *(noun, seth-oald-extra)* a small aggressive animal with a long thin 
 - She opened the drawer and ferreted around for her keys.
 - to hunt rabbits, rats, etc. using ferrets
 Sentence: ferret
-Image: ![](../../../media/proxy-image-52618b9ce9766c77657517303d668773b008a413.jpg)
-Audio: ![](../../../media/yomitan_audio_8bdd6ed49af9f7b34055add01536699503f71815.ogg)
+Image: ![](@/media/proxy-image-52618b9ce9766c77657517303d668773b008a413.jpg)
+Audio: ![](@/media/yomitan_audio_8bdd6ed49af9f7b34055add01536699503f71815.ogg)
 #english #yomitan
 
 @English Vocabulary
@@ -626,7 +626,7 @@ Meaning: - *(verb, seth-oald-extra)* to make somebody start breathing again or b
 - He had a heart attack and all attempts to resuscitate him failed.
 - efforts to resuscitate the economy
 Sentence: resuscitate
-Audio: ![](../../../media/yomitan_audio_f33193cd64312557736d5c616d7483c06b60491b.wav)
+Audio: ![](@/media/yomitan_audio_f33193cd64312557736d5c616d7483c06b60491b.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -635,7 +635,7 @@ Meaning: - *(adjective, seth-oald-extra)* having or showing very strong and sinc
 - a fervent admirer/believer/supporter
 - a fervent belief/hope/desire
 Sentence: fervent
-Audio: ![](../../../media/yomitan_audio_4d4b9d214e35db83d4f435052a5fa8dc3ff8dff6.wav)
+Audio: ![](@/media/yomitan_audio_4d4b9d214e35db83d4f435052a5fa8dc3ff8dff6.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -666,14 +666,14 @@ Meaning: - *(5K, verb, seth-oald-extra)*
 - to cause a particular reaction
 - He spoke with an authority that compelled the attention of the whole crowd.
 Sentence: compel
-Audio: ![](../../../media/yomitan_audio_160f37110fd07b26841fccaf7f14c039c2b45b8b.ogg)
+Audio: ![](@/media/yomitan_audio_160f37110fd07b26841fccaf7f14c039c2b45b8b.ogg)
 #english #yomitan
 
 @English Vocabulary
 Expression: chummy
 Meaning: - *(adjective, seth-oald-extra)* very friendly
 Sentence: chummy
-Audio: ![](../../../media/yomitan_audio_e7175f41dc3178c2898b2aa1a083fd2f8449f041.wav)
+Audio: ![](@/media/yomitan_audio_e7175f41dc3178c2898b2aa1a083fd2f8449f041.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -682,7 +682,7 @@ Meaning: - *(adjective, seth-oald-extra)* having all the important qualities tha
 - The Beatles were the archetypal pop group.
 - It was the archetypal British suburb, built in the 1930s.
 Sentence: archetypal
-Audio: ![](../../../media/yomitan_audio_6694382d1fb24d5b19513904ea534e100e233864.wav)
+Audio: ![](@/media/yomitan_audio_6694382d1fb24d5b19513904ea534e100e233864.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -734,7 +734,7 @@ to get yourself into a bad situation that will be very difficult to get out of
 - to go on a dig
 - an archaeological dig
 Sentence: dig heels
-Audio: ![](../../../media/yomitan_audio_23bc9b61610f517a9444c620d0883401dca65bf9.wav)
+Audio: ![](@/media/yomitan_audio_23bc9b61610f517a9444c620d0883401dca65bf9.wav)
 #english #yomitan #suspended
 
 @English Vocabulary
@@ -742,7 +742,7 @@ Expression: inexorably
 Meaning: - *(adverb, seth-oald-extra)* in a way that cannot be stopped or changed
 - events leading inexorably towards a crisis
 Sentence: inexorably
-Audio: ![](../../../media/yomitan_audio_ed6f36f57c7a8b36098f4974134feecdec6489c6.ogg)
+Audio: ![](@/media/yomitan_audio_ed6f36f57c7a8b36098f4974134feecdec6489c6.ogg)
 #english #yomitan
 
 @English Vocabulary
@@ -756,7 +756,7 @@ Meaning: - *(noun, seth-oald-extra)* a government tax on some goods made, sold o
 - He carefully excised any passages that might cause offence.
 - The sensor improves the precision with which surgeons can excise brain tumours.
 Sentence: excise
-Audio: ![](../../../media/yomitan_audio_3e804774265763aaa76f2e54db463286ae53b893.ogg)
+Audio: ![](@/media/yomitan_audio_3e804774265763aaa76f2e54db463286ae53b893.ogg)
 #english #yomitan
 
 @English Vocabulary
@@ -781,7 +781,7 @@ Idioms
 funny peculiar
 used to show that ‘funny’ is being used with the meaning of ‘strange’
 Sentence: peculiar
-Audio: ![](../../../media/yomitan_audio_eba1f22a59c3c3594138a4611bda7bc2764cb7f4.ogg)
+Audio: ![](@/media/yomitan_audio_eba1f22a59c3c3594138a4611bda7bc2764cb7f4.ogg)
 #english #yomitan
 
 @English Vocabulary
@@ -807,7 +807,7 @@ Meaning: - *(noun, seth-oald-extra)*
 - The lights should be recessed into the ceiling.
 - recessed shelves
 Sentence: recesses
-Audio: ![](../../../media/yomitan_audio_68c52fd22032d51207ab3efeecb83dbd0a5fcf6a.ogg)
+Audio: ![](@/media/yomitan_audio_68c52fd22032d51207ab3efeecb83dbd0a5fcf6a.ogg)
 #english #yomitan
 
 @English Vocabulary
@@ -820,15 +820,15 @@ Meaning: - *(noun, seth-oald-extra)*
 - The secretary ushered me into his office.
 - We were asked to leave and ushered out of the door.
 Sentence: usher into
-Audio: ![](../../../media/yomitan_audio_7f4977a11c1a8a2f284adf4faf774555a1e502c8.wav)
+Audio: ![](@/media/yomitan_audio_7f4977a11c1a8a2f284adf4faf774555a1e502c8.wav)
 #english #yomitan
 
 @English Vocabulary
 Expression: tabby
 Meaning: - *(noun, seth-oald-extra)* a cat with brown or grey fur marked with dark lines or spots
 Sentence: tabby
-Image: ![](../../../media/proxy-image-4aa2cfc9478b727dafb03ad86091a9e8918e035b.jpg)
-Audio: ![](../../../media/yomitan_audio_deb5f23ee6f46d358620b3e6919a6039683ab433.wav)
+Image: ![](@/media/proxy-image-4aa2cfc9478b727dafb03ad86091a9e8918e035b.jpg)
+Audio: ![](@/media/yomitan_audio_deb5f23ee6f46d358620b3e6919a6039683ab433.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -861,15 +861,15 @@ in snatches
 for short periods rather than continuously
 - Sleep came to him in brief snatches.
 Sentence: snatch
-Audio: ![](../../../media/yomitan_audio_3c9fd29b55b5b6dd43a0658a3ec4f5702c47c7be.ogg)
+Audio: ![](@/media/yomitan_audio_3c9fd29b55b5b6dd43a0658a3ec4f5702c47c7be.ogg)
 #english #yomitan
 
 @English Vocabulary
 Expression: blancmange
 Meaning: - *(noun, seth-oald-extra)* a cold dessert (= a sweet dish) that looks like jelly that is made with milk and with fruit added to give it a sweet taste
 Sentence: blancmange
-Image: ![](../../../media/proxy-image-cb4f99945230aed2ba16ad8940c5477a9dccf899.jpg)
-Audio: ![](../../../media/yomitan_audio_2965384e2540f12b38e6772f94b099172b48e25a.wav)
+Image: ![](@/media/proxy-image-cb4f99945230aed2ba16ad8940c5477a9dccf899.jpg)
+Audio: ![](@/media/yomitan_audio_2965384e2540f12b38e6772f94b099172b48e25a.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -905,8 +905,8 @@ Meaning: - *(noun, seth-oald-extra)*
 - to twist something together with another thing
 - They sat with their fingers laced.
 Sentence: lace
-Image: ![](../../../media/proxy-image-a08946b2d6cad26d4ff8e72c4c0cf6b6c57c3619.jpg)
-Audio: ![](../../../media/yomitan_audio_06a97ef577e779ddd96792c8babc360e49808309.mp3)
+Image: ![](@/media/proxy-image-a08946b2d6cad26d4ff8e72c4c0cf6b6c57c3619.jpg)
+Audio: ![](@/media/yomitan_audio_06a97ef577e779ddd96792c8babc360e49808309.mp3)
 #english #yomitan
 
 @English Vocabulary
@@ -914,7 +914,7 @@ Expression: bewilderment
 Meaning: - *(noun, seth-oald-extra)* a feeling of being completely confused
 - to look/stare in bewilderment
 Sentence: bewilderment
-Audio: ![](../../../media/yomitan_audio_fa6344bacf74ae8673ce90adbead5d6b04399349.wav)
+Audio: ![](@/media/yomitan_audio_fa6344bacf74ae8673ce90adbead5d6b04399349.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -924,14 +924,14 @@ Meaning: - *(5K, verb, seth-oald-extra)* to become worse
 - They had to cope with deteriorating weather conditions.
 - The discussion quickly deteriorated into an angry argument.
 Sentence: deteriorate
-Audio: ![](../../../media/yomitan_audio_719604ce7c07c8d37cbac296aa0c83e09c7aab59.wav)
+Audio: ![](@/media/yomitan_audio_719604ce7c07c8d37cbac296aa0c83e09c7aab59.wav)
 #english #yomitan
 
 @English Vocabulary
 Expression: verbiage
 Meaning: - *(noun, seth-oald-extra)* the use of too many words, or of more difficult words than are needed, to express an idea
 Sentence: verbiage
-Audio: ![](../../../media/yomitan_audio_330b229da3b864b84917b131d2dbb7b49429838f.wav)
+Audio: ![](@/media/yomitan_audio_330b229da3b864b84917b131d2dbb7b49429838f.wav)
 #english #yomitan
 
 Q: List all the names Astana had in the chronological order.
@@ -955,7 +955,7 @@ Meaning: - *(noun, seth-oald-extra)*
 - *(verb, seth-oald-extra)* to say or write words in a particular style or manner
 - The letter was deliberately couched in very vague terms.
 Sentence: couch
-Audio: ![](../../../media/yomitan_audio_0fd0485a243ce60cb36a180daae608c9de9833b9.wav)
+Audio: ![](@/media/yomitan_audio_0fd0485a243ce60cb36a180daae608c9de9833b9.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -965,7 +965,7 @@ Meaning: - *(adjective, seth-oald-extra)* good at doing something that is quite 
 - *(noun, seth-oald-extra)* a person who is good at doing something that is quite difficult
 - He was an adept at concealing the truth.
 Sentence: adept
-Audio: ![](../../../media/yomitan_audio_3cf8f935323d2844fdb50c57f8d107d206e716aa.wav)
+Audio: ![](@/media/yomitan_audio_3cf8f935323d2844fdb50c57f8d107d206e716aa.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -981,7 +981,7 @@ Meaning: - *(adjective, seth-oald-extra)*
 - Babies are apt to put objects into their mouths.
 - a person who has a natural ability to learn and understand
 Sentence: apt
-Audio: ![](../../../media/yomitan_audio_d535dd626dced73fa6b9fea415a8703648453012.ogg)
+Audio: ![](@/media/yomitan_audio_d535dd626dced73fa6b9fea415a8703648453012.ogg)
 #english #yomitan
 
 @English Vocabulary
@@ -996,7 +996,7 @@ Meaning: - *(adjective, seth-oald-extra)*
 - performed in a serious way
 - a solemn ritual
 Sentence: solemn
-Audio: ![](../../../media/yomitan_audio_14d226b48fceb80f0960093d345abb033dd99ec9.mp3)
+Audio: ![](@/media/yomitan_audio_14d226b48fceb80f0960093d345abb033dd99ec9.mp3)
 #english #yomitan
 
 @English Vocabulary
@@ -1007,16 +1007,16 @@ Meaning: - *(noun, seth-oald-extra)* one of the bars that forms a step in a ladd
 - to get a foot on the bottom rung of the career ladder
 - She was a few rungs above him on the social ladder.
 Sentence: rungs
-Image: ![](../../../media/proxy-image-b0f4dc9ce55834df33402b6fe3a1b5bc3d2c76c3.jpg)
-Audio: ![](../../../media/yomitan_audio_45ac7af5819e123be1c3d4c33ab8f0f858dcfb10.wav)
+Image: ![](@/media/proxy-image-b0f4dc9ce55834df33402b6fe3a1b5bc3d2c76c3.jpg)
+Audio: ![](@/media/yomitan_audio_45ac7af5819e123be1c3d4c33ab8f0f858dcfb10.wav)
 #english #yomitan
 
 @English Vocabulary
 Expression: stepladder
 Meaning: Self-supporting ladder
 Sentence: stepladder
-Image: ![](../../../media/proxy-image-2fa6a40d273b6aee3da4bb9b36a376c9c06d407c.jpg)
-Audio: ![](../../../media/yomitan_audio_a4e158c14bcedbd79887483fff685e086e58e637.wav)
+Image: ![](@/media/proxy-image-2fa6a40d273b6aee3da4bb9b36a376c9c06d407c.jpg)
+Audio: ![](@/media/yomitan_audio_a4e158c14bcedbd79887483fff685e086e58e637.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -1026,7 +1026,7 @@ Meaning: - *(adverb, seth-oald-extra)* in a way that pays careful attention to e
 - meticulously clean
 - She checked the painting meticulously for any damage.
 Sentence: meticulously
-Audio: ![](../../../media/yomitan_audio_cb1aca45f5350e40b1e43022baa0e5e995253bde.wav)
+Audio: ![](@/media/yomitan_audio_cb1aca45f5350e40b1e43022baa0e5e995253bde.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -1047,7 +1047,7 @@ Meaning: - *(verb, seth-oald-extra)*
 - She put a new slant on the play.
 - Her book looks at his writings from a feminist slant.
 Sentence: slant
-Audio: ![](../../../media/yomitan_audio_965e0993247941f71d3230a899539225fc32bbd4.ogg)
+Audio: ![](@/media/yomitan_audio_965e0993247941f71d3230a899539225fc32bbd4.ogg)
 #english #yomitan
 
 @English Vocabulary
@@ -1056,7 +1056,7 @@ Meaning: - *(adjective, seth-oald-extra)* showing that you respect somebody/some
 - He was always deferential towards his mentor.
 - a deferential tone
 Sentence: deferential
-Audio: ![](../../../media/yomitan_audio_c17fccef4c4e9cc218d304df6403e5f1b8ac35d8.ogg)
+Audio: ![](@/media/yomitan_audio_c17fccef4c4e9cc218d304df6403e5f1b8ac35d8.ogg)
 #english #yomitan
 
 @English Vocabulary
@@ -1097,7 +1097,7 @@ Idioms
 - completely level with each other
 - Make sure the paving stones are flush with the lawn.
 Sentence: flushed
-Audio: ![](../../../media/yomitan_audio_6872e69a591d9322628f0ab9889f1e83fc8e5163.wav)
+Audio: ![](@/media/yomitan_audio_6872e69a591d9322628f0ab9889f1e83fc8e5163.wav)
 #english #yomitan #suspended
 
 @English Vocabulary
@@ -1108,7 +1108,7 @@ Meaning: - *(adjective, seth-oald-extra)*
 - impressing somebody very much
 - a dazzling display of oriental dance
 Sentence: dazzling
-Audio: ![](../../../media/yomitan_audio_138a804df6ddc318d0f06d5a24393b65ff66cf5b.ogg)
+Audio: ![](@/media/yomitan_audio_138a804df6ddc318d0f06d5a24393b65ff66cf5b.ogg)
 #english #yomitan
 
 @English Vocabulary
@@ -1117,7 +1117,7 @@ Meaning: - *(adjective, seth-oald-extra)* slightly open
 - I'll leave the door ajar.
 - The office door stood ajar.
 Sentence: ajar
-Audio: ![](../../../media/yomitan_audio_acf5983bac3b9d10b21fc754e841b85dd65fe9a1.ogg)
+Audio: ![](@/media/yomitan_audio_acf5983bac3b9d10b21fc754e841b85dd65fe9a1.ogg)
 #english #yomitan
 
 @English Vocabulary
@@ -1148,7 +1148,7 @@ to be noticed and have an impact
 - to spread through a person or a group of people like a wave
 - A gasp rippled through the crowd.
 Sentence: ripple
-Audio: ![](../../../media/yomitan_audio_a733a0ea156ed435a88c96d30c3a702533a3e866.ogg)
+Audio: ![](@/media/yomitan_audio_a733a0ea156ed435a88c96d30c3a702533a3e866.ogg)
 #english #yomitan
 
 @English Vocabulary
@@ -1162,7 +1162,7 @@ Meaning: - *(adjective, seth-oald-extra)*
 - The atmosphere remained fraught.
 - Things are as fraught as ever in the office.
 Sentence: fraught
-Audio: ![](../../../media/yomitan_audio_8c20542f9a3affc091e3d75ee624ff55275d244b.wav)
+Audio: ![](@/media/yomitan_audio_8c20542f9a3affc091e3d75ee624ff55275d244b.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -1180,7 +1180,7 @@ Meaning: - *(adjective, seth-oald-extra)*
 - Australia held a slender 1–0 lead at half-time.
 - These claims are based on slender evidence.
 Sentence: slender
-Audio: ![](../../../media/yomitan_audio_f5c1c64450e3c27fa7ffc0a387e31a7a660f3c0e.wav)
+Audio: ![](@/media/yomitan_audio_f5c1c64450e3c27fa7ffc0a387e31a7a660f3c0e.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -1188,7 +1188,7 @@ Expression: felicitous
 Meaning: - *(adjective, seth-oald-extra)* chosen well; very suitable; giving a good result
 - a felicitous turn of phrase
 Sentence: felicitous
-Audio: ![](../../../media/yomitan_audio_13e4e4caee97b16ced22aacc58af02f196838b0e.wav)
+Audio: ![](@/media/yomitan_audio_13e4e4caee97b16ced22aacc58af02f196838b0e.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -1201,7 +1201,7 @@ Meaning: - *(adjective, seth-oald-extra)*
 - having many twists or curves
 - a convoluted coastline
 Sentence: convoluted
-Audio: ![](../../../media/yomitan_audio_f814614fc68e8d14606e02797e8f3dcedc87f85c.ogg)
+Audio: ![](@/media/yomitan_audio_f814614fc68e8d14606e02797e8f3dcedc87f85c.ogg)
 #english #yomitan
 
 @English Vocabulary
@@ -1212,7 +1212,7 @@ Meaning: - *(adjective, seth-oald-extra)* shy and nervous; not brave
 - a timid voice
 - Deer are naturally timid creatures.
 Sentence: timid
-Audio: ![](../../../media/yomitan_audio_6cdb3be20fb385020ef96a3fc6367886ccf3e032.ogg)
+Audio: ![](@/media/yomitan_audio_6cdb3be20fb385020ef96a3fc6367886ccf3e032.ogg)
 #english #yomitan
 
 @English Vocabulary
@@ -1224,8 +1224,8 @@ Meaning: - *(noun, seth-oald-extra)*
 - *(verb, seth-oald-extra)* to clean somebody’s ear, a wound, etc. by spraying liquid into it with a syringe
 - I had my ears syringed.
 Sentence: syringes
-Image: ![](../../../media/proxy-image.png)
-Audio: ![](../../../media/yomitan_audio_8dad7bbc921444967c35d9d4f55b01ac4aa33efe.mp3)
+Image: ![](@/media/proxy-image.png)
+Audio: ![](@/media/yomitan_audio_8dad7bbc921444967c35d9d4f55b01ac4aa33efe.mp3)
 #english #yomitan
 
 @English Vocabulary
@@ -1236,7 +1236,7 @@ Meaning: - *(verb, seth-oald-extra)*
 - to damage something very badly
 - Intruders slashed and mutilated several paintings.
 Sentence: mutilate
-Audio: ![](../../../media/yomitan_audio_7a4cac83f89dbe9c6bcfc4f0ebffadea53a6e110.wav)
+Audio: ![](@/media/yomitan_audio_7a4cac83f89dbe9c6bcfc4f0ebffadea53a6e110.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -1244,7 +1244,7 @@ Expression: perusal
 Meaning: - *(noun, seth-oald-extra)* the act of reading something, especially in a careful way
 - The agreement was signed after careful perusal.
 Sentence: perusal
-Audio: ![](../../../media/yomitan_audio_4c97145ccc0a1d863c52c4e0d55edb073bfa2b16.wav)
+Audio: ![](@/media/yomitan_audio_4c97145ccc0a1d863c52c4e0d55edb073bfa2b16.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -1257,7 +1257,7 @@ Meaning: - *(noun, seth-oald-extra)*
 - *(verb, seth-oald-extra)* to spend time with somebody that other people do not approve of
 - Elected officials should not consort with gangsters.
 Sentence: consort
-Audio: ![](../../../media/yomitan_audio_4fda4b76588bbfd6846aca447d184dd67a9446c1.wav)
+Audio: ![](@/media/yomitan_audio_4fda4b76588bbfd6846aca447d184dd67a9446c1.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -1266,7 +1266,7 @@ Meaning: - *(adjective, seth-oald-extra)* eating meat; consisting of meat
 - carnivorous mammals/plants
 - a carnivorous diet
 Sentence: carnivorous
-Audio: ![](../../../media/yomitan_audio_d3c354eba9655d5c2e1a378e709db3d8d7702f27.wav)
+Audio: ![](@/media/yomitan_audio_d3c354eba9655d5c2e1a378e709db3d8d7702f27.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -1279,7 +1279,7 @@ Meaning: - *(noun, seth-oald-extra)* the act of printing a statement about someb
 - *(verb, seth-oald-extra)* to publish a written statement about somebody that is not true
 - He claimed he had been libelled in an article the magazine had published.
 Sentence: libel
-Audio: ![](../../../media/yomitan_audio_8d617a7c7816eaff56e84befc45a9a33a4d39d4b.wav)
+Audio: ![](@/media/yomitan_audio_8d617a7c7816eaff56e84befc45a9a33a4d39d4b.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -1292,7 +1292,7 @@ Meaning: - *(noun, seth-oald-extra)*
 - the splendours of Rome (= its fine buildings, etc.)
 - I've only just discovered the splendours of the English countryside.
 Sentence: splendour
-Audio: ![](../../../media/yomitan_audio_983b1a482480e88933d6f0cc937b27c852d8b3c6.wav)
+Audio: ![](@/media/yomitan_audio_983b1a482480e88933d6f0cc937b27c852d8b3c6.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -1302,7 +1302,7 @@ Meaning: - *(verb, seth-oald-extra)* to encourage somebody to do something viole
 - They were accused of inciting the crowd to violence.
 - He incited the workforce to come out on strike.
 Sentence: incites
-Audio: ![](../../../media/yomitan_audio_2d069ae56c9f3b41f85acf111820318dd44c2288.ogg)
+Audio: ![](@/media/yomitan_audio_2d069ae56c9f3b41f85acf111820318dd44c2288.ogg)
 #english #yomitan
 
 @English Vocabulary
@@ -1316,7 +1316,7 @@ Meaning: - *(noun, seth-oald-extra)*
 - an area of high ground
 - a castle on an eminence overlooking the river
 Sentence: eminence
-Audio: ![](../../../media/yomitan_audio_6f440a89b997f16a60f05fa09ac9ce0a179d21fc.wav)
+Audio: ![](@/media/yomitan_audio_6f440a89b997f16a60f05fa09ac9ce0a179d21fc.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -1330,7 +1330,7 @@ Meaning: - *(5K, noun, seth-oald-extra)*
 - a summit in Moscow
 - a summit conference
 Sentence: summit
-Audio: ![](../../../media/yomitan_audio_cc03ea4c008587d91d2718983f20de00e55e6c83.mp3)
+Audio: ![](@/media/yomitan_audio_cc03ea4c008587d91d2718983f20de00e55e6c83.mp3)
 #english #yomitan
 
 @English Vocabulary
@@ -1342,7 +1342,7 @@ Meaning: - *(adjective, seth-oald-extra)*
 - his magisterial work ‘The Roman Wall in Scotland’
 - connected with a magistrate
 Sentence: magisterial
-Audio: ![](../../../media/yomitan_audio_b7388a43476ba0200d438febde0928158e15d2f1.wav)
+Audio: ![](@/media/yomitan_audio_b7388a43476ba0200d438febde0928158e15d2f1.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -1352,7 +1352,7 @@ Meaning: - *(verb, phrasal, seth-oald-extra)*
 - to produce something quickly and without much thought or effort
 - I tossed off my article in half an hour.
 Sentence: toss off
-Audio: ![](../../../media/yomitan_audio_3c738b023308adf05258292fe5c956f0923b6a9b.wav)
+Audio: ![](@/media/yomitan_audio_3c738b023308adf05258292fe5c956f0923b6a9b.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -1366,7 +1366,7 @@ Meaning: - *(adjective, seth-oald-extra)*
 - relating to the farming of animals
 - agricultural and pastoral practices
 Sentence: pastoral
-Audio: ![](../../../media/yomitan_audio_191a39f7a872d9946c274a37a0c520e1be46dab0.wav)
+Audio: ![](@/media/yomitan_audio_191a39f7a872d9946c274a37a0c520e1be46dab0.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -1377,7 +1377,7 @@ Meaning: - *(verb, seth-oald-extra)* to have or express very sad feelings about 
 - *(noun, seth-oald-extra)* a song, poem, etc. in which you express very sad feelings about somebody who has died or about something that has ended
 - a nostalgic lament for lost love
 Sentence: lament
-Audio: ![](../../../media/yomitan_audio_5c121ad83c0fbfe7820e2c2df3b4119bce291279.ogg)
+Audio: ![](@/media/yomitan_audio_5c121ad83c0fbfe7820e2c2df3b4119bce291279.ogg)
 #english #yomitan
 
 @English Vocabulary
@@ -1385,8 +1385,8 @@ Expression: precipice
 Meaning: - *(noun, seth-oald-extra)* a very steep side of a high cliff, mountain or rock
 - The country was now on the edge of a precipice (= very close to disaster).
 Sentence: precipices
-Image: ![](../../../media/proxy-image.webp)
-Audio: ![](../../../media/yomitan_audio_9a3b3ab6bcc7664f08a43509b3edec5d2b24c9d1.wav)
+Image: ![](@/media/proxy-image.webp)
+Audio: ![](@/media/yomitan_audio_9a3b3ab6bcc7664f08a43509b3edec5d2b24c9d1.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -1396,7 +1396,7 @@ Meaning: - *(adjective, seth-oald-extra)* refusing to change your mind or your a
 - to remain obdurate
 - Some members of the committee are likely to prove obdurate on this matter.
 Sentence: obdurate
-Audio: ![](../../../media/yomitan_audio_e9ff370a1762f8fb30056413b3d985f0e9bc7806.ogg)
+Audio: ![](@/media/yomitan_audio_e9ff370a1762f8fb30056413b3d985f0e9bc7806.ogg)
 #english #yomitan
 
 @English Vocabulary
@@ -1421,7 +1421,7 @@ to drop your moral standards far enough to do something bad or unpleasant
 - the front stoop
 - We sat talking on the stoop until midnight.
 Sentence: stooping
-Audio: ![](../../../media/yomitan_audio_99411cc842c4b6c22e3f6094f5af9e602db2f707.wav)
+Audio: ![](@/media/yomitan_audio_99411cc842c4b6c22e3f6094f5af9e602db2f707.wav)
 #english #yomitan #suspended
 
 @English Vocabulary
@@ -1430,7 +1430,7 @@ Meaning: - *(adjective, seth-oald-extra)* clever and humorous
 - He was much in demand as a witty public speaker.
 - Somebody made a witty remark about needing a forklift truck.
 Sentence: witty
-Audio: ![](../../../media/yomitan_audio_4afdf5d8c2d36ceeed3fcf50202e134b5593afe0.wav)
+Audio: ![](@/media/yomitan_audio_4afdf5d8c2d36ceeed3fcf50202e134b5593afe0.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -1441,7 +1441,7 @@ Meaning: - *(noun, seth-oald-extra)*
 - the ability to think clearly, especially when somebody cannot usually do this
 - a rare moment of lucidity
 Sentence: lucidity
-Audio: ![](../../../media/yomitan_audio_a6ed73a05a0638d73bbb16b5671d3dcda1c63111.wav)
+Audio: ![](@/media/yomitan_audio_a6ed73a05a0638d73bbb16b5671d3dcda1c63111.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -1455,7 +1455,7 @@ Meaning: - *(adjective, seth-oald-extra)*
 - suitable for something
 - a situation that was congenial to the expression of nationalist opinions
 Sentence: congenial
-Audio: ![](../../../media/yomitan_audio_944db7bf89cf5c65937daa97e2796a9ec7d62d22.wav)
+Audio: ![](@/media/yomitan_audio_944db7bf89cf5c65937daa97e2796a9ec7d62d22.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -1466,7 +1466,7 @@ Meaning: - *(noun, seth-oald-extra)*
 - a gown of gossamer silk
 - the gossamer wings of a dragonfly
 Sentence: gossamer
-Audio: ![](../../../media/yomitan_audio_9ec7bbc10074a962138a89e004db390bf0db7a5f.ogg)
+Audio: ![](@/media/yomitan_audio_9ec7bbc10074a962138a89e004db390bf0db7a5f.ogg)
 #english #yomitan
 
 @English Vocabulary
@@ -1474,7 +1474,7 @@ Expression: besotted
 Meaning: - *(adjective, seth-oald-extra)* loving somebody/something so much that you do not behave in a sensible way
 - He is completely besotted with his new girlfriend.
 Sentence: besotted
-Audio: ![](../../../media/yomitan_audio_14c43d55bdeb622f45663ed3fd5ace5841f72d20.wav)
+Audio: ![](@/media/yomitan_audio_14c43d55bdeb622f45663ed3fd5ace5841f72d20.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -1486,14 +1486,14 @@ the world is your oyster
 there is no limit to the opportunities open to you
 - With talent like that, the world is her oyster.
 Sentence: oyster
-Image: ![](../../../media/proxy-image-f722aa41470d26a6b5c366d7635d27199472522d.jpg)
-Audio: ![](../../../media/yomitan_audio_d3d64937ee248acf829ef017cd9ec441ddadb048.mp3)
+Image: ![](@/media/proxy-image-f722aa41470d26a6b5c366d7635d27199472522d.jpg)
+Audio: ![](@/media/yomitan_audio_d3d64937ee248acf829ef017cd9ec441ddadb048.mp3)
 #english #yomitan
 
 @English Vocabulary
 Expression: playboy
 Meaning: - *(noun, seth-oald-extra)* a rich man who spends his time enjoying himself
-Audio: ![](../../../media/yomitan_audio_5761cb09a0fb3d3804a7e942fa0243aeab4b02fd.wav)
+Audio: ![](@/media/yomitan_audio_5761cb09a0fb3d3804a7e942fa0243aeab4b02fd.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -1506,7 +1506,7 @@ Meaning: - *(adjective, seth-oald-extra)*
 - having no useful or serious purpose
 - frivolous pastimes/pleasures
 Sentence: is his name for that internal clock, but applied to something utterly frivolous.
-Audio: ![](../../../media/yomitan_audio_121fcd4206d0a8d16f74af58d0d5cd3981248d5f.ogg)
+Audio: ![](@/media/yomitan_audio_121fcd4206d0a8d16f74af58d0d5cd3981248d5f.ogg)
 #english #yomitan
 
 @English Vocabulary
@@ -1514,7 +1514,7 @@ Expression: verisimilitude
 Meaning: - *(noun, seth-oald-extra)* the quality of seeming to be true or real
 - To add verisimilitude, the stage is covered with sand for the desert scenes.
 Sentence: verisimilitude
-Audio: ![](../../../media/yomitan_audio_690749dc889b5312874528ffacefe287a5418a31.wav)
+Audio: ![](@/media/yomitan_audio_690749dc889b5312874528ffacefe287a5418a31.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -1532,7 +1532,7 @@ Meaning: - *(noun, seth-oald-extra)*
 - This is a historic day in the annals of the team.
 - used in the title of academic journals
 - Annals of Science, vol. viii
-Audio: ![](../../../media/yomitan_audio_9c23536410b12bf71bde7c9bf4b2117df63ea2b5.wav)
+Audio: ![](@/media/yomitan_audio_9c23536410b12bf71bde7c9bf4b2117df63ea2b5.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -1544,7 +1544,7 @@ Meaning: - *(noun, seth-oald-extra)*
 - the act or process of forming an opinion, based on what you already know
 - He hid vital information from the press and, by inference, from the people (= it is logical to say so, from the same evidence).
 Sentence: inference
-Audio: ![](../../../media/yomitan_audio_ebf7fba5bb7d5be4397bfaeaf5d12ca11689907f.wav)
+Audio: ![](@/media/yomitan_audio_ebf7fba5bb7d5be4397bfaeaf5d12ca11689907f.wav)
 #english #yomitan #suspended
 
 @English Vocabulary
@@ -1554,7 +1554,7 @@ Meaning: - *(noun, seth-oald-extra)*
 - The film script is an amalgam of all three books.
 - an amalgam of several companies and organizations
 - a mixture of mercury and another metal, used especially to fill holes in teeth
-Audio: ![](../../../media/yomitan_audio_0711a2b9c31193021098a5f23b4db6b86e83501b.ogg)
+Audio: ![](@/media/yomitan_audio_0711a2b9c31193021098a5f23b4db6b86e83501b.ogg)
 #english #yomitan
 
 @English Vocabulary
@@ -1562,8 +1562,8 @@ Expression: peacock
 Meaning: - *(noun, seth-oald-extra)* a large male bird with long blue and green tail feathers that it can spread out like a fan
 - as proud as a peacock
 Sentence: peacock
-Image: ![](../../../media/proxy-image-bc72d727f6122595bae659b3e2c7c8789096d0bd.jpg)
-Audio: ![](../../../media/yomitan_audio_0dd7bcc1ec5521b1107b4781a3a521a056946037.wav)
+Image: ![](@/media/proxy-image-bc72d727f6122595bae659b3e2c7c8789096d0bd.jpg)
+Audio: ![](@/media/yomitan_audio_0dd7bcc1ec5521b1107b4781a3a521a056946037.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -1580,7 +1580,7 @@ Meaning: - *(noun, seth-oald-extra)*
 - Her broken leg was put in a plaster cast.
 - a copy of something, made from plaster of Paris
 - They took a plaster cast of the teeth for identification purposes.
-Audio: ![](../../../media/yomitan_audio_f1a614af59e4f7f48a197084a52148fa84f7458f.wav)
+Audio: ![](@/media/yomitan_audio_f1a614af59e4f7f48a197084a52148fa84f7458f.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -1590,7 +1590,7 @@ Meaning: - *(verb, seth-oald-extra)* to spread all over or through somebody/some
 - Colour suffused her face.
 - The room was suffused with a soft golden light.
 Sentence: suffuse
-Audio: ![](../../../media/yomitan_audio_c3c758991df1d0348f93c897ac6b02fa0e07c0df.ogg)
+Audio: ![](@/media/yomitan_audio_c3c758991df1d0348f93c897ac6b02fa0e07c0df.ogg)
 #english #yomitan
 
 @English Vocabulary
@@ -1599,14 +1599,14 @@ Meaning: - *(adjective, seth-oald-extra)* that is easily noticed by the mind or 
 - a palpable sense of relief
 - The tension in the room was almost palpable.
 - His statement is palpable nonsense.
-Audio: ![](../../../media/yomitan_audio_1bebd79a2437c99387cd8469cf10ad2f2097bd67.mp3)
+Audio: ![](@/media/yomitan_audio_1bebd79a2437c99387cd8469cf10ad2f2097bd67.mp3)
 #english #yomitan
 
 @English Vocabulary
 Expression: frolicsome
 Meaning: - *(adjective, seth-oald-extra)* playing in a lively happy way
 - frolicsome lambs
-Audio: ![](../../../media/yomitan_audio_9cb5e49e10d2b251c3a66b765247ecc4b96557ad.wav)
+Audio: ![](@/media/yomitan_audio_9cb5e49e10d2b251c3a66b765247ecc4b96557ad.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -1615,7 +1615,7 @@ Meaning: - *(noun, seth-oald-extra)*
 - the rise and fall of the voice in speaking
 - He delivered his words in slow, measured cadences.
 - the end of a musical phrase
-Audio: ![](../../../media/yomitan_audio_5488e21401bd0cb8fb29fb7a816a0f93cf5b13d3.wav)
+Audio: ![](@/media/yomitan_audio_5488e21401bd0cb8fb29fb7a816a0f93cf5b13d3.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -1623,7 +1623,7 @@ Expression: dirge
 Meaning: - *(noun, seth-oald-extra)*
 - a song sung in the past at a funeral or for a dead person
 - any song or piece of music that is too slow and sad
-Audio: ![](../../../media/yomitan_audio_a57bd45cc1f4f709b2061601c3a0d3649f913892.wav)
+Audio: ![](@/media/yomitan_audio_a57bd45cc1f4f709b2061601c3a0d3649f913892.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -1634,7 +1634,7 @@ Meaning: - *(noun, seth-oald-extra)*
 - any kind of rubbish that is left after an event or when something has been used
 - the detritus of everyday life
 - The kitchen table was still stacked with the detritus of the previous night.
-Audio: ![](../../../media/yomitan_audio_22bfbed95dff66dca8164e6f7d687281ba457433.wav)
+Audio: ![](@/media/yomitan_audio_22bfbed95dff66dca8164e6f7d687281ba457433.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -1642,7 +1642,7 @@ Expression: paraphernalia
 Meaning: - *(noun, seth-oald-extra)* a large number of objects or personal possessions, especially the equipment that you need for a particular activity
 - skiing paraphernalia
 - an electric kettle and all the paraphernalia for making tea and coffee
-Audio: ![](../../../media/yomitan_audio_71eb827bb5fb255c9cafc3915690f65a1280a2f7.ogg)
+Audio: ![](@/media/yomitan_audio_71eb827bb5fb255c9cafc3915690f65a1280a2f7.ogg)
 #english #yomitan
 
 @English Vocabulary
@@ -1662,7 +1662,7 @@ Meaning: - *(noun, seth-oald-extra)*
 - This year's monsoon rains are expected to flood several villages.
 - a wind in South Asia that blows from the south-west in summer, bringing rain, and the north-east in winter
 - The monsoon blew relentlessly into our faces.
-Audio: ![](../../../media/yomitan_audio_25cdb5627ae48e6bde51a3e389ba9851397b65a6.wav)
+Audio: ![](@/media/yomitan_audio_25cdb5627ae48e6bde51a3e389ba9851397b65a6.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -1673,13 +1673,13 @@ Meaning: - *(noun, seth-oald-extra)*
 - a type of motorcycle with a very long piece of metal connecting the front wheel to the handlebars
 - teeth
 Sentence: chopper
-Audio: ![](../../../media/yomitan_audio_d21ce1293bf97846b39789ab27a23450affde430.wav)
+Audio: ![](@/media/yomitan_audio_d21ce1293bf97846b39789ab27a23450affde430.wav)
 #english #yomitan
 
 @English Vocabulary
 Expression: incantation
 Meaning: - *(noun, seth-oald-extra)* special words that are spoken or sung to have a magic effect; the act of speaking or singing these words
-Audio: ![](../../../media/yomitan_audio_2006f30aa8479cd44437d13c5ca236a7a120d93f.ogg)
+Audio: ![](@/media/yomitan_audio_2006f30aa8479cd44437d13c5ca236a7a120d93f.ogg)
 #english #yomitan
 
 @English Vocabulary
@@ -1689,7 +1689,7 @@ Meaning: - *(verb, seth-oald-extra)* to persuade somebody not to do something
 - They were going to set off in the fog, but were dissuaded.
 - She made no attempt to dissuade him.
 Sentence: dissuade
-Audio: ![](../../../media/yomitan_audio_038b14c648ab595b231205140b07f5f41ee0977d.wav)
+Audio: ![](@/media/yomitan_audio_038b14c648ab595b231205140b07f5f41ee0977d.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -1702,7 +1702,7 @@ Meaning: - *(noun, seth-oald-extra)*
 - a pagan festival
 - used in the past by Christians in connection with people who did not believe in Christianity
 - The emperor closed all Roman pagan temples.
-Audio: ![](../../../media/yomitan_audio_f4bea015d80b63e963970e0d7e6ca250ca233a49.wav)
+Audio: ![](@/media/yomitan_audio_f4bea015d80b63e963970e0d7e6ca250ca233a49.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -1714,7 +1714,7 @@ Meaning: - *(noun, seth-oald-extra)*
 - the process of making something continue to exist
 - Elections are essential for the sustenance of parliamentary democracy.
 Sentence: sustenance
-Audio: ![](../../../media/yomitan_audio_1488c13ae608d3982a430293f628bac5b68cf4f9.wav)
+Audio: ![](@/media/yomitan_audio_1488c13ae608d3982a430293f628bac5b68cf4f9.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -1724,7 +1724,7 @@ Meaning: - *(noun, seth-oald-extra)* a person who helps another more important o
 - Inspector Morse and his trusted sidekick Sergeant Lewis
 - The show is about a detective and his trusty sidekick.
 Sentence: sidekick
-Audio: ![](../../../media/yomitan_audio_2a12cff75a237a2e129b5bd163085fcd3a0b3b1b.wav)
+Audio: ![](@/media/yomitan_audio_2a12cff75a237a2e129b5bd163085fcd3a0b3b1b.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -1742,7 +1742,7 @@ to almost do something
 by a whisker
 by a very small amount
 Sentence: whisker
-Audio: ![](../../../media/yomitan_audio_28f67ba1e6fb2a073e9f366ecc30be2953c17fb3.wav)
+Audio: ![](@/media/yomitan_audio_28f67ba1e6fb2a073e9f366ecc30be2953c17fb3.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -1822,14 +1822,14 @@ to make a trap for catching animals close suddenly
 spring a trap
 to try to trick somebody into doing or saying something; to succeed in this
 Sentence: sprang
-Audio: ![](../../../media/yomitan_audio_6ead0b865deb514de8cb7cfec2837b43de1d82e6.mp3)
+Audio: ![](@/media/yomitan_audio_6ead0b865deb514de8cb7cfec2837b43de1d82e6.mp3)
 #english #yomitan
 
 @English Vocabulary
 Expression: scribe
 Meaning: - *(noun, seth-oald-extra)* a person who made copies of written documents before printing was invented
 - Before paper was common, medieval scribes used parchment or vellum.
-Audio: ![](../../../media/yomitan_audio_466469ddb7cf84d5f350e67169c8a34f6ff0f4ed.wav)
+Audio: ![](@/media/yomitan_audio_466469ddb7cf84d5f350e67169c8a34f6ff0f4ed.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -1840,7 +1840,7 @@ Meaning: - *(verb, seth-oald-extra)* to trick or cheat somebody
 - *(noun, seth-oald-extra)* a person who is tricked or cheated
 - These men were simply the dupes of their unscrupulous leaders.
 Sentence: It's so dark you got duped.
-Audio: ![](../../../media/yomitan_audio_4a82d2f423a32b4a79b8484eba5331c829d65a1e.wav)
+Audio: ![](@/media/yomitan_audio_4a82d2f423a32b4a79b8484eba5331c829d65a1e.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -1855,13 +1855,13 @@ Meaning: - *(verb, seth-oald-extra)*
 - to repudiate a report
 - to refuse to be connected with somebody any longer
 - His party repudiated him after the scandal.
-Audio: ![](../../../media/yomitan_audio_dd674fad025a9a398ecd4ad31a98f42cd911b09b.ogg)
+Audio: ![](@/media/yomitan_audio_dd674fad025a9a398ecd4ad31a98f42cd911b09b.ogg)
 #english #yomitan
 
 @English Vocabulary
 Expression: recant
 Meaning: - *(verb, seth-oald-extra)* to say, often publicly, that you no longer have the same belief or opinion that you had before
-Audio: ![](../../../media/yomitan_audio_e3e3cb14285db8c56a9b085aa85bbaf0b778c5a6.wav)
+Audio: ![](@/media/yomitan_audio_e3e3cb14285db8c56a9b085aa85bbaf0b778c5a6.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -1872,7 +1872,7 @@ Meaning: - *(adjective, seth-oald-extra)*
 - His links with the organization turned out to be, at best, tenuous.
 - extremely thin and easily broken
 - the tenuous threads of a spider’s web
-Audio: ![](../../../media/yomitan_audio_a176bfed95f017b3929b8b0e846099e569674ca0.wav)
+Audio: ![](@/media/yomitan_audio_a176bfed95f017b3929b8b0e846099e569674ca0.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -1881,7 +1881,7 @@ Meaning: - *(verb, seth-oald-extra)* to make a feeling or situation exist
 - The issue engendered controversy.
 - problems engendered by the restructuring of the company
 - The place engendered immediate feelings of friendship and belonging.
-Audio: ![](../../../media/yomitan_audio_f6d46e4a952bc7d209e105444a299af8f390c8b0.ogg)
+Audio: ![](@/media/yomitan_audio_f6d46e4a952bc7d209e105444a299af8f390c8b0.ogg)
 #english #yomitan
 
 @English Vocabulary
@@ -1891,7 +1891,7 @@ Meaning: - *(verb, seth-oald-extra)*
 - an ossified political system
 - to become or make something hard like bone
 Sentence: ossify
-Audio: ![](../../../media/yomitan_audio_fb72634b12a93dae495eb9e2e9a19dc6cda741ab.ogg)
+Audio: ![](@/media/yomitan_audio_fb72634b12a93dae495eb9e2e9a19dc6cda741ab.ogg)
 #english #yomitan
 
 @English Vocabulary
@@ -1909,7 +1909,7 @@ Meaning: - *(noun, seth-oald-extra)* an idea suggested by a word in addition to 
 - negative connotations
 - It is important to understand the power of connotation.
 Sentence: The verb later comes to have sexual connotations, but throughout the hymn, the word contains a strong allusion to violence.
-Audio: ![](../../../media/yomitan_audio_167d3900f48ffb1edf83c32769ad583ce0bbda18.wav)
+Audio: ![](@/media/yomitan_audio_167d3900f48ffb1edf83c32769ad583ce0bbda18.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -1917,7 +1917,7 @@ Expression: milieu
 Meaning: - *(noun, seth-oald-extra)* the social environment that you live or work in
 - The findings of the report refer to a particular social and cultural milieu.
 Sentence: ough in this case the authors are not “first hand witnesses” to these events, we still consider the literary texts they produced to be primary sources, because their writing is a part of the cultural milieu it describes, and considered an “insider” perspective.
-Audio: ![](../../../media/yomitan_audio_9d3a53b423df848ead885b1829d4a731e65b5d3e.wav)
+Audio: ![](@/media/yomitan_audio_9d3a53b423df848ead885b1829d4a731e65b5d3e.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -1925,7 +1925,7 @@ Expression: minutiae
 Meaning: - *(noun, seth-oald-extra)* very small details
 - the minutiae of the contract
 Sentence: It’s easier to see the big picture when your mind isn’t full of all the minutiae.
-Audio: ![](../../../media/yomitan_audio_d4a9c03ed501d0fb3aad6049835a5b75e80dbc94.ogg)
+Audio: ![](@/media/yomitan_audio_d4a9c03ed501d0fb3aad6049835a5b75e80dbc94.ogg)
 #english #yomitan
 
 @English Vocabulary
@@ -1934,7 +1934,7 @@ Meaning: - *(verb, seth-oald-extra)* to act in a way that shows you are sorry fo
 - to atone for a crime
 - a desire to atone
 Sentence: I am here to atone for my foolishness.
-Audio: ![](../../../media/yomitan_audio_d052aa29e4ea8af4b6a69cdfbbdbada680fbbb78.mp3)
+Audio: ![](@/media/yomitan_audio_d052aa29e4ea8af4b6a69cdfbbdbada680fbbb78.mp3)
 #english #yomitan
 
 @English Vocabulary
@@ -1943,14 +1943,14 @@ Meaning: - *(noun, seth-oald-extra)* a danger or difficulty, especially one that
 - the potential pitfalls of buying a house
 - Getting professional advice will help you avoid the most obvious pitfalls.
 Sentence: pitfalls
-Audio: ![](../../../media/yomitan_audio_d596c8fa2373a3a7d55c8f1d29a40426507cf43e.ogg)
+Audio: ![](@/media/yomitan_audio_d596c8fa2373a3a7d55c8f1d29a40426507cf43e.ogg)
 #english #yomitan
 
 @English Vocabulary
 Expression: cacophony
 Meaning: - *(noun, seth-oald-extra)* a mixture of loud unpleasant sounds
 Sentence: cacophony
-Audio: ![](../../../media/yomitan_audio_22f560e613ad9dcd4f303472ffeb5121e875293f.wav)
+Audio: ![](@/media/yomitan_audio_22f560e613ad9dcd4f303472ffeb5121e875293f.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -1970,7 +1970,7 @@ Meaning: - *(adjective, seth-oald-extra)* existing in all parts of a place or th
 - A sense of social change is pervasive in her novels.
 - the increasingly pervasive subculture in modern society
 Sentence: pervasive
-Audio: ![](../../../media/yomitan_audio_1b210249cc7c629e27dae3670cbb0c88ad916472.ogg)
+Audio: ![](@/media/yomitan_audio_1b210249cc7c629e27dae3670cbb0c88ad916472.ogg)
 #english #yomitan
 
 @English Vocabulary
@@ -1979,7 +1979,7 @@ Meaning: - *(adjective, seth-oald-extra)* seeming to be everywhere or in several
 - the ubiquitous bicycles of university towns
 - the ubiquitous movie star, Tom Hanks
 Sentence: ubiquitous
-Audio: ![](../../../media/yomitan_audio_84f7f182df0a34a55c441748b8f0361d319e5c34.mp3)
+Audio: ![](@/media/yomitan_audio_84f7f182df0a34a55c441748b8f0361d319e5c34.mp3)
 #english #yomitan
 
 @English Vocabulary
@@ -1990,7 +1990,7 @@ Meaning: - *(noun, seth-oald-extra)*
 - a way of speaking a language that uses simple words and forms, used when a person does not speak the language well, or when talking to somebody who does not speak the language well
 - I tried to get my message across in my pidgin Italian.
 Sentence: pidgin
-Audio: ![](../../../media/yomitan_audio_6c50af7877ccd647bdd4cc6fc7f5aa4d5374f990.wav)
+Audio: ![](@/media/yomitan_audio_6c50af7877ccd647bdd4cc6fc7f5aa4d5374f990.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -2003,7 +2003,7 @@ Meaning: - *(noun, seth-oald-extra)*
 - Most of the population speak a creole with a French-derived vocabulary.
 - The two girls were speaking Creole.
 Sentence: creole
-Audio: ![](../../../media/yomitan_audio_cf2fd6ac851c6db3b183f12d0b338fe9a2a578b6.ogg)
+Audio: ![](@/media/yomitan_audio_cf2fd6ac851c6db3b183f12d0b338fe9a2a578b6.ogg)
 #english #yomitan #suspended
 
 @English Vocabulary
@@ -2012,7 +2012,7 @@ Meaning: - *(adverb-conjunction, seth-oald-extra)* in which place, situation or 
 - an organization wherein each employee is valued and respected
 - Wherein lies the difference between conservatism and liberalism?
 Sentence: Wherein we contemplate moving shaping, rasterization, font compilation, and general font inspection and manipulation from Python & C++ to Rust.
-Audio: ![](../../../media/yomitan_audio_12cf812e677f03c874129cf2eb985113a89daff4.ogg)
+Audio: ![](@/media/yomitan_audio_12cf812e677f03c874129cf2eb985113a89daff4.ogg)
 #english #yomitan
 
 @English Vocabulary
@@ -2027,7 +2027,7 @@ Meaning: - *(adjective, seth-oald-extra)*
 - a bland smile
 - After the meeting, a bland statement was issued.
 Sentence: bland
-Audio: ![](../../../media/yomitan_audio_3e52795ff12bfe80c7f1834e144e54d872f0e6bc.ogg)
+Audio: ![](@/media/yomitan_audio_3e52795ff12bfe80c7f1834e144e54d872f0e6bc.ogg)
 #english #yomitan
 
 @English Vocabulary
@@ -2050,7 +2050,7 @@ Idioms
 let somebody stew in their own juice
 to leave somebody to worry and suffer the unpleasant effects of their own actions
 Sentence: stew
-Audio: ![](../../../media/yomitan_audio_75c2aedae548fb6188f5e89434b21ab397a7b0fd.wav)
+Audio: ![](@/media/yomitan_audio_75c2aedae548fb6188f5e89434b21ab397a7b0fd.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -2062,14 +2062,14 @@ Meaning: - *(verb, seth-oald-extra)* to surprise somebody suddenly in a way that
 - She was startled into a little cry of surprise.
 - It startled me to find her sitting in my office.
 Sentence: startle
-Audio: ![](../../../media/yomitan_audio_44d2456f6d82a66ab20dc436fe4e94b4dca06d44.wav)
+Audio: ![](@/media/yomitan_audio_44d2456f6d82a66ab20dc436fe4e94b4dca06d44.wav)
 #english #yomitan
 
 @English Vocabulary
 Expression: symposium
 Meaning: - *(noun, seth-oald-extra)* a meeting at which experts have discussions about a particular subject; a small conference
 Sentence: A symposium is usually a meeting on a specific theme, somewhere between a workshop and a conference in size; the word is used loosely, and some major conferences call themselves symposia.
-Audio: ![](../../../media/yomitan_audio_a8c8b0153effd66724f1a15b12c6ad99d165a65f.wav)
+Audio: ![](@/media/yomitan_audio_a8c8b0153effd66724f1a15b12c6ad99d165a65f.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -2079,7 +2079,7 @@ Meaning: - *(adjective, seth-oald-extra)* looking pale and weak
 - She gave me a wan smile (= showing no energy or enthusiasm).
 - the wan sunlight of a winter’s morning
 Sentence: wan
-Audio: ![](../../../media/yomitan_audio_41e2c6ea8170ef66acc1cec4d654c66c353eab00.wav)
+Audio: ![](@/media/yomitan_audio_41e2c6ea8170ef66acc1cec4d654c66c353eab00.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -2088,7 +2088,7 @@ Meaning: - *(noun, seth-oald-extra)* a particular point or stage in an activity 
 - The battle had reached a crucial juncture.
 - At this juncture, I would like to make an important announcement.
 Sentence: Otaku (Japanese: おたく, オタク, or ヲタク) is a Japanese consumer subculture of people with interests and hobbies that lie at the juncture of science and fantasy, especially media, productions, and pastimes such as anime, manga, video games, virtual reality, and cosplay.
-Audio: ![](../../../media/yomitan_audio_485310693813c0ebcb2a32027d7711be359ad6b2.ogg)
+Audio: ![](@/media/yomitan_audio_485310693813c0ebcb2a32027d7711be359ad6b2.ogg)
 #english #yomitan
 
 @English Vocabulary
@@ -2099,7 +2099,7 @@ Meaning: - *(adjective, seth-oald-extra)* having no purpose because there is no 
 - It would be futile to protest.
 - My appeal proved futile.
 Sentence: futile
-Audio: ![](../../../media/yomitan_audio_a29f9660436528b33c5fe51e0b4b89ce827b57fe.wav)
+Audio: ![](@/media/yomitan_audio_a29f9660436528b33c5fe51e0b4b89ce827b57fe.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -2109,7 +2109,7 @@ Meaning: - *(adjective, seth-oald-extra)* starting from the beginning
 - *(adverb, seth-oald-extra)* from the beginning
 - The agreement was declared void ab initio.
 Sentence: We tend to think of intellectual activity as private and solitary: the philosopher sitting in his armchair, deriving the world *ab initio*.
-Audio: ![](../../../media/yomitan_audio_fb9a6ffab34679478f7c9a53e5d98e1804fe512c.wav)
+Audio: ![](@/media/yomitan_audio_fb9a6ffab34679478f7c9a53e5d98e1804fe512c.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -2124,7 +2124,7 @@ Meaning: - *(noun, seth-oald-extra)*
 - Obsessions and compulsions often develop in people who live stressful lives.
 - He felt a great compulsion to drive too fast.
 Sentence: Intrinsic motivation: we learn for the sake of learning, we create art from a compulsion we can’t understand, etc.
-Audio: ![](../../../media/yomitan_audio_987e3a8d89596dbeae1d9b47b70937686f848987.wav)
+Audio: ![](@/media/yomitan_audio_987e3a8d89596dbeae1d9b47b70937686f848987.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -2132,8 +2132,8 @@ Expression: shin
 Meaning: - *(noun, seth-oald-extra)* the front part of the leg below the knee
 - She had a nasty cut on her shin.
 Sentence: shin
-Image: ![](../../../media/330px-tibia_-_frontal_view.png)
-Audio: ![](../../../media/yomitan_audio_4cdc1f3f56699ac995c34c8ea945601e26db780b.ogg)
+Image: ![](@/media/330px-tibia_-_frontal_view.png)
+Audio: ![](@/media/yomitan_audio_4cdc1f3f56699ac995c34c8ea945601e26db780b.ogg)
 #english #yomitan
 
 @English Vocabulary
@@ -2142,7 +2142,7 @@ Meaning: - *(noun, seth-oald-extra)* the bottom edge of a dress or skirt; the le
 - Shorter hemlines are back in this season.
 - School rules state that hemlines must be below the knee.
 Sentence: hemline
-Audio: ![](../../../media/yomitan_audio_3aec93388bea3e5d276e9a4e31cb3f42eda58068.wav)
+Audio: ![](@/media/yomitan_audio_3aec93388bea3e5d276e9a4e31cb3f42eda58068.wav)
 #english #yomitan
 
 @English Vocabulary
@@ -2154,7 +2154,7 @@ Meaning: - *(verb, seth-oald-extra)*
 - to hide something, especially something small
 - The drugs were secreted in the lining of his case.
 Sentence: com⁠; FDA adverse events⁠) is a hormone⁠ secreted by the pineal gland⁠.
-Audio: ![](../../../media/yomitan_audio_59b6d86555829b4cecafbbdc641d20df0f438d24.ogg)
+Audio: ![](@/media/yomitan_audio_59b6d86555829b4cecafbbdc641d20df0f438d24.ogg)
 #english #yomitan
 
 @English Vocabulary

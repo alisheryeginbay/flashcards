@@ -1,19 +1,19 @@
 C: 저는 10분 [동안] 걸었어요. (I walked for 10 minutes)
 
-![](../../../media/hypertts-b38b7956c4cf87a2b4d3c2dffe5c2b1dd821e7a2d3a8fb82a1d77b07.mp3)
+![](@/media/hypertts-b38b7956c4cf87a2b4d3c2dffe5c2b1dd821e7a2d3a8fb82a1d77b07.mp3)
 
 C: 저는 그 사람을 [오] 초 동안 만났어요. (I met that person for 5 seconds)
 
-![](../../../media/hypertts-919ecb05fa7a533078efc3372fddf61f892862394ccc0cd89f6a72f9.mp3)
+![](@/media/hypertts-919ecb05fa7a533078efc3372fddf61f892862394ccc0cd89f6a72f9.mp3)
 
 C: 저는 [지난] 주에 영화를 봤어요. (I watched a movie last week.)
 
-![](../../../media/hypertts-dd6249d9b4bbf7e08a263fe367ddb3c71d42e190a30b87a279235367.mp3)
+![](@/media/hypertts-dd6249d9b4bbf7e08a263fe367ddb3c71d42e190a30b87a279235367.mp3)
 
 C: 저는 그 친구를 일주일[에] 한 번 만나요.
 (I meet that friend once a week.)
 
-![](../../../media/hypertts-baf3504cc5d42b9492e3729003e06d6f431493e1b5510531ed11a361.mp3)
+![](@/media/hypertts-baf3504cc5d42b9492e3729003e06d6f431493e1b5510531ed11a361.mp3)
 \[time period\] + 에 + \[number\] 번 → frequency ("X times per period")
 
 C: 나는 사과 [몇] 개를 샀어. (I bought *a few* apples.)

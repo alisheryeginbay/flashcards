@@ -57,7 +57,7 @@ Q: How to interactively replace the text in Emacs?
 A: `Meta` + `%`
 #emacs #suspended
 
-Q: ![](../../media/paste-317ca61aac49640ebdb0267649f7c428bd6c2da0.jpg)
+Q: ![](@/media/paste-317ca61aac49640ebdb0267649f7c428bd6c2da0.jpg)
 How to change the level of the current heading?
 A: M-Left Arrow or M-Right Arrow
 #emacs
@@ -66,7 +66,7 @@ Q: How to toggle the checkbox in Org Mode?
 A: `SPC` + `M` + `X`
 #emacs #org-mode #suspended
 
-Q: ![](../../media/paste-76bc068b940107159541e1cce95fef8bf0d8b3ff.jpg)
+Q: ![](@/media/paste-76bc068b940107159541e1cce95fef8bf0d8b3ff.jpg)
 How to run the code in Org Mode?
 A: `⌃+C` + `⌃+C`
 #emacs

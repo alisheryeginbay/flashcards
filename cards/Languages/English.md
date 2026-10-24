@@ -137,7 +137,7 @@ A: people who publicly oppose their government or any other established system
 
 Q: to sauté
 A: to fry in a small amount of fat
-![](../../media/hypertts-c72a06826e2d84c8fea5e0f2c18a1b10cc420581e81ca9ab47512535.mp3)
+![](@/media/hypertts-c72a06826e2d84c8fea5e0f2c18a1b10cc420581e81ca9ab47512535.mp3)
 #english #vocabulary
 
 Q: *It has now a dedicated event* or *It now has a dedicated event*? When does *now* go before or after "has"?

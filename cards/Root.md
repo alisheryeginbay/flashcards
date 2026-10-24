@@ -145,12 +145,6 @@ A: It is a one-sided emotional connection with someone, especially a celebrity o
 Functionality: What is the shortened version of the --remote-name flag in cURL?
 Flag: -O
 
-Q: ![](../media/f851f48d-60b3-43d2-8d7b-ba9c0b60d458_5472x3648.jpg)
-Where is this located?
-A: The Faroe Islands
-
-C: The Faroe Islands are part of [the Kingdom of Denmark].
-
 Q: How to insert a scheduling timestamp in Org Mode?
 A: `SPC` + `m` + `d` + `s`
 mnemonic: **m**ake **d**ate **s**chedule

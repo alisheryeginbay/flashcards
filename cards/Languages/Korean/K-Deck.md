@@ -2457,7 +2457,7 @@ Sentence: 오늘이 무슨 **요일**이에요?
 Sentence Audio: ![](@/media/hypertts-7b310ad1b432c2d02cbeec63713d41cd229b002927c32c842c856d72.mp3)
 Sentence Meaning: What day is it today?
 Grammar Breakdown: 무슨 요일 = what day of the week.
-#korean #leech
+#korean #leech #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 210
@@ -9871,7 +9871,7 @@ Sentence: **어린이**는 이 영화를 볼 수 없어요.
 Sentence Audio: ![](@/media/hypertts-0d588aada5d52e7529af12606b51fc4fe403372abf3a3f76ac15d1ba.mp3)
 Sentence Meaning: Children can't watch this movie.
 Grammar Breakdown: -(으)ㄹ 수 없다 = cannot.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 219
@@ -12976,7 +12976,7 @@ Sentence: 저는 서울이 아니라 **지방**에서 살아요.
 Sentence Audio: ![](@/media/hypertts-54961054fb45c65b066fbea4d6174f2fbfb6433178c0947ee3ba6d01.mp3)
 Sentence Meaning: I live in the provinces, not Seoul.
 Grammar Breakdown: -이 아니라 = not A but B.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 1444

@@ -260,7 +260,7 @@ A: - Verbal report
 - Internal reasoning
 - Flexible generalization
 - Selectivity
-#ai #interpretability #mechanistic-interpretability
+#ai #interpretability #mechanistic-interpretability #suspended
 
 Q: What technique is used to identify J-space internal representations?
 A: Jacobian Lens (J-lens)

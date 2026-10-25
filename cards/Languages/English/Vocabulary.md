@@ -704,7 +704,6 @@ to get yourself into a bad situation that will be very difficult to get out of
 - an occasion when an organized group of people dig in the ground to discover old buildings or objects, in order to find out more about their history
 - to go on a dig
 - an archaeological dig
-Sentence: dig heels
 Audio: ![](@/media/yomitan_audio_23bc9b61610f517a9444c620d0883401dca65bf9.wav)
 #english #yomitan #suspended
 
@@ -774,7 +773,6 @@ Meaning: - *(noun, seth-oald-extra)*
 - to put something in a position that is set back into a wall, etc.
 - The lights should be recessed into the ceiling.
 - recessed shelves
-Sentence: recesses
 Audio: ![](@/media/yomitan_audio_68c52fd22032d51207ab3efeecb83dbd0a5fcf6a.ogg)
 #english #yomitan
 
@@ -787,7 +785,6 @@ Meaning: - *(noun, seth-oald-extra)*
 - *(verb, seth-oald-extra)* to take or show somebody where they should go
 - The secretary ushered me into his office.
 - We were asked to leave and ushered out of the door.
-Sentence: usher into
 Audio: ![](@/media/yomitan_audio_7f4977a11c1a8a2f284adf4faf774555a1e502c8.wav)
 #english #yomitan
 
@@ -962,7 +959,6 @@ Meaning: - *(noun, seth-oald-extra)* one of the bars that forms a step in a ladd
 - She climbed the last few rungs of the ladder.
 - to get a foot on the bottom rung of the career ladder
 - She was a few rungs above him on the social ladder.
-Sentence: rungs
 Image: ![](@/media/proxy-image-b0f4dc9ce55834df33402b6fe3a1b5bc3d2c76c3.jpg)
 Audio: ![](@/media/yomitan_audio_45ac7af5819e123be1c3d4c33ab8f0f858dcfb10.wav)
 #english #yomitan
@@ -1048,7 +1044,6 @@ Idioms
 - The company was flush with funds at that time.
 - completely level with each other
 - Make sure the paving stones are flush with the lawn.
-Sentence: flushed
 Audio: ![](@/media/yomitan_audio_6872e69a591d9322628f0ab9889f1e83fc8e5163.wav)
 #english #yomitan #suspended
 
@@ -1167,7 +1162,6 @@ Meaning: - *(noun, seth-oald-extra)*
 - a plastic or glass tube with a rubber part at the end, used for taking liquid in and then pushing it out
 - *(verb, seth-oald-extra)* to clean somebody’s ear, a wound, etc. by spraying liquid into it with a syringe
 - I had my ears syringed.
-Sentence: syringes
 Image: ![](@/media/proxy-image.png)
 Audio: ![](@/media/yomitan_audio_8dad7bbc921444967c35d9d4f55b01ac4aa33efe.mp3)
 #english #yomitan
@@ -1239,7 +1233,6 @@ Meaning: - *(verb, seth-oald-extra)* to encourage somebody to do something viole
 - to incite crime/racial hatred/violence
 - They were accused of inciting the crowd to violence.
 - He incited the workforce to come out on strike.
-Sentence: incites
 Audio: ![](@/media/yomitan_audio_2d069ae56c9f3b41f85acf111820318dd44c2288.ogg)
 #english #yomitan
 
@@ -1316,7 +1309,6 @@ Audio: ![](@/media/yomitan_audio_5c121ad83c0fbfe7820e2c2df3b4119bce291279.ogg)
 Expression: precipice
 Meaning: - *(noun, seth-oald-extra)* a very steep side of a high cliff, mountain or rock
 - The country was now on the edge of a precipice (= very close to disaster).
-Sentence: precipices
 Image: ![](@/media/proxy-image.webp)
 Audio: ![](@/media/yomitan_audio_9a3b3ab6bcc7664f08a43509b3edec5d2b24c9d1.wav)
 #english #yomitan
@@ -1351,7 +1343,6 @@ to drop your moral standards far enough to do something bad or unpleasant
 - a raised area outside the door of a house with steps leading up to it
 - the front stoop
 - We sat talking on the stoop until midnight.
-Sentence: stooping
 Audio: ![](@/media/yomitan_audio_99411cc842c4b6c22e3f6094f5af9e602db2f707.wav)
 #english #yomitan #suspended
 
@@ -1734,7 +1725,6 @@ spring a trap
 to make a trap for catching animals close suddenly
 spring a trap
 to try to trick somebody into doing or saying something; to succeed in this
-Sentence: sprang
 Audio: ![](@/media/yomitan_audio_6ead0b865deb514de8cb7cfec2837b43de1d82e6.mp3)
 #english #yomitan
 
@@ -1854,7 +1844,6 @@ Expression: pitfall
 Meaning: - *(noun, seth-oald-extra)* a danger or difficulty, especially one that is hidden or not obvious at first
 - the potential pitfalls of buying a house
 - Getting professional advice will help you avoid the most obvious pitfalls.
-Sentence: pitfalls
 Audio: ![](@/media/yomitan_audio_d596c8fa2373a3a7d55c8f1d29a40426507cf43e.ogg)
 #english #yomitan
 

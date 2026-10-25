@@ -9450,7 +9450,7 @@ Grammar Breakdown: 물론이에요 = of course.
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 1087
 Word: 편하다
-Word Meaning: to be convenient, comfortable
+Word Meaning: to be convenient, comfortable (feeling)
 Word Audio: ![](@/media/hypertts-4f46116066079ba1c9c6a2b78bfe3b4c815cfaa15a6811aaeceb65bb.mp3)
 Hanja: 便
 Target Surface: 편해요
@@ -11311,7 +11311,7 @@ Grammar Breakdown: (으)로 marks the material.
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 857
 Word: 편리하다
-Word Meaning: to be convenient, handy
+Word Meaning: to be convenient, handy (practical convenience, e.g., apps / transportation / tools)
 Word Audio: ![](@/media/hypertts-ee8d8d595794b9f48d7f9456b1848b0f8db56aa7d958497c86082d87.mp3)
 Hanja: 便利
 Target Surface: 편리해요

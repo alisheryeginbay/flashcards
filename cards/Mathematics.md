@@ -292,3 +292,6 @@ T(z_1, \ldots, z_m) = z_1 v_1 + \cdots + z_m v_m.
 $$
 What property of $T$ corresponds to the list $v_1, \ldots, v_m$ being linearly independent?
 A: $v_1, \ldots, v_m$ is linearly independent if and only if $T$ is injective.
+
+Q: How to denote the partial derivative of a function $f(x, y, \ldots)$ with respect to the variable $x$?
+A: $f_{x}$ or $\frac{\partial f}{\partial x}$

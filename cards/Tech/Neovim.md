@@ -18,3 +18,6 @@ A: `c`
 
 Q: In Neovim's substitute command, what's the range value for the whole file?
 A: `%`
+
+Q: In Neovim, how to reload the current file from disk?
+A: `:e!`

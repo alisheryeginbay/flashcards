@@ -2540,7 +2540,6 @@ Number: 217
 Word: 그래서
 Word Meaning: therefore
 Word Audio: ![](@/media/hypertts-4fb941c55a32d703a6db2db60d436027727a79a9e1e9153ad27895bb.mp3)
-Image: ![](@/media/pose_hoppe_heart_schoolgirl.png)
 Target Surface: 그래서
 Sentence: 비가 왔어요. **그래서** 집에 있었어요.
 Sentence Audio: ![](@/media/hypertts-0bdefd05163c711dc7fa22ee16a3f4e7ec9227d1faa028f7aa4cfa82.mp3)
@@ -7205,7 +7204,7 @@ Sentence: 내일 사전을 **가져오세요**.
 Sentence Audio: ![](@/media/hypertts-eb859ecbc21c514a51f7aa18c35e3a42464672109e04605772f9fb1d.mp3)
 Sentence Meaning: Bring your dictionary tomorrow.
 Grammar Breakdown: 가져오다 → 가져오세요.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 619
@@ -14665,7 +14664,7 @@ Sentence: 이 소파는 정말 **편안해요**.
 Sentence Audio: ![](@/media/hypertts-4e93ecb38df7ea4dd025babece330aa12f3e60194a541da3931b959b.mp3)
 Sentence Meaning: This sofa is really comfortable.
 Grammar Breakdown: 편안하다 → 편안해요.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 1258

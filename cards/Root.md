@@ -1565,9 +1565,6 @@ Audio: ![](@/media/yomitan_audio_edfa6d32db304ddf0d825dabe146bef181032cd0.wav)
 Q: What was the route of Korean Air Lines flight 007?
 A: From New York City to Seoul via Anchorage.
 
-Q: What US state is Anchorage capital of?
-A: Alaska
-
 Q: How many people died during the Korean Air Lines Flight 007 incident?
 A: 246 passengers and 23 crew
 
@@ -1575,9 +1572,6 @@ A: 246 passengers and 23 crew
 Expression: memento mori
 Meaning: - *(noun, seth-oald-extra)* an object or symbol that reminds or warns you of death
 #yomitan
-
-Q: What is the capital of Alaska?
-A: Anchorage
 
 Q: What is RAND? (organization)
 A: A nonprofit global policy think tank, research institute, and public sector consulting firm.
@@ -2209,7 +2203,6 @@ Meaning: - *(adjective, seth-oald-extra)* stupid or silly; with no meaning
 - an inane remark
 - The last question was especially inane.
 - I wish you’d stop making these inane remarks!
-Sentence: inane
 Audio: ![](@/media/yomitan_audio_d6e402d83180c0f5c3472d7ee0088dc46b7a1a21.ogg)
 #yomitan
 
@@ -2280,7 +2273,6 @@ Sentence: vexing
 Expression: deign
 Meaning: - *(verb, seth-oald-extra)* to do something in a way that shows you think you are too important to do it
 - She just grunted, not deigning to look up from the page.
-Sentence: deign
 Audio: ![](@/media/yomitan_audio_8b45ffc5450f6efa656712bc86fa0b90923bf0f0.wav)
 #yomitan
 
@@ -2773,3 +2765,7 @@ Q: Suppose that $u_1, \ldots, u_m$ is linearly independent in $V$. Suppose also 
 What's the key idea?
 A: We keep adjoining $u_k$ into the list $B$, which is initially $w_1, \ldots, w_n$. At each step, the adjoined list consisting of $u$'s is linearly independent. So by the linear dependence lemma we can remove one of the $w$'s so that the list $B$ still spans $V$. At step $m$, we have added all the $u$'s. Thus there are at least as many $w$'s as $u$'s.
 #linear-algebra #mathematics
+
+Q: What's the meaning of 걸 in 걸어오다?
+A: It comes from 걷다 (to walk).
+#korean

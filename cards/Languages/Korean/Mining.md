@@ -9036,49 +9036,7 @@ asbplayer yomitan
 #asbplayer #yomitan
 
 Q: 편안하다
-A: 9999999
-편안하다
-- 펴난하다
-마음이 **편안해**져요
-First Definition 1/?
-- *(Adjective, KRDICT EN)* 편안하다 〔便安하다〕
-comfortable; being at ease
-One's body or mind being relaxed and good.
-See More
-- 편안한 분위기.
-- 편안한 옷차림.
-- 편안한 자세.
-- 편안하게 눕다.
-- 편안하게 지내다.
-- 의자가 편안하다.
-- 침대가 편안하다.
-- 나는 구두보다는 발이 편안한 운동화를 즐겨 신는다.
-- 나는 밤마다 마음을 편안하게 해 주는 음악을 틀고 명상을 한다.
-- 시험에 합격하고 나니 그동안의 긴장이 사라지면서 마음이 편안했다.
-- 바닥에 앉지 말고 여기 와서 의자에 편안하게 앉게나.
-Sentence1이 편안하다
-Full glossary
-- *(Adjective, KRDICT EN)* 편안하다 〔便安하다〕
-comfortable; being at ease
-One's body or mind being relaxed and good.
-See More
-- 편안한 분위기.
-- 편안한 옷차림.
-- 편안한 자세.
-- 편안하게 눕다.
-- 편안하게 지내다.
-- 의자가 편안하다.
-- 침대가 편안하다.
-- 나는 구두보다는 발이 편안한 운동화를 즐겨 신는다.
-- 나는 밤마다 마음을 편안하게 해 주는 음악을 틀고 명상을 한다.
-- 시험에 합격하고 나니 그동안의 긴장이 사라지면서 마음이 편안했다.
-- 바닥에 앉지 말고 여기 와서 의자에 편안하게 앉게나.
-Sentence1이 편안하다
-마음이 **편안해**져요
-Misc. info
-LEARN KOREAN naturally with this Vlog | Slow Korean & Real-Life Conversations - YouTube
-asbplayer yomitan
-#asbplayer #yomitan
+A: peaceful; at ease
 
 Q: 피부
 A: 980

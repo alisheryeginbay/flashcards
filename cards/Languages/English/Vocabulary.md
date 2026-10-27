@@ -1421,7 +1421,6 @@ Meaning: - *(adjective, seth-oald-extra)*
 - Her words seemed utterly frivolous.
 - having no useful or serious purpose
 - frivolous pastimes/pleasures
-Sentence: is his name for that internal clock, but applied to something utterly frivolous.
 Audio: ![](@/media/yomitan_audio_121fcd4206d0a8d16f74af58d0d5cd3981248d5f.ogg)
 #english #yomitan
 
@@ -1818,7 +1817,7 @@ Audio: ![](@/media/yomitan_audio_167d3900f48ffb1edf83c32769ad583ce0bbda18.wav)
 Expression: milieu
 Meaning: - *(noun, seth-oald-extra)* the social environment that you live or work in
 - The findings of the report refer to a particular social and cultural milieu.
-Sentence: ough in this case the authors are not “first hand witnesses” to these events, we still consider the literary texts they produced to be primary sources, because their writing is a part of the cultural milieu it describes, and considered an “insider” perspective.
+Sentence: their writing is a part of the cultural milieu it describes, and considered an “insider” perspective.
 Audio: ![](@/media/yomitan_audio_9d3a53b423df848ead885b1829d4a731e65b5d3e.wav)
 #english #yomitan
 
@@ -2041,7 +2040,6 @@ Meaning: - *(verb, seth-oald-extra)*
 - More saliva is secreted while chewing.
 - to hide something, especially something small
 - The drugs were secreted in the lining of his case.
-Sentence: com⁠; FDA adverse events⁠) is a hormone⁠ secreted by the pineal gland⁠.
 Audio: ![](@/media/yomitan_audio_59b6d86555829b4cecafbbdc641d20df0f438d24.ogg)
 #english #yomitan
 

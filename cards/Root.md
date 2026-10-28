@@ -2769,3 +2769,9 @@ A: We keep adjoining $u_k$ into the list $B$, which is initially $w_1, \ldots, w
 Q: What's the meaning of 걸 in 걸어오다?
 A: It comes from 걷다 (to walk).
 #korean
+
+Q: What types of Sun's UV mostly reach the Earth?
+A: UVA and UVB
+
+Q: What percentage of the Sun's ultraviolet radiation that reaches the Earth's surface is the longer wavelengths of UVA?
+A: 95%

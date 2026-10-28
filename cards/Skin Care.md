@@ -42,3 +42,9 @@ A: About two finger-lengths.
 
 Q: How often should I reapply the sunscreen?
 A: Every 2 hours of continuous sun exposure, or after swimming or heavy sweating.
+
+Q: What are the easy-to-miss spots on the face when applying sunscreen?
+A: Hairline, around the nostrils, around the eyes, and along the jawline.
+
+Q: What are the easy-to-miss spots beyond the face when applying sunscreen?
+A: Ears and neck.

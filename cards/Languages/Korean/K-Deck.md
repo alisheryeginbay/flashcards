@@ -978,7 +978,6 @@ Number: 67
 Word: 여기
 Word Meaning: here
 Word Audio: ![](@/media/hypertts-caec3f75d9c36e663dc4ff2d9ff3ec2bfcf6f7aafaa8bae975868d7d.mp3)
-Image: ![](@/media/pose_hoppe_heart_schoolgirl.png)
 Target Surface: 여기
 Sentence: **여기**가 어디예요?
 Sentence Audio: ![](@/media/hypertts-860242fc1690e761b47289462835da835e4d83a32dae876d60fcae81.mp3)
@@ -2110,7 +2109,6 @@ Number: 157
 Word: 더
 Word Meaning: more
 Word Audio: ![](@/media/hypertts-5b8f034672cd69b2ee2195e281e38166ce6df936fa059f7a025db712.mp3)
-Image: ![](@/media/ojisan3_tehe.png)
 Target Surface: 더
 Sentence: **더** 주세요.
 Sentence Audio: ![](@/media/hypertts-dbdde7dfc1ad5b72b76a3abb17f8366973f4ed903f61f4603a4cc7b1.mp3)
@@ -14293,7 +14291,6 @@ Hanja: 姑母
 Target Surface: 고모
 Sentence: **고모**는 아빠의 여동생이에요.
 Sentence Audio: ![](@/media/hypertts-813321dedc92a039c1bf5b1137838b68aeecc4153dc60dcb08330788.mp3)
-Sentence Meaning: 고모 is Dad's younger sister.
 Grammar Breakdown: 고모: father's sister; 이모: mother's.
 #korean
 

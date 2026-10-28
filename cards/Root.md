@@ -1722,13 +1722,6 @@ Sentence: means 'hill of testimony' in the Bible – Genesis 31:21) is based on 
 Audio: ![](@/media/yomitan_audio_5324583250fd6e44a6a3b85db5799d2962c486bb.wav)
 #yomitan
 
-@English Vocabulary
-Expression: nephew
-Meaning: - *(noun, seth-oald-extra)* the son of your brother or sister; the son of your husband’s or wife’s brother or sister
-Sentence: Daniel was the son of Johann Bernoulli (one of the early developers of calculus) and a nephew of Jacob Bernoulli (an early researcher in probability theory and the discoverer of the mathematical constant e).
-Audio: ![](@/media/yomitan_audio_45c7fa8134f89907905fbece58b0c23819178893.wav)
-#yomitan
-
 Q: What unit is the nat symbol of?
 A: The natural unit of information.
 
@@ -1807,7 +1800,7 @@ to become shyer and avoid talking to other people
 - to remove the shell or outer layer from nuts, peas, etc.
 Sentence: A shell, in a modern military context, is a projectile whose payload contains an explosive, incendiary, or other chemical filling.
 Audio: ![](@/media/yomitan_audio_e0e78c55f43b92cb39de7fbfefff9c9926e0c5d0.wav)
-#yomitan
+#yomitan #suspended
 
 @English Vocabulary
 Expression: ammunition
@@ -2775,3 +2768,7 @@ A: UVA and UVB
 
 Q: What percentage of the Sun's ultraviolet radiation that reaches the Earth's surface is the longer wavelengths of UVA?
 A: 95%
+
+C: [A niece] is [the daughter of your brother or sister (or of your spouse’s sibling)]
+
+C: [A nephew] is [the son of your brother or sister (or of your spouse’s sibling)]

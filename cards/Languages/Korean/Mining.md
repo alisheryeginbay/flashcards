@@ -11029,40 +11029,7 @@ asbplayer yomitan
 #asbplayer #yomitan
 
 Q: 빨대
-A: 12616
-- CC100-Korean: 12616
-빨대
-- 빨때
-**빨대**
-First Definition 1/?
-- *(Noun, KRDICT EN)* 빨대
-straw
-A slender tube used for sucking up water or drink.
-See More
-- 빨대를 꽂다.
-- 빨대를 물다.
-- 빨대를 입에 대다.
-- 빨대로 마시다.
-- 지수는 빨대로 음료수를 쪽쪽 들이마시고 있었다.
-- 엄마는 아이가 우유를 흘리지 않도록 빨대를 꽂아 주었다.
-- 손님, 여기 주문하신 음료가 나왔습니다.
-Full glossary
-- *(Noun, KRDICT EN)* 빨대
-straw
-A slender tube used for sucking up water or drink.
-See More
-- 빨대를 꽂다.
-- 빨대를 물다.
-- 빨대를 입에 대다.
-- 빨대로 마시다.
-- 지수는 빨대로 음료수를 쪽쪽 들이마시고 있었다.
-- 엄마는 아이가 우유를 흘리지 않도록 빨대를 꽂아 주었다.
-- 손님, 여기 주문하신 음료가 나왔습니다.
-**빨대**
-Misc. info
-If You’re a BEGINNER, WATCH THIS! | Comprehensible Korean Input at a Convenience Store - YouTube
-asbplayer yomitan
-#asbplayer #yomitan
+A: straw
 
 Q: 쓰레기
 A: 2986

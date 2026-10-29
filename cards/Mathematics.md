@@ -295,3 +295,18 @@ A: $v_1, \ldots, v_m$ is linearly independent if and only if $T$ is injective.
 
 Q: How to denote the partial derivative of a function $f(x, y, \ldots)$ with respect to the variable $x$?
 A: $f_{x}$ or $\frac{\partial f}{\partial x}$
+
+Q: What does univariate mean?
+A: Having a single variable.
+
+Q: What's the derivative of $f(x)g(x)$?
+A: $f'(x)g(x) + f(x)g'(x)$
+#mathematics #calculus
+
+Q: What's the derivative of $f(x) + g(x)$?
+A: $f'(x) + g'(x)$
+#mathematics #calculus
+
+Q: What's the derivative of $g(f(x))$?
+A: $g'(f(x))f'(x)$
+#mathematics #calculus

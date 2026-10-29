@@ -4491,7 +4491,7 @@ Sentence: 오늘은 날씨가 **따뜻해요**.
 Sentence Audio: ![](@/media/hypertts-099d6b49fe8c1d0eeaea6c73d3325982b475ee79d0f9411492eb948a.mp3)
 Sentence Meaning: The weather is warm today.
 Grammar Breakdown: 따뜻하다 → 따뜻해요.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 309
@@ -10308,7 +10308,7 @@ Sentence: 시장에 **갔다올게요**.
 Sentence Audio: ![](@/media/hypertts-1a20dd8607f7251a40ed3a06200f107262dd9f265a9c736be1707e4d.mp3)
 Sentence Meaning: I'll pop out to the market.
 Grammar Breakdown: 갔다오다 = to go and come back.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 785
@@ -11434,7 +11434,7 @@ Sentence: **현재** 시간은 오후 세 시예요.
 Sentence Audio: ![](@/media/hypertts-fd7cbd99c38ade4a40c23cbc220cbe2c87936f75c3b2086d06b30310.mp3)
 Sentence Meaning: The current time is 3 p.m.
 Grammar Breakdown: 현재 = the present.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 773
@@ -17621,7 +17621,7 @@ Sentence: 여름에는 **삼계탕**을 먹어요.
 Sentence Audio: ![](@/media/hypertts-5461f19788b17bc997602ec5633eb9ae8637b0996d69936717f242cd.mp3)
 Sentence Meaning: In summer, people eat samgyetang.
 Grammar Breakdown: A Korean summer custom.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 1046

@@ -556,7 +556,6 @@ Meaning: - to persuade or trick somebody to go somewhere or to do something by p
 - Few can resist the lure of adventure.
 - She can’t resist the lure of the bright lights.
 - a thing that is used to attract fish or animals, so that they can be caught
-Sentence: **lure**
 Audio: ![](@/media/yomitan_audio_049de1481f928ae27a3c3d52515014568e438df0.ogg)
 #yomitan
 
@@ -2772,3 +2771,5 @@ A: 95%
 C: [A niece] is [the daughter of your brother or sister (or of your spouse’s sibling)]
 
 C: [A nephew] is [the son of your brother or sister (or of your spouse’s sibling)]
+
+C: UBI stands for [universal basic income].

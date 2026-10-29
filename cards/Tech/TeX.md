@@ -2,7 +2,7 @@ Q: How to type in blackboard bold using TeX? For instance, $\mathbb{R}$, $\mathb
 A: \\mathbb{}
 
 Q: How to type in calligraphic font? For instance, $\mathcal{F}$, $\mathcal{S}$.
-A: \\mathcal{}
+A: `\mathcal{}`
 
 Q: How to type in bold, upright text using TeX? For instance, $\mathbf{v}$, $\mathbf{A}$.
 A: `\mathbf{}`

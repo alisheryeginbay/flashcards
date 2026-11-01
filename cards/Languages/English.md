@@ -153,3 +153,12 @@ A: *Уксус*
 Q: Уксус in English?
 A: *Vinegar*
 #english #russian
+
+Q: A millennium
+A: A period of one thousand years.
+
+Q: What does the idiom "I'm onto you" mean?
+A: I’ve figured out what you’re up to.
+
+Q: What's the difference of "pass on" from "pass"?
+A: You got something from someone and are passing it further.

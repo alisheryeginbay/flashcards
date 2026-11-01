@@ -2815,3 +2815,21 @@ A: A type of ownership in which units in a building are separately owned, while 
 
 Q: What's the short for condominium?
 A: Condo
+
+Q: What's a printing press?
+A: A machine that applies pressure to transfer ink onto a surface made of paper, cloth, or a similar material.
+
+Q: Who invented the printing press?
+A: Johaness Gutenberg
+
+Q: Who's a goldsmith?
+A: A metalworker who specializes in working with gold or other precious metals.
+
+Q: What's IPA acronym for?
+A: International Phonetic Alphabet
+
+Q: What's a movable type?
+A: A system that uses movable components to reproduce the elements of a document, e.g. letters or characters.
+
+Q: What's a scroll?
+A: A roll of paper, papyrus, or parchment containing writing.

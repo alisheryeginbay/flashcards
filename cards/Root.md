@@ -2786,7 +2786,8 @@ A: yes in my back yard
 Q: What's a story? ("storey" in Commonwealth English)
 A: Any level part of a building that could be used by people.
 
-Q: What's a duplex? A: A building that has two living units attached to each other.
+Q: What's a duplex?
+A: A building that has two living units attached to each other.
 
 Q: What's a townhouse?
 A: One home in a row of attached houses, usually multi-story, sharing side walls with its neighbors.

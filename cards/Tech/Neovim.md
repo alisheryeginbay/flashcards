@@ -21,3 +21,6 @@ A: `%`
 
 Q: In Neovim, how to reload the current file from disk?
 A: `:e!`
+
+Q: In Neovim, how to clear the current highlights?
+A: `:noh`

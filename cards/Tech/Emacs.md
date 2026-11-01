@@ -115,7 +115,7 @@ SCHEDULED: <2026-09-21 Mon .+1w>
 Where this date would move after being marked DONE?
 A: <2026-10-14 Wed .+1w>
 Exactly 1 week from now.
-#emacs #org-mode
+#emacs #org-mode #suspended
 
 Q: What is Emacs an acronym for?
 A: Editor Macros

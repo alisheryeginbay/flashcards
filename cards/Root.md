@@ -28,7 +28,7 @@ A: \~41M (2026) — huge land, small population
 
 Q: Population of California?
 A: \~39M (2026) — most populous US state; ≈ all of Canada
-#population
+#population #suspended
 
 Q: Population of San Francisco (city proper)?
 A: \~870K (2026) — under a million
@@ -580,7 +580,6 @@ Expression: epitomize
 Meaning: - to be a perfect example of something
 - The fighting qualities of the team are epitomized by the captain.
 - These movies seem to epitomize the 1950s.
-Sentence: **Epitomizing**
 Audio: ![](@/media/yomitan_audio_2700bb9912db39b77864b186ac11c92715cac095.wav)
 #yomitan
 
@@ -1118,7 +1117,7 @@ Meaning: - *(noun, seth-oald-extra)* a piece of equipment used for testing new m
 - The country is an ideal test bed for emerging technologies.
 Sentence: This school will be one of the first test beds of how technology can be used to enhance learning.
 Audio: ![](@/media/yomitan_audio_5d50d1a6e6658094eafef87b8e0723efec2b130a.ogg)
-#yomitan
+#yomitan #suspended
 
 Q: What types of datasets did Othello-GPT paper use?
 A: "Championship" and "synthetic"
@@ -1719,7 +1718,7 @@ Meaning: - *(5K, noun, seth-oald-extra)*
 - Can I refuse to give testimony?
 Sentence: means 'hill of testimony' in the Bible – Genesis 31:21) is based on the real town of Tabor, Iowa, located in the southwest corner of the state and well known for its importance in the abolition movement.
 Audio: ![](@/media/yomitan_audio_5324583250fd6e44a6a3b85db5799d2962c486bb.wav)
-#yomitan
+#yomitan #suspended
 
 Q: What unit is the nat symbol of?
 A: The natural unit of information.
@@ -2036,7 +2035,6 @@ Meaning: - *(noun, seth-oald-extra)* a very deep wide space or hole that seems t
 - an abyss of ignorance/despair/loneliness
 - The country is stepping back from the edge of an abyss.
 - teetering on the edge of the abyss of total political wipeout
-Sentence: abyss
 Audio: ![](@/media/yomitan_audio_9d990a7deecc1b783a03e4787c72acefc940fbef.wav)
 #yomitan
 
@@ -2050,14 +2048,12 @@ Meaning: - *(noun, seth-oald-extra)*
 - to draw the cork
 - Champagne corks were popping (= people were celebrating).
 - *(verb, seth-oald-extra)* to close a bottle with a cork
-Sentence: cork
 Audio: ![](@/media/yomitan_audio_94ac8bb66eea33227f3f8bd58f9752ff8554e781.wav)
 #yomitan
 
 @English Vocabulary
 Expression: uncork
 Meaning: - *(verb, seth-oald-extra)* to open a bottle by removing the cork from the top
-Sentence: uncork
 Audio: ![](@/media/yomitan_audio_f801d883d8c7d9e48fc98b995eac73662e904a42.wav)
 #yomitan
 
@@ -2773,3 +2769,14 @@ C: [A niece] is [the daughter of your brother or sister (or of your spouse’s s
 C: [A nephew] is [the son of your brother or sister (or of your spouse’s sibling)]
 
 C: UBI stands for [universal basic income].
+
+Q: What does the "Cunningham's law" state?
+A: "The best way to get the right answer on the Internet is not to ask a question; it's to post the wrong answer."
+
+Q: "The best way to get the right answer on the Internet is not to ask a question; it's to post the wrong answer."
+What is this idea most commonly known as?
+A: Cunningham's law
+
+Q: When's Petrov Day?
+A: 26 September
+

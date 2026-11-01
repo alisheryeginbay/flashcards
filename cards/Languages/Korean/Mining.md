@@ -4007,7 +4007,7 @@ See More
 Misc. info
 COMPLETE Beginner Korean #9 \[Lv.A0\] - YouTube
 asbplayer yomitan
-#asbplayer #yomitan
+#asbplayer #yomitan #suspended
 
 Q: 초록색
 A: 9999999
@@ -6629,51 +6629,8 @@ asbplayer leech yomitan
 #asbplayer #leech #yomitan
 
 Q: 천장
-A: 5218
-- CC100-Korean: 5218
-천장
-- 천장
-- 천ː장
-- *(hanja)* 【天障】
-天 - 하늘 천, sky, heaven; god, celestial (4)
-障 - 막을 장, separate; shield; barricade (14)
-**천장**을 봐요.
-First Definition 1/?
-- *(⭐⭐, Noun, KRDICT EN)* 천장 〔天障〕
-ceiling
-The overhead interior surface of a building.
-See More
-- 유리 천장.
-- 천장과 바닥.
-- 천장이 낮다.
-- 천장이 높다.
-- 천장이 내려앉다.
-- 천장이 무너지다.
-- 우리 집 천장에는 화려한 전등이 달려 있다.
-- 나는 몸이 아파 천장만 바라보고 누워있는 어머니께 죽을 가져다 드렸다.
-- 비만 오면 천장에서 물이 떨어져요.
-Full glossary
-- *(⭐⭐, Noun, KRDICT EN)* 천장 〔天障〕
-ceiling
-The overhead interior surface of a building.
-See More
-- 유리 천장.
-- 천장과 바닥.
-- 천장이 낮다.
-- 천장이 높다.
-- 천장이 내려앉다.
-- 천장이 무너지다.
-- 우리 집 천장에는 화려한 전등이 달려 있다.
-- 나는 몸이 아파 천장만 바라보고 누워있는 어머니께 죽을 가져다 드렸다.
-- 비만 오면 천장에서 물이 떨어져요.
-- *(hanja)* 【天障】
-天 - 하늘 천, sky, heaven; god, celestial (4)
-障 - 막을 장, separate; shield; barricade (14)
-**천장**을 봐요.
-Misc. info
-COMPLETE Beginner Korean #12 \[Lv.A0\] - YouTube
-asbplayer yomitan
-#asbplayer #yomitan
+A: ceiling
+#korean #vocabulary
 
 Q: 벽
 A: 1719
@@ -10399,60 +10356,8 @@ asbplayer yomitan
 #asbplayer #yomitan
 
 Q: 구름
-A: 1904
-- CC100-Korean: 1904
-구름
-- 구름
-**구름**, 구름이 있어요
-First Definition 1/?
-- *(⭐⭐⭐, Noun, KRDICT EN)* 구름
-cloud
-A mass of liquid droplets or tiny ice pieces floating in the sky.
-See More
-- 검은 구름.
-- 엷은 구름.
-- 흰 구름.
-- 구름 사이.
-- 구름 속.
-- 구름이 걷히다.
-- 구름이 깔리다.
-- 구름이 끼다.
-- 구름이 덮이다.
-- 구름이 되다.
-- 구름이 떠 있다.
-- 구름이 일다.
-- 구름에 가리다.
-- 구름 사이로 무지개가 보였다.
-- 비가 오려는지 하늘에 잿빛 구름이 가득 끼었다.
-- 하늘의 짙은 구름 뒤에는 아름다운 해가 빛나고 있다.
-- 엄마, 하늘의 구름이 꼭 솜사탕 같아요.
-Full glossary
-- *(⭐⭐⭐, Noun, KRDICT EN)* 구름
-cloud
-A mass of liquid droplets or tiny ice pieces floating in the sky.
-See More
-- 검은 구름.
-- 엷은 구름.
-- 흰 구름.
-- 구름 사이.
-- 구름 속.
-- 구름이 걷히다.
-- 구름이 깔리다.
-- 구름이 끼다.
-- 구름이 덮이다.
-- 구름이 되다.
-- 구름이 떠 있다.
-- 구름이 일다.
-- 구름에 가리다.
-- 구름 사이로 무지개가 보였다.
-- 비가 오려는지 하늘에 잿빛 구름이 가득 끼었다.
-- 하늘의 짙은 구름 뒤에는 아름다운 해가 빛나고 있다.
-- 엄마, 하늘의 구름이 꼭 솜사탕 같아요.
-**구름**, 구름이 있어요
-Misc. info
-If You’re a BEGINNER, WATCH THIS! | Comprehensible Korean Input at the Airport ✈️ - YouTube
-asbplayer yomitan
-#asbplayer #yomitan
+A: cloud
+#korean #vocabulary
 
 Q: 간식
 A: 3657
@@ -11439,7 +11344,7 @@ See More
 Misc. info
 Lesson 11: 동안, Seconds, Minutes, Hours, Days, Weeks, Months, Years
 yomitan
-#yomitan
+#yomitan #suspended
 
 Q: 요리하다
 A: 9999999

@@ -5958,7 +5958,6 @@ Grammar Breakdown: 넣다 → 넣었어요.
 Number: 750
 Word: 끝내다
 Word Meaning: to finish (something)
-passive of 끝다?
 Word Audio: ![](@/media/hypertts-b4a2a19b39b801e5c9e8469f7c64309dded42e8d9da780101b4cf66b.mp3)
 Target Surface: 끝내고
 Sentence: 숙제를 빨리 **끝내고** 놀고 싶어요.
@@ -7064,7 +7063,7 @@ Sentence: **지갑**을 집에 놓고 왔어요.
 Sentence Audio: ![](@/media/hypertts-d35e1994ec04d16ebd0f4426f59cd4a61eb38b001a08417908dbd43f.mp3)
 Sentence Meaning: I left my wallet at home.
 Grammar Breakdown: 놓고 오다 = to leave something behind.
-#korean #vocabulary
+#korean #vocabulary #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 576
@@ -11241,7 +11240,7 @@ Sentence: 혼자 살면 가끔 **외로워요**.
 Sentence Audio: ![](@/media/hypertts-e07a3e7d752e508027025da433ba833c0ff901bdc2ffd5003fcddf52.mp3)
 Sentence Meaning: Living alone, you sometimes get lonely.
 Grammar Breakdown: 외롭다 → 외로워요: ㅂ irregular.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 1123
@@ -11521,7 +11520,7 @@ Sentence: 물 좀 **갖다주세요**.
 Sentence Audio: ![](@/media/hypertts-bb81869938f7409bd34c6fd0ec68d978226b77ac8bbece5a66255bed.mp3)
 Sentence Meaning: Please bring me some water.
 Grammar Breakdown: 갖다주다 = to bring over.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 1331
@@ -13699,7 +13698,7 @@ Sentence: 이 산을 **넘으면** 바다가 보여요.
 Sentence Audio: ![](@/media/hypertts-b1d18ddd2a68c7aebe9ab5d767a114a71a9c54d9b142f2fe7f950b7c.mp3)
 Sentence Meaning: Over this mountain you can see the sea.
 Grammar Breakdown: 산을 넘다 = to cross a mountain.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 862
@@ -13773,7 +13772,7 @@ Sentence: 민수는 새 차를 **자랑했어요**.
 Sentence Audio: ![](@/media/hypertts-948148f4639d82816baf4271bddcef87f9b3014854f68c5fb6008972.mp3)
 Sentence Meaning: Minsu showed off his new car.
 Grammar Breakdown: 자랑하다 = to show off.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 1259
@@ -13799,7 +13798,7 @@ Sentence: 학교 **전체**가 그 소식을 알아요.
 Sentence Audio: ![](@/media/hypertts-7094ab7311d83093564a72a75c3d33d45dcdb6c27886392cd3e73fdb.mp3)
 Sentence Meaning: The whole school knows that news.
 Grammar Breakdown: 전체 = the whole.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 1280
@@ -14171,7 +14170,7 @@ Grammar Breakdown: 대구: city famous for hot summers.
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 1270
 Word: 흐르다
-Word Meaning: to flow; to overflow;; to elapse
+Word Meaning: to flow; to overflow; to elapse
 Word Audio: ![](@/media/hypertts-5bcd15f1d4a45bd229d976d7597c33a3cade3a4bc88d988d175e33ca.mp3)
 Target Surface: 흘러요
 Sentence: 마을 옆에 강이 **흘러요**.
@@ -14216,7 +14215,7 @@ Sentence: 머리를 **짧게** 잘랐어요.
 Sentence Audio: ![](@/media/hypertts-e75fc9a0e2dd06bcd37dc70afe2da0de98c1f72b9daae125fba11ac4.mp3)
 Sentence Meaning: I cut my hair short.
 Grammar Breakdown: -게 turns an adjective into an adverb.
-#korean
+#korean #to-fix
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 1279

@@ -1,5 +1,5 @@
 Q: How to type in blackboard bold using TeX? For instance, $\mathbb{R}$, $\mathbb{N}$, $\mathbb{Z}$.
-A: \\mathbb{}
+A: `\mathbb{}`
 
 Q: How to type in calligraphic font? For instance, $\mathcal{F}$, $\mathcal{S}$.
 A: `\mathcal{}`

@@ -2780,3 +2780,38 @@ A: Cunningham's law
 Q: When's Petrov Day?
 A: 26 September
 
+Q: What's YIMBY acronym for?
+A: yes in my back yard
+
+Q: What's a story? ("storey" in Commonwealth English)
+A: Any level part of a building that could be used by people.
+
+Q: What's a duplex? A: A building that has two living units attached to each other.
+
+Q: What's a townhouse?
+A: One home in a row of attached houses, usually multi-story, sharing side walls with its neighbors.
+
+Q: What's a terrace?
+A: The British term for a row of attached houses.
+
+Q: What's the difference between buying a duplex and a townhouse?
+A: A duplex: you buy the whole building.
+A townhouse: you buy just a single unit.
+
+Q: What's HOA acronym for?
+A: A homeowner association.
+
+Q: What's zoning?
+A: A method in which a local government divide land into "zones" (areas), each of which has a set of regulations for new development.
+
+Q: What's single-family zoning?
+A: A type of zoning that only allows single-family detached houses.
+
+Q: What's YIMBY?
+A: A pro-housing social movement that focuses on encouraging new housing, opposing density limits and other housing supply regulations, and supporting public transportation.
+
+Q: What's a condominium?
+A: A type of ownership in which units in a building are separately owned, while the common areas are owned jointly by all the unit owners.
+
+Q: What's the short for condominium?
+A: Condo

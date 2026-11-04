@@ -162,3 +162,6 @@ A: I’ve figured out what you’re up to.
 
 Q: What's the difference of "pass on" from "pass"?
 A: You got something from someone and are passing it further.
+
+Q: ditto
+A: the same as before

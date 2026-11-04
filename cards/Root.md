@@ -40,7 +40,7 @@ A: \~21.6M (2026) — municipality
 
 Q: Population of Seoul (city proper)?
 A: \~9.6M (2026)
-#population
+#population #suspended
 
 Q: Population of the nine-county San Francisco Bay Area?
 A: \~7.7M (2026)
@@ -68,7 +68,7 @@ A: Toronto
 
 Q: Which country / province capital is Toronto?
 A: Ontario
-#capitals #cities
+#capitals #cities #suspended
 
 Q: What is capital of Austria?
 A: Vienna
@@ -433,7 +433,6 @@ Expression: reticent
 Meaning: - unwilling to tell people about things
 - She was shy and reticent.
 - He was extremely reticent about his personal life.
-Sentence: **reticent**
 Audio: ![](@/media/yomitan_audio_a7a21cefec61aaaf31be5253d71491d986b2dbbe.ogg)
 #yomitan
 
@@ -2616,7 +2615,7 @@ A: 물건 = thing/object/article
 
 Q: What is the difference between 끝나다 and 끝내다?
 A: 끝나다 = to end
-끝내다 = to finish
+끝내다 = to finish (something)
 #korean #vocabulary
 
 C: If $V_1$ and $V_2$ are subspaces of a finite-dimensional vector space, then
@@ -2834,3 +2833,30 @@ A: A system that uses movable components to reproduce the elements of a document
 
 Q: What's a scroll?
 A: A roll of paper, papyrus, or parchment containing writing.
+
+Q: What's a codex?
+A: A codex is an ancient manuscript book made of bound pages, as opposed to a scroll.
+
+Q: What's the plural of a codex?
+A: Codices
+
+C: (^_^)
+This is an example of [kaomoji].
+
+Q: How are kaomoji meant to be read?
+A: Upright
+
+Q: Where did kaomiji originate? 
+A: Japan
+
+Q: Where did emoji originate? 
+A: Japan
+
+C: The word emoji comes from [Japanese *e* (絵; 'picture') + *moji* (文字; 'character')]. 
+
+Q: How do I list the following cities in a sentence?
+- Tulsa, Oklahoma
+- Flint, Michigan
+- Paducah, Kentucky
+A: Separate them with semicolons:
+> We visited Tulsa, Oklahoma; Flint, Michigan; and Paducah, Kentucky.

@@ -1525,7 +1525,6 @@ Number: 106
 Word: 언제
 Word Meaning: when
 Word Audio: ![](@/media/hypertts-f4045127a4ba8def719466350418192340577ce92026daa3772e5aaa.mp3)
-Image: ![](@/media/dorobou_jikan.png)
 Target Surface: 언제
 Sentence: 생일이 **언제**예요?
 Sentence Audio: ![](@/media/hypertts-481d647739a7f1c2a294e2151e1144cc514647845c46160eaf319f5a.mp3)
@@ -5650,7 +5649,7 @@ Sentence: 저는 그 뉴스를 듣고 **놀랐어요**.
 Sentence Audio: ![](@/media/hypertts-84d3e53f3f56cf0e5294661c7291c38596b980b9f0c41ea4360dd47f.mp3)
 Sentence Meaning: I was surprised to hear that news.
 Grammar Breakdown: 놀라다 → 놀랐어요.
-#korean #leech
+#korean #leech #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 612
@@ -5928,7 +5927,7 @@ Sentence: 이 가게 **물건**은 다 싸요.
 Sentence Audio: ![](@/media/hypertts-4992e411c7a877155d18a4438965662e3aea23533d60c61c7fb19635.mp3)
 Sentence Meaning: Everything in this store is cheap.
 Grammar Breakdown: 다 = all.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 461
@@ -6310,7 +6309,6 @@ Number: 267
 Word: 얼굴
 Word Meaning: face
 Word Audio: ![](@/media/hypertts-3120363c60252f12609e84ea99fc9ecacf440bfa643d144db7c3fe3c.mp3)
-Image: ![](@/media/nigaoe_nakaoka_shintarou.png)
 Target Surface: 얼굴
 Sentence: 유나는 **얼굴**이 예뻐요.
 Sentence Audio: ![](@/media/hypertts-14a1bbdbad19f6dd95c2ee19d4862cab8be8a40ca77b9ad4c9e49e41.mp3)
@@ -6785,7 +6783,7 @@ Sentence: 민수는 **방금** 나갔어요.
 Sentence Audio: ![](@/media/hypertts-a398338027c321aa9a9aca496dae18bc8babe1a0f97e64e58c762866.mp3)
 Sentence Meaning: Minsu just left.
 Grammar Breakdown: 방금 = just now.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 922
@@ -6860,7 +6858,7 @@ Sentence: 숙제를 **잊지** 마세요.
 Sentence Audio: ![](@/media/hypertts-802743704e759458b8956e0cd138824c99c995329cfe062d57510744.mp3)
 Sentence Meaning: Don't forget your homework.
 Grammar Breakdown: 잊지 말다 = don't forget.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 672
@@ -13378,7 +13376,7 @@ Sentence: 사람들 앞에서 말할 때 **부끄러워요**.
 Sentence Audio: ![](@/media/hypertts-fe73afbe41ec2c461e2dc837e8fc12c0fdaa7845ad27f6c64fc690b0.mp3)
 Sentence Meaning: I get shy speaking in front of people.
 Grammar Breakdown: 부끄럽다 → 부끄러워요: ㅂ irregular.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 1266
@@ -13492,7 +13490,7 @@ Sentence: 삼 번 **출구**에서 만나요.
 Sentence Audio: ![](@/media/hypertts-85bea2a9521402f724cdff3e0d30bf60d833006ad02205143cb23b7b.mp3)
 Sentence Meaning: Let's meet at exit 3.
 Grammar Breakdown: 번 + 출구 = exit number.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 903
@@ -13519,7 +13517,7 @@ Sentence Meaning: I wrote the appointment date in my planner.
 Grammar Breakdown: 수첩 + 에 marks where.
 Mnemonic: *"**Sue chops** her schedule into neat little sections in her pocket planner."*
 Picture Sue with a tiny knife, chopping her week into tidy daily boxes in a little notebook. "Sue chop" ≈ su-cheop.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 1207
@@ -13887,7 +13885,7 @@ Sentence: 제 아내는 시청에서 일하는 **공무원**이에요.
 Sentence Audio: ![](@/media/hypertts-fda8d03076fe76105c5f0b50f27af47b99b75892d82ab22428c0e7c5.mp3)
 Sentence Meaning: My wife is a civil servant working at city hall.
 Grammar Breakdown: -는 makes the verb modify the noun.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 1222
@@ -14113,7 +14111,7 @@ Sentence: 이번이 마지막 **기회**예요.
 Sentence Audio: ![](@/media/hypertts-92942673746130eeeb224f13e2cca36480d9b90f9d8e94453062b731.mp3)
 Sentence Meaning: This is the last chance.
 Grammar Breakdown: 마지막 기회 = last chance.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 1301

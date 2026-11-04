@@ -6626,7 +6626,7 @@ Sentence1이 2를 지나가다
 Misc. info
 COMPLETE Beginner Korean #12 \[Lv.A0\] - YouTube
 asbplayer leech yomitan
-#asbplayer #leech #yomitan
+#asbplayer #leech #yomitan #suspended
 
 Q: 천장
 A: ceiling
@@ -11445,7 +11445,7 @@ Q: What is the difference between 고등학교, 초등학교, and 중학교?
 A: 고등학교 = high school
 초등학교 = elementary school
 중학교 = middle school (junior high)
-#korean #vocabulary
+#korean #vocabulary #suspended
 
 Q: What is the difference between 과거 and 광고?
 A: 과거 = the past

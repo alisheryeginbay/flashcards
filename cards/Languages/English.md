@@ -168,3 +168,30 @@ A: the same as before
 
 Q: limelight
 A: the center of public attention
+
+Q: plight
+A: an unfortunate or difficult situation
+
+Q: bulwark
+A: a strong support or protection  
+
+Q: dogma
+A: something held as an established opinion
+
+Q: qua
+A: as
+
+Q: quasi-
+A: resembling in some degree
+
+Q: incessant
+A: continuing without interruption
+
+Q: corroborate
+A: to support or help prove with evidence
+
+Q: dubious
+A: unsettled in opinion
+
+Q: precedence
+A: a priority of importance

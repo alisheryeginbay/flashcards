@@ -20,10 +20,10 @@ Q: How to change the tensor `x`'s norm to the tensor `y`'s norm?
 A: [=`x = x / x.norm() * y.norm()`]
 
 Q: In `matplotlib`, how to add a horizontal line?
-Q: [=`ax.axhline`]
+A: [=`ax.axhline`]
 
 Q: In `matplotlib`, what parameter is used to specify the line style?
-Q: `ls`
+A: `ls`
 
 Q: In `matplotlib`, what's the equivalent of `dashed` for the line style?
 A: [=`--`]

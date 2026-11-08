@@ -45,3 +45,7 @@ A: Edvard Munch
 Q: ![](@/media/Max_Planck_by_Hugo_Erfurth_1938cr_-_restoration1.jpg)
 Who's in this photo?
 A: Max Planck
+
+Q:![](@/media/polya.png)
+Who's in this photo?
+A: George Pólya

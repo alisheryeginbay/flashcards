@@ -1411,7 +1411,6 @@ Number: 75
 Word: 지금
 Word Meaning: now
 Word Audio: ![](@/media/hypertts-49e339ea2ce7c209fc5820656777cb02eac27857ec145f332cadf208.mp3)
-Image: ![](@/media/pose_tokei_kakunin_man.png)
 Hanja: 只今
 Target Surface: 지금
 Sentence: **지금** 뭐 해요?
@@ -3924,7 +3923,7 @@ Sentence: 선물을 받아서 정말 **기뻤어요**.
 Sentence Audio: ![](@/media/hypertts-c29847cf8b288b7aeb62ceb33245ea18ee6106c77570019db5bb4499.mp3)
 Sentence Meaning: I was really happy to get the present.
 Grammar Breakdown: 기쁘다 → 기뻤어요: ㅡ drops.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 190
@@ -4250,7 +4249,7 @@ Sentence: 밥을 먹을 **때** 텔레비전을 봐요.
 Sentence Audio: ![](@/media/hypertts-299150ba123976f742d6e7eae935bae6d673db26386384ab5271f063.mp3)
 Sentence Meaning: I watch TV when I eat.
 Grammar Breakdown: -(으)ㄹ 때 = when doing something.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 159
@@ -11734,7 +11733,7 @@ Sentence Audio: ![](@/media/hypertts-be00f36c3e251e306d2e8925917de7d3d2bdf4c9418
 Sentence Meaning: On holidays I usually rest at home.
 Grammar Breakdown: 휴일 = day off, holiday.
 Mnemonic: Hugh-ill → Hugh is ill, so he takes the day off.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 719
@@ -13188,7 +13187,7 @@ Sentence Audio: ![](@/media/hypertts-e517805629a8fa90cc0c77e3826cdb81d1aeaa21df4
 Sentence Meaning: Our teacher is young and kind.
 Grammar Breakdown: -고 links two descriptions.
 Mnemonic: It sounds like **"jump-da."** Young people have so much energy they **jump** around all the time. Picture a group of twenty-somethings jumping at a concert: that's 젊다.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 1016
@@ -14393,7 +14392,7 @@ Grammar Breakdown: 도움이 필요하다 = to need help.
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 1297
 Word: 지각하다
-Word Meaning: to be late (for something);; to perceive, sense, be aware
+Word Meaning: to be late (for something); to perceive, sense, be aware
 Word Audio: ![](@/media/hypertts-75e27ab58d7dbdef5fdf83c1688272b32825cd429d8c42bb5a40fb30.mp3)
 Hanja: 遲刻, 知覺
 Target Surface: 지각했어요
@@ -14430,7 +14429,7 @@ Grammar Breakdown: 에 익숙하다 = used to.
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 1311
 Word: 고장
-Word Meaning: defect, failure;; area,town
+Word Meaning: defect, failure; area, town
 Word Audio: ![](@/media/hypertts-839b26aa4da0697a2e412a40d47013b00904d8db7c84602b3b53e091.mp3)
 Hanja: 故障
 Target Surface: 고장

@@ -77,5 +77,5 @@ Q: Where was the melody of "Happy Birthday to You" written?
 A: Louisville, Kentucky.
 #suspended
 
-Q: Where does the melody of "Happy Birthday to You" come from?
+Q: What song does the melody of "Happy Birthday to You" come from?
 A: The song "Good Morning to All"

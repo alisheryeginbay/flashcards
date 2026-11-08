@@ -2304,7 +2304,6 @@ Meaning: - *(noun, seth-oald-extra)*
 - She praised the gallantry of the servicemen and women who had given their lives for their country.
 - polite attention given by men to women
 - ‘I like to think that gallantry isn’t dead,’ he said, kissing her hand.
-Sentence: gallantry
 Audio: ![](@/media/yomitan_audio_89bd77594781aa42f85eeb252bc6f27e47ae5f72.wav)
 #yomitan
 
@@ -2857,3 +2856,6 @@ Q: How do I list the following cities in a sentence?
 - Paducah, Kentucky
 A: Separate them with semicolons:
 > We visited Tulsa, Oklahoma; Flint, Michigan; and Paducah, Kentucky.
+
+Q: What does _PIN_ stand for?
+A: Personal Identification Number

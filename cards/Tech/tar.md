@@ -21,3 +21,9 @@ A: `t`
 
 Q: In `tar`, what's the flag for showing the files as they're processed?
 A: `v`
+
+Q: How to create the archive with zstd compression?
+A: [=`tar --zstd -cvf archive.tar.zst path/to/directory`]
+
+Q: How to extract the archive with zstd compression?
+A: [=`tar --zstd -xvf archive.tar.zst`]

@@ -9,7 +9,7 @@ What is the name of this lake?
 A: *Baengnokdam (백록담)*
 
 Q: What is the name of the volcano comprising much of Jeju Island?
-A: *Hallasan (한라산)*
+A: [=한라산]
 
 Q: What is the tallest mountain in South Korea?
-A: *Hallasan (한라산)*
+A: [=한라산]

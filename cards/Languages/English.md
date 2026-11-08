@@ -165,3 +165,6 @@ A: You got something from someone and are passing it further.
 
 Q: ditto
 A: the same as before
+
+Q: limelight
+A: the center of public attention

@@ -71,9 +71,11 @@ A: American sisters Mildred and Patty Hill.
 
 Q: When was the melody of "Happy Birthday to You" written?
 A: 1890s.
+#suspended
 
 Q: Where was the melody of "Happy Birthday to You" written?
 A: Louisville, Kentucky.
+#suspended
 
 Q: Where does the melody of "Happy Birthday to You" come from?
 A: The song "Good Morning to All"

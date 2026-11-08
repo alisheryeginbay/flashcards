@@ -933,7 +933,7 @@ Sentence: 민수는 지금 **자요**.
 Sentence Audio: ![](@/media/hypertts-7e572b77d1b03065ce020ec7930f11185a0111cabf9c8a1f3cd96855.mp3)
 Sentence Meaning: Minsu is sleeping now.
 Grammar Breakdown: 자다 → 자요: polite present.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 64
@@ -4325,7 +4325,7 @@ Sentence: 피곤해요. **그래도** 오늘 일을 끝내야 돼요.
 Sentence Audio: ![](@/media/hypertts-08186f214a9e75fc87e6f00cf228c3d36c5b0a0af741c968a7c16eef.mp3)
 Sentence Meaning: I'm tired. Still, I have to finish this work today.
 Grammar Breakdown: 그래도 = even so.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 254
@@ -14339,7 +14339,7 @@ Sentence: 이 **마을**에는 오래된 나무가 많아요.
 Sentence Audio: ![](@/media/hypertts-f24a4d19965193a4c5a4e6079516c935948e9b50617527544c8212ce.mp3)
 Sentence Meaning: This village has many old trees.
 Grammar Breakdown: 오래된 = old (for things).
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 1014

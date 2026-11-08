@@ -6,6 +6,7 @@ A: David Ben-Gurion
 
 Q: **When** was the United States Declaration of Independence adopted?
 A: July 4, 1776
+Mnemonic: CAR (7-4) full of CASH (76)
 
 Q: **Where** was the United States Declaration of Independence adopted?
 A: Philadelphia, Pennsylvania

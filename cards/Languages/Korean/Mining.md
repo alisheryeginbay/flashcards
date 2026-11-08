@@ -7569,7 +7569,7 @@ See More
 Misc. info
 Learn Korean the EASY way | Slow Korean + Real- Life Conversations (A Day in Jeju) - YouTube
 asbplayer yomitan
-#asbplayer #yomitan
+#asbplayer #yomitan #suspended
 
 Q: 주차장
 A: 9999999
@@ -10722,7 +10722,7 @@ Sentence1이 2-고도 남다
 Misc. info
 TPRS Korean for beginners ep9 - YouTube
 asbplayer yomitan
-#asbplayer #yomitan
+#asbplayer #yomitan #suspended
 
 Q: 근데
 A: 1804

@@ -236,12 +236,12 @@ A: $\binom{n}{k} = \frac{n!}{k!(n-k)!}$
 Q: Suppose $v_1, \ldots, v_m$ is linearly dependent list in $V$. Then there exists $k \in \{ 1, 2, \ldots, m \}$ such that$$v_k \in \operatorname{span}(v_1, \ldots, v_{k-1}).$$Furthermore, if $k$ satisfies the condition above and the $k^{\text{th}}$ term is removed from $v_1, \ldots, v_m$, then the span of the remaining list equals $\operatorname{span}(v_1, \ldots, v_m)$.
 Prove the existence.
 A: Because the list $v_1, \ldots, v_m$ is linearly dependent, there exist $a_1, \ldots, a_m \in \mathbf{F}$, not all $0$, such that$$a_1 v_1 + \cdots + a_m v_m = 0.$$Let $k$ be the largest element of $\{1, \ldots, m\}$ such that $a_k \neq 0$. Then$$v_k = -\frac{a_1}{a_k} v_1 - \cdots - \frac{a_{k-1}}{a_k} v_{k-1},$$which proves that $v_k \in \operatorname{span}(v_1, \ldots, v_{k-1})$.
-#linear-algebra #mathematics
+#linear-algebra #mathematics #suspended
 
 Q: Suppose $v_1, \ldots, v_m$ is linearly dependent list in $V$. Then there exists $k \in \{ 1, 2, \ldots, m \}$ such that$$v_k \in \operatorname{span}(v_1, \ldots, v_{k-1}).$$Furthermore, if $k$ satisfies the condition above and the $k^{\text{th}}$ term is removed from $v_1, \ldots, v_m$, then the span of the remaining list equals $\operatorname{span}(v_1, \ldots, v_m)$.
 Prove the latter.
 A: Suppose $k$ is any element of $\{ 1, \ldots, m\}$ such that $v_k \in \operatorname{span}(v_1, \ldots, v_{k-1})$. Let $b_1, \ldots, b_{k-1} \in \mathbf{F}$ be such that $$v_k = b_1 v_1 + \cdots + b_{k-1} v_{k-1}.$$Suppose $u \in \operatorname{span}(v_1, \ldots, v_m)$. Then there exist $c_1, \ldots, c_m \in \mathbf{F}$ such that$$u = c_1 v_1 + \cdots + c_m v_m.$$In the equation above, we can replace $v_k$ which shows that $u$ is in the span of the list obtained by removing the $k^{\text{th}}$ term from $v_1, \ldots, v_m$. Thus removing the $k^{\text{th}}$ term of the list $v_1, \ldots, v_m$ does not change the span of the list.
-#linear-algebra #mathematics
+#linear-algebra #mathematics #suspended
 
 Q: $\binom{n}{k}$
 How is it pronounced?
@@ -259,17 +259,17 @@ To get 3 $x$'s we have $\binom{3}{3}$, that is, $xxx$.
 To get 2 $x$'s we have $\binom{3}{2}$, that is, $xxy = xyx = yxx$.
 To get 1 $x$ we have $\binom{3}{1}$, that is, $xyy = yxx = yxy$.
 To get 0 $x$ we have $\binom{3}{0}$, that is, $yyy$.
-#mathematics
+#mathematics #suspended
 
 @Basic (and reversed card)
 Front: Vandermonde's identity
 Back: $\binom{m+n}{r} = \sum_{k=0}^{r} \binom{m}{k} \binom{n}{r-k}$
-#combinatorics #mathematics
+#combinatorics #mathematics #suspended
 
 Q: What is the story proof for Vandermonde's identity?
 A: $\binom{m+n}{r} = \sum_{k=0}^{r} \binom{m}{k} \binom{n}{r - k}$
 Consider a student organization consisting of $m$ juniors and $n$ seniors, from which a committee of size $r$ will be chosen. There are $\binom{m+n}{r}$ possibilities. If there are $k$ juniors in the committee, then there must be $r-k$ seniors in the committee.
-#combinatorics #mathematics
+#combinatorics #mathematics #suspended
 
 Q: What is sampling *with replacement*?
 A: An element may appear multiple times in the one sample.
@@ -285,6 +285,7 @@ T(z_1, \ldots, z_m) = z_1 v_1 + \cdots + z_m v_m.
 $$
 What property of $T$ corresponds to $v_1, \ldots, v_m$ spanning $V$?
 A: $v_1, \ldots, v_m$ spans $V$ if and only if $T$ is surjective.
+#suspended
 
 Q: Suppose $v_1, \ldots, v_m$ is a list of vectors in $V$. Define $T \in \mathcal{L}(\mathbf{F}^{m}, V)$ by
 $$
@@ -292,6 +293,7 @@ T(z_1, \ldots, z_m) = z_1 v_1 + \cdots + z_m v_m.
 $$
 What property of $T$ corresponds to the list $v_1, \ldots, v_m$ being linearly independent?
 A: $v_1, \ldots, v_m$ is linearly independent if and only if $T$ is injective.
+#suspended
 
 Q: How to denote the partial derivative of a function $f(x, y, \ldots)$ with respect to the variable $x$?
 A: $f_{x}$ or $\frac{\partial f}{\partial x}$

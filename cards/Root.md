@@ -36,7 +36,7 @@ A: \~870K (2026) — under a million
 
 Q: Population of Beijing?
 A: \~21.6M (2026) — municipality
-#leech #population
+#leech #population #suspended
 
 Q: Population of Seoul (city proper)?
 A: \~9.6M (2026)
@@ -2116,7 +2116,6 @@ Meaning: - *(adjective, seth-oald-extra)*
 - extremely unpleasant and unacceptable
 - horrendous traffic
 - They have horrendous financial problems.
-Sentence: horrendous
 Audio: ![](@/media/yomitan_audio_9237646a153367dba585c50a44f12a867a9f5474.wav)
 #yomitan
 
@@ -2130,7 +2129,6 @@ Meaning: - *(verb, seth-oald-extra)* to move around in a busy way or to hurry so
 - the hustle and bustle of city life
 - For once the river was quiet, without its usual bustle of barges and river traffic.
 - a frame that was worn under a skirt by women in the past in order to hold the skirt out at the back
-Sentence: bustle
 Audio: ![](@/media/yomitan_audio_28865ba4e46b0f16bd63aaa97314852d354baaed.wav)
 #yomitan
 
@@ -2569,7 +2567,6 @@ A: Sino-Korean
 @English Vocabulary
 Expression: harbinger
 Meaning: - *(noun, seth-oald-extra)* a sign that shows that something is going to happen soon, often something bad
-Sentence: harbinger
 Audio: ![](@/media/yomitan_audio_46e611aa6f0619110de8ba88d7afbb0ddcc4cbf9.wav)
 #yomitan
 

@@ -195,3 +195,15 @@ A: unsettled in opinion
 
 Q: precedence
 A: a priority of importance
+
+Q: refute
+A: to prove wrong by argument
+
+Q: trifling
+A: lacking in significance
+
+Q: ingenious
+A: showing an unusual aptitude for discovering, inventing, etc.
+
+Q: surreptitious
+A: done by stealth

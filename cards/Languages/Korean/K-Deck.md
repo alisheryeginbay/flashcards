@@ -4135,7 +4135,7 @@ Sentence: 우리 내일 **극장**에서 영화 봐요.
 Sentence Audio: ![](@/media/hypertts-2174640771f6c2909c5bd8d7aa26b153957af93dedfc55cece21bd2d.mp3)
 Sentence Meaning: Let's watch a movie at the theater tomorrow.
 Grammar Breakdown: 에서 marks where the action happens.
-#korean #vocabulary
+#korean #vocabulary #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 433
@@ -8868,7 +8868,7 @@ Sentence: 지하철에서 지갑을 **잃었어요**.
 Sentence Audio: ![](@/media/hypertts-0dbf91b3f0f90058cc50d951f2810bdc04ce6ece61e9d979220ea388.mp3)
 Sentence Meaning: I lost my wallet on the subway.
 Grammar Breakdown: 잃다 → 잃었어요.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 742
@@ -14263,7 +14263,7 @@ Sentence: 말보다 **행동**이 중요해요.
 Sentence Audio: ![](@/media/hypertts-8415e1553364c9a6854133e185eb2b00b10aeebf32ac484356346dc0.mp3)
 Sentence Meaning: Actions matter more than words.
 Grammar Breakdown: 보다 = than.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 969
@@ -14314,7 +14314,7 @@ Sentence: 언어 **능력**은 연습으로 늘어요.
 Sentence Audio: ![](@/media/hypertts-998eb29b3b81636ddb7bc7f480e64bce3442d5fe872ad31a326d7c1f.mp3)
 Sentence Meaning: Language ability grows with practice.
 Grammar Breakdown: (으)로 marks the means.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 1121

@@ -207,3 +207,6 @@ A: showing an unusual aptitude for discovering, inventing, etc.
 
 Q: surreptitious
 A: done by stealth
+
+Q: manuscript
+A: a written document (as opposed to printed)

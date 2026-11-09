@@ -339,7 +339,6 @@ Meaning: - being certain that your beliefs are right and that others should acce
 - a dogmatic approach
 - There is a danger of becoming too dogmatic about teaching methods.
 - He was strident and dogmatic in giving his opinions.
-Sentence: **dogmatic**
 Audio: ![](@/media/yomitan_audio_4eb259fee696733afa72965e5c2e4df4dfe0b999.wav)
 #yomitan
 
@@ -475,7 +474,6 @@ Expression: medieval
 Meaning: - connected with the Middle Ages (about AD 1000 to AD 1450)
 - medieval architecture/castles/manuscripts
 - the literature of the late medieval period
-Sentence: **medieval**
 Audio: ![](@/media/yomitan_audio_dc7a33ced06fa6447f309f664bd4bd909b4917b8.wav)
 #yomitan
 
@@ -1990,7 +1988,6 @@ Meaning: - *(noun, seth-oald-extra)*
 Idioms
 sing from the same hymn/song sheet
 to show that you are in agreement with each other by saying the same things in public
-Sentence: hymn
 Audio: ![](@/media/yomitan_audio_d93ac8f3cc28a89952b99c1e166454f73d20f942.mp3)
 #yomitan
 
@@ -2831,7 +2828,7 @@ Q: What's a scroll?
 A: A roll of paper, papyrus, or parchment containing writing.
 
 Q: What's a codex?
-A: A codex is an ancient manuscript book made of bound pages, as opposed to a scroll.
+A: An ancient manuscript book made of bound pages, as opposed to a scroll.
 
 Q: What's the plural of a codex?
 A: Codices

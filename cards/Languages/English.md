@@ -210,3 +210,15 @@ A: done by stealth
 
 Q: manuscript
 A: a written document (as opposed to printed)
+
+Q: bespoke
+A: custom-made
+
+Q: voracious
+A: excessively eager
+
+Q: simulacrum
+A: image, representation
+
+Q: What's the plural of *simulacrum*?
+A: simulacra

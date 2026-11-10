@@ -6,7 +6,7 @@ C: The Faroe Islands are part of [the Kingdom of Denmark].
 
 Q: ![](@/media/chanho-park-L2jhbQWEMHY-unsplash.jpg)
 What is the name of this lake?
-A: *Baengnokdam (백록담)*
+A: [=백록담]
 
 Q: What is the name of the volcano comprising much of Jeju Island?
 A: [=한라산]

@@ -4972,7 +4972,7 @@ Sentence: 우리는 카드를 **쳤어요**.
 Sentence Audio: ![](@/media/hypertts-835163b74083362a0ffc82115a4e15d9814e1b9e8ffbc238597d8224.mp3)
 Sentence Meaning: We played cards.
 Grammar Breakdown: 카드를 치다 = to play cards.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 499
@@ -7161,7 +7161,7 @@ Sentence: 이 책상은 좀 **낮아요**.
 Sentence Audio: ![](@/media/hypertts-00d51131c0b04babd44f481420a9cacc3c9e1623572a24013782a8e6.mp3)
 Sentence Meaning: This desk is a bit low.
 Grammar Breakdown: 낮다 → 낮아요: opposite of 높다.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 792
@@ -8868,7 +8868,7 @@ Sentence: 지하철에서 지갑을 **잃었어요**.
 Sentence Audio: ![](@/media/hypertts-0dbf91b3f0f90058cc50d951f2810bdc04ce6ece61e9d979220ea388.mp3)
 Sentence Meaning: I lost my wallet on the subway.
 Grammar Breakdown: 잃다 → 잃었어요.
-#korean #suspended
+#korean
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 742
@@ -9502,7 +9502,7 @@ Sentence: **사거리**에서 왼쪽으로 가세요.
 Sentence Audio: ![](@/media/hypertts-0ec8f04a248ef89a12113e05c88e4730490448a1736fa33a42af29f2.mp3)
 Sentence Meaning: Turn left at the intersection.
 Grammar Breakdown: 사거리 = four-way crossing.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 1086
@@ -14437,7 +14437,7 @@ Sentence: 엘리베이터가 **고장** 났어요.
 Sentence Audio: ![](@/media/hypertts-9550202fd07fbc8522026654692b68182eb34e52639488f1730a3637.mp3)
 Sentence Meaning: The elevator is broken.
 Grammar Breakdown: 고장 나다 = to break down.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 1011
@@ -14687,7 +14687,7 @@ Grammar Breakdown: -지 마세요 = please don't.
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 1359
 Word: 정원
-Word Meaning: garden, yard;; capacity, limit;
+Word Meaning: garden, yard; capacity, limit;
 Word Audio: ![](@/media/hypertts-e6abb44bb81ec79015f42d49e5f6ff4b266870be2bdb6ae869d36ec4.mp3)
 Hanja: 庭園, 定員
 Target Surface: 정원
@@ -14713,7 +14713,7 @@ Grammar Breakdown: 버리다 = to throw away.
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 1419
 Word: 경주
-Word Meaning: Gyeongju;; race, run;
+Word Meaning: Gyeongju; race, run;
 Word Audio: ![](@/media/hypertts-66ed916b8c9a90f7765359fa7a76a31e838735ddae09d2c984bdfbcd.mp3)
 Hanja: 慶州, 競走
 Target Surface: 경주

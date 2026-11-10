@@ -347,7 +347,6 @@ Expression: apprise
 Meaning: - to tell or inform somebody of something
 - He saw no reason to apprise the committee of what had happened.
 - We were fully apprised of the situation.
-Sentence: **apprised** of
 Audio: ![](@/media/yomitan_audio_083ac12140ae54de88c6b0236a211f6982258f04.wav)
 #yomitan
 
@@ -995,7 +994,7 @@ A: A logit
 
 Q: What is a log-odd?
 A: The logit function. It is called log-odd since it is equal to the logarithm of the odds.
-#statistics
+#statistics #suspended
 
 Q: What is a linear classifier in machine learning?
 A: A model that makes a classification decision by calculating a weighted sum of input features.
@@ -2137,7 +2136,6 @@ Meaning: - *(5K, noun, seth-oald-extra)*
 - The hotel boasts two tennis courts and a croquet lawn.
 - They served afternoon tea on the lawn (= a large area of grass, near a big house, for example).
 - a type of fine cotton or linen cloth used for making clothes
-Sentence: lawn
 Audio: ![](@/media/yomitan_audio_65c72599f65301fa3f2500baf8fbf3215370f48b.wav)
 #yomitan
 
@@ -2627,7 +2625,7 @@ A: `\setminus`
 Q: Difference between 지나다 and 지내다?
 A: 지나다 = to pass, go by
 지내다 = to spend time
-#korean #vocabulary
+#korean #vocabulary #suspended
 
 Q: Difference between 아저씨 and 아가씨?
 A: 아저씨 = Mister
@@ -2839,13 +2837,13 @@ This is an example of [kaomoji].
 Q: How are kaomoji meant to be read?
 A: Upright
 
-Q: Where did kaomiji originate? 
+Q: Where did kaomiji originate?
 A: Japan
 
-Q: Where did emoji originate? 
+Q: Where did emoji originate?
 A: Japan
 
-C: The word emoji comes from [Japanese *e* (絵; 'picture') + *moji* (文字; 'character')]. 
+C: The word emoji comes from [Japanese *e* (絵; 'picture') + *moji* (文字; 'character')].
 
 Q: How do I list the following cities in a sentence?
 - Tulsa, Oklahoma
@@ -2856,3 +2854,6 @@ A: Separate them with semicolons:
 
 Q: What does _PIN_ stand for?
 A: Personal Identification Number
+
+Q: What's the only human disease to have been eradicated?
+A: smallpox

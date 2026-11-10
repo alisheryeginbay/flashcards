@@ -173,7 +173,7 @@ Q: plight
 A: an unfortunate or difficult situation
 
 Q: bulwark
-A: a strong support or protection  
+A: a strong support or protection
 
 Q: dogma
 A: something held as an established opinion
@@ -184,14 +184,18 @@ A: as
 Q: quasi-
 A: resembling in some degree
 
-Q: incessant
-A: continuing without interruption
+@English Vocabulary
+Expression: incessant
+Meaning: continuing without interruption
+Sentence: the **incessant** noise from an outside repair crew was a real distraction during the test
 
-Q: corroborate
-A: to support or help prove with evidence
+@English Vocabulary
+Expression: corroborate
+Meaning: to support or help prove with evidence
+Sentence: The documents **corroborate** this sequence of events.
 
 Q: dubious
-A: unsettled in opinion
+A: unsettled in opinion; questionable
 
 Q: precedence
 A: a priority of importance
@@ -199,8 +203,10 @@ A: a priority of importance
 Q: refute
 A: to prove wrong by argument
 
-Q: trifling
-A: lacking in significance
+@English Vocabulary
+Expression: trifling
+Meaning: lacking in significance
+Sentence: **trifling** talk
 
 Q: ingenious
 A: showing an unusual aptitude for discovering, inventing, etc.
@@ -222,3 +228,42 @@ A: image, representation
 
 Q: What's the plural of *simulacrum*?
 A: simulacra
+
+Q: imminent
+A: happening soon
+
+Q: to imbue
+A: to fill or saturate something with a quality, feeling, or idea
+
+Q: to muster
+A: to cause to gather
+
+Q: to rally
+A: to muster for a common purpose
+
+Q: altercation
+A: a noisy dispute
+
+Q: petty
+A: having little importance
+
+Q: squabble
+A: an altercation usually over petty matters
+
+Q: parlance
+A: manner or mode of speech
+
+Q: *in vitro*
+A: outside the living body and in an artificial environment
+
+Q: affliction
+A: a cause of persistent pain or distress
+
+Q: to eradicate
+A: to destroy something completely
+
+Q: vanquished
+A: defeated in battle
+
+Q: dearth
+A: a scarcity of something

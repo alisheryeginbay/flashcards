@@ -92,3 +92,6 @@ A: *répondez s'il vous plaît*
 
 Q: What does *RSVP* mean?
 A: please respond
+
+Q: What does *sandbagging* mean?
+A: Deliberately underperforming or hiding how capable you really are

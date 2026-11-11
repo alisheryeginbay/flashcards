@@ -312,3 +312,6 @@ A: $f'(x) + g'(x)$
 Q: What's the derivative of $g(f(x))$?
 A: $g'(f(x))f'(x)$
 #mathematics #calculus
+
+Q: Suppose $V$ is finite-dimensional and $U$ is a subspace of $V$ such that $dim V = dim U$. What's the relation between $U$ and $V$?
+A: $U = V$

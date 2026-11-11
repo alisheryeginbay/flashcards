@@ -79,3 +79,16 @@ A: Louisville, Kentucky.
 
 Q: What song does the melody of "Happy Birthday to You" come from?
 A: The song "Good Morning to All"
+
+Q: What's this?
+![](@/media/pedestrian-overpass.png)
+A: Pedestrian overpass
+
+Q: What is pedestrian overpass also known as?
+A: Footbridge
+
+Q: What does *RSVP* stand for?
+A: *répondez s'il vous plaît*
+
+Q: What does *RSVP* mean?
+A: please respond

@@ -321,7 +321,6 @@ Meaning: -
 - Her brown shoes jarred with the rest of the outfit.
 - The only jarring note was the cheap modern furniture.
 - The dirty old building jarred with the luxury hotels.
-Sentence: jarring
 Audio: ![](@/media/yomitan_audio_1168c694adc9cc6e8877c845cb80f3ce8d4857df.wav)
 #leech #yomitan
 
@@ -2236,7 +2235,6 @@ Audio: ![](@/media/yomitan_audio_873cdfb4322065561f0899fb255053d2ad3c7a31.wav)
 @English Vocabulary
 Expression: chaise
 Meaning: - *(noun, seth-oald-extra)* a carriage pulled by a horse or horses, used in the past
-Sentence: chaise
 Image: ![](@/media/proxy-image-aa1112c164e5971c8b499c5fc89a9c060cfcc861.jpg)
 Audio: ![](@/media/yomitan_audio_60da31084cd7d2a38b80ec05d8107af7fc955e8e.wav)
 #yomitan

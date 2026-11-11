@@ -2723,7 +2723,7 @@ Sentence: 내일 저한테 **전화하세요**.
 Sentence Audio: ![](@/media/hypertts-9911294cafafd04657b82a93d2ff4b08c160fce2a662cb91f17d3cee.mp3)
 Sentence Meaning: Call me tomorrow.
 Grammar Breakdown: 한테 = to (a person); -(으)세요 = please do.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 609
@@ -9122,7 +9122,7 @@ Sentence: 영화가 **곧** 시작해요.
 Sentence Audio: ![](@/media/hypertts-b022fce552a9a8522dfbc5032afbfb5612835e37d3bd02027d2ad615.mp3)
 Sentence Meaning: The movie starts soon.
 Grammar Breakdown: 곧 = soon.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 567
@@ -14966,7 +14966,7 @@ Grammar Breakdown: 에서 marks the vantage point.
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 1499
 Word: 차례
-Word Meaning: order, sequence; time, turn;; memorial service for ancestors
+Word Meaning: order, sequence; time, turn; memorial service for ancestors
 Word Audio: ![](@/media/hypertts-c862e032e8ce4acec3489fccd78eb95d59e958c2ae04cb9129d15a20.mp3)
 Hanja: 次例, 茶禮
 Target Surface: 차례

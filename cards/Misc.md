@@ -25,7 +25,7 @@ C: The symbol for [South Korean won] is [₩].
 
 Q: What is the background of the "Where Is My Mind?" by Pixies?
 A: The song was inspired by frontman' experiences while scuba diving in the Caribbean: a tiny fish persistently followed him underwater.
-#trivia
+#trivia #suspended
 
 Q: Who is the frontman of the Pixies as of 2026?
 A: Black Francis
@@ -95,3 +95,23 @@ A: please respond
 
 Q: What does *sandbagging* mean?
 A: Deliberately underperforming or hiding how capable you really are
+
+Q: What's the name of the vertical structure that holds this?
+![](@/media/mast.png)
+A: Mast
+
+Q: What's the name of the fabric used here?
+![](@/media/sail.png)
+A: Sail
+
+Q: What's *tsundoku*?
+A: The phenomenon of acquiring reading materials but letting them pile up in a home without reading them.
+
+Q: What's slacktivism?
+A: Supporting a political or social cause via social media
+
+Q: What's *onomatopoeia*?
+A: A type of word that phonetically imitates a sound.
+
+Q: What's the term for a type of word that phonetically imitates a sound?
+A: [=onomatopoeia]

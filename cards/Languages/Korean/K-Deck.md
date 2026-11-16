@@ -884,7 +884,7 @@ Sentence: 민수는 **머리**가 좋아요.
 Sentence Audio: ![](@/media/hypertts-31583f7356c30593ce8ea57f37328c7d92aa9e23844dab3b467fbb42.mp3)
 Sentence Meaning: Minsu is smart.
 Grammar Breakdown: 머리가 좋다 = to be smart (lit. head is good).
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 65
@@ -2277,7 +2277,7 @@ Sentence: **공책**에 이름을 쓰세요.
 Sentence Audio: ![](@/media/hypertts-e450df99d9f76ec88a2975e251131f6be8a8f0cafa1f01867ade62a0.mp3)
 Sentence Meaning: Write your name in the notebook.
 Grammar Breakdown: 공책 + 에 marks where you write.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 194
@@ -7248,7 +7248,7 @@ Sentence: 이 노래는 **아주** 유명해요.
 Sentence Audio: ![](@/media/hypertts-b5ef5bed0028e732469a1867d9938ed647f8a12f4cc9b00a7808e84a.mp3)
 Sentence Meaning: This song is very famous.
 Grammar Breakdown: 아주 = very.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 716
@@ -7487,7 +7487,7 @@ Sentence: 가족 여행은 정말 **즐거웠어요**.
 Sentence Audio: ![](@/media/hypertts-08b11c669798274af31210f528363d300ece502c55f56c5f90562eae.mp3)
 Sentence Meaning: The family trip was really enjoyable.
 Grammar Breakdown: 즐겁다 → 즐거웠어요: ㅂ irregular.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 708
@@ -7513,7 +7513,7 @@ Sentence: 저는 술을 **전혀** 안 마셔요.
 Sentence Audio: ![](@/media/hypertts-a7a6bca0f90748640c78d8e54deb5af5da274310c986747b20629222.mp3)
 Sentence Meaning: I don't drink at all.
 Grammar Breakdown: 전혀 + negative = not at all.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 530
@@ -8449,7 +8449,7 @@ Sentence: 엄마가 아기를 **안고** 있어요.
 Sentence Audio: ![](@/media/hypertts-713e8c0615e0dc63c17b287f8b1c4e7b58baf7d7ac1ae2c8947cd604.mp3)
 Sentence Meaning: Mom is holding the baby.
 Grammar Breakdown: -고 있다 = progressive.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 956
@@ -12722,7 +12722,7 @@ Sentence: 비 때문에 옷이 다 **젖었어요**.
 Sentence Audio: ![](@/media/hypertts-d4f967e6bb44c6bdf88155bd6591873ffba95e62df308b7b8d883038.mp3)
 Sentence Meaning: My clothes got soaked in the rain.
 Grammar Breakdown: 젖다 → 젖었어요.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 746
@@ -12855,7 +12855,7 @@ Sentence Meaning: The hospital has many patients.
 Grammar Breakdown: 환자 = patient.
 Mnemonic: *"The patient looks so **wan**, the nurse hands him a **jar** of medicine."*
 "Wan" is an English word meaning pale and sickly, which fits a patient perfectly. Picture a pale, tired patient in a hospital bed, weakly reaching for a big jar of pills. "Wan jar" ≈ hwan-ja.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 1250
@@ -13019,7 +13019,7 @@ Sentence: **역시** 엄마 요리가 최고예요!
 Sentence Audio: ![](@/media/hypertts-a7d0844b381be742276a64f633bff5787095a392d55342c5b5ed147d.mp3)
 Sentence Meaning: As expected, Mom's cooking is the best!
 Grammar Breakdown: 역시 = as expected.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 469
@@ -13476,7 +13476,7 @@ Sentence: 내년에 **해외** 여행을 가고 싶어요.
 Sentence Audio: ![](@/media/hypertts-e8e8b62e50eb2fa38cc1bb27a1bf0dbdbcf0cbe191377bdfd3376cb7.mp3)
 Sentence Meaning: I want to travel abroad next year.
 Grammar Breakdown: 해외 여행 = overseas trip.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 1241
@@ -14503,7 +14503,7 @@ Sentence: 동생이 노래 **대회**에 나가요.
 Sentence Audio: ![](@/media/hypertts-c5025bcad03050e72dac4cc53e4d9d00c56086f6a6d5198d393dc4d9.mp3)
 Sentence Meaning: My younger sibling is entering a singing contest.
 Grammar Breakdown: 대회에 나가다 = to enter a contest.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 766
@@ -14593,7 +14593,7 @@ Sentence: 학교 **주변**에 맛있는 식당이 많아요.
 Sentence Audio: ![](@/media/hypertts-0d3e6556f490946b1a9f140ae16f7d51e88920f160e5c1b6e5ab42ac.mp3)
 Sentence Meaning: There are many good restaurants around the school.
 Grammar Breakdown: 주변 = surroundings.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 416
@@ -14695,7 +14695,7 @@ Sentence: 할머니 집 **정원**에는 장미가 많아요.
 Sentence Audio: ![](@/media/hypertts-6d9802b9e9df0f2c4e0338f791593c4040d7fb2620db3edfcaafe591.mp3)
 Sentence Meaning: Grandma's garden has many roses.
 Grammar Breakdown: 정원 = garden.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 854
@@ -17758,7 +17758,7 @@ Sentence: 옛날에는 편지에 **우표**가 필요했어요.
 Sentence Audio: ![](@/media/hypertts-844d831510e9f7a1287ec66f77e2256b43e8f231d0d7af62b81811c5.mp3)
 Sentence Meaning: In the old days letters needed stamps.
 Grammar Breakdown: 옛날에는 = in the past.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 1323

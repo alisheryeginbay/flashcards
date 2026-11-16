@@ -1816,7 +1816,6 @@ Meaning: - *(noun, seth-oald-extra)*
 - She stood in the porch and rang the doorbell.
 - a platform with an open front and a roof, built onto the side of a house on the ground floor
 - They were sitting out on the porch in the cool evening air.
-Sentence: Porch
 Image: ![](@/media/images-e616579954099b974974146011d8c81e5ffd36e7.jpg)
 Audio: ![](@/media/yomitan_audio_3dd1bf10f65eae3457d24dd75711da5919580531.mp3)
 #yomitan
@@ -1843,7 +1842,6 @@ Meaning: - *(3K, verb, seth-oald-extra)*
 - Ambulance crews were tending to the injured.
 - to serve customers in a store, bar, etc.
 - He had a job tending bar in San Francisco.
-Sentence: tend
 Audio: ![](@/media/yomitan_audio_f86663576fb7e5c707fa42ea2f98db035913b81d.wav)
 #yomitan
 
@@ -1931,7 +1929,6 @@ Meaning: - *(adjective, seth-oald-extra)*
 - The sun was radiant in a clear blue sky.
 - sent out in rays from a central point
 - the radiant heat/energy of the sun
-Sentence: radiant
 Audio: ![](@/media/yomitan_audio_c5c92e2775cab1883d3cfa906b65c030f4b22f24.wav)
 #yomitan
 
@@ -2142,7 +2139,6 @@ Audio: ![](@/media/yomitan_audio_65c72599f65301fa3f2500baf8fbf3215370f48b.wav)
 Expression: incredulously
 Meaning: - *(adverb, seth-oald-extra)* in a way that shows you cannot believe something
 - He laughed incredulously.
-Sentence: incredulously
 Audio: ![](@/media/yomitan_audio_6b5d80448a63cce0b481be53ed3531894c79a94f.wav)
 #yomitan
 
@@ -2244,7 +2240,6 @@ Expression: vexing
 Meaning: - *(adjective, seth-oald-extra)* making somebody annoyed or worried
 - a vexing problem
 - I found their attitude extremely vexing.
-Sentence: vexing
 #yomitan
 
 @English Vocabulary
@@ -2285,7 +2280,6 @@ Meaning: - *(adjective, seth-oald-extra)* pleasant and friendly
 - blackcurrant cordial
 - a strong sweet alcoholic drink, sometimes tasting of fruit. It is usually drunk in very small glasses after a meal.
 - a glass of cordial
-Sentence: cordial
 Audio: ![](@/media/yomitan_audio_2cf6067b98dfd50ba3b634211e931e4d95bbf340.ogg)
 #yomitan
 

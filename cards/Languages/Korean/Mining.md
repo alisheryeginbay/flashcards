@@ -8855,7 +8855,7 @@ Sentence1이 신나다
 Misc. info
 Learn Korean the EASY way | Slow Korean + Real- Life Conversations (A Day in Jeju) - YouTube
 asbplayer yomitan
-#asbplayer #yomitan
+#asbplayer #yomitan #suspended
 
 Q: 자연
 A: 669
@@ -11476,3 +11476,387 @@ Hanja: - *(hanja)* 【多幸히】
 幸 - 다행할 행, 바랄 행, luck(ily), favor, fortunately (8)
 Sentence: **다행히**
 #yomitan #korean #vocabulary
+
+@Korean Kaishi-style Vocabulary (Evita 1500)
+Number: 기대되다
+Word: 기대되다
+Word Meaning: -
+Grammar
+기대되다 • (gidaedoeda) (infinitive 기대돼 or 기대되어, sequential 기대되니)
+Etymology
+기대(期待) (gidae, “expectation”) + -되다 (-doeda, “to become”, light verb deriving passive verbs).
+-
+to be expected1 example
+잘 될 것으로 기대된다.
+It is expected to turn out okay.
+Wiktionary | Kaikki
+Sentence: 기대돼요
+#yomitan
+
+@Korean Kaishi-style Vocabulary (Evita 1500)
+Number: 챙기다
+Word: 챙기다
+Word Meaning: -
+Grammar
+챙기다 • (chaenggida) (infinitive 챙겨 or 챙기어, sequential 챙기니)
+Etymology
+Of native Korean origin.
+-
+to collect or pack1 example
+비행기에서 내리시기 전에 모든 소지품을 챙기셨는지 확인해 주시기 바랍니다.
+Before getting off the airplane, please ensure that all your belongings are with you.
+-
+to put aright, to set in order
+-
+to keep for oneself, to appropriate
+Wiktionary | Kaikki
+Word Audio: ![](@/media/yomitan_audio_a83a7907d78c50c4e0b322e88833c1873a565bbd.mp3)
+Sentence: 챙겨요
+#yomitan
+
+@Korean Kaishi-style Vocabulary (Evita 1500)
+Number: 입구
+Word: 입구
+Word Meaning: -
+Grammar
+입구 • (ipgu) (hanja 入口)
+Etymology
+Sino-Korean word from 入口, orthographic borrowing from Japanese 入口 (iriguchi)
+-
+entrance
+- 출구
+Wiktionary | Kaikki
+Word Audio: ![](@/media/yomitan_audio_019222fa3b8adec59c3f9bc91978e5c89b5a256b.mp3)
+Sentence: 버스에서 내려서 아차산 입구까지 걸어가요
+#yomitan
+
+@Korean Kaishi-style Vocabulary (Evita 1500)
+Number: 절
+Word: 절
+Word Meaning: -
+Grammar
+절 • (jeol) (hanja 節)
+Etymology
+Sino-Korean word from 節.
+-
+a verse, passage, paragraph
+-
+grammling
+clause
+Wiktionary | Kaikki
+-
+Grammar
+절 • (jeol)
+Etymology
+First attested in the Worin cheon'gangjigok (月印千江之曲 / 월인천강지곡), 1449, as Middle Korean 절〮 (Yale: cyél).
+-
+bow; greeting1 example
+부모님께 절을 올리다
+to bow to one's parents
+Wiktionary | Kaikki
+-
+Grammar
+절 • (jeol)
+Etymology
+First attested in the Hunminjeong'eum haerye (訓民正音解例 / 훈민정음해례), 1446, as Middle Korean 뎔〮 (Yale: tyél).
+Possibly from Middle Chinese 剎 (MC tsrhaet), abbreviation of 剎多羅 (MC tsrhaet ta la), ultimately borrowed from Sanskrit क्षेत्र (kṣetra). Cognate with Japanese 寺 (tera, “Buddhist temple”), which is thought to be a borrowing from an ancient Koreanic language.
+-
+Buddhist monastery / temple1 example
+절을 찾아 마음을 수양해야겠다.
+I've got to find a temple to cultivate my soul.
+Wiktionary | Kaikki
+-
+Grammar
+절 • (jeol)
+Etymology
+Preserves the Old Korean form as suggested in Jīlín lèishì; see Korean 저 (jeo) for more.
+-
+chopsticks
+Wiktionary | Kaikki
+-
+Grammar
+절 • (jeol)
+Etymology
+Korean reading of various Chinese characters.
+-
+More information(MC reading: 㐉)(eumhun reading: 새길 절 (saegil jeol))
+(MC reading: 㑜 (MC yejH|trhjejH))(MC reading: 伽 (MC gja))(eumhun reading: 끊을 절 (kkeuneul jeol))
+(MC reading: 切 (MC tshejH|tshet))(eumhun reading: 병부 절 (byeongbu jeol))
+(MC reading: 卩)(MC reading: 姪 (MC drit|det))(MC reading: 岊 (MC dzet))(MC reading: 帙 (MC drit))(eumhun reading: 끊을 절 (kkeuneul jeol))
+(MC reading: 截 (MC dzet))(MC reading: 折 (MC dej|tsyet|dzyet))(MC reading: 晢 (MC tsyejH|tsyet))(MC reading: 浙 (MC tsyet))(eumhun reading: 준할 절 (junhal jeol))
+(MC reading: 準 (MC tsywinX|tsywet))(MC reading: 癤 (MC tset))(MC reading: 窃)(MC reading: 窒 (MC trit|tet))(eumhun reading: 훔칠 절 (humchil jeol))
+(MC reading: 竊 (MC tshet))(eumhun reading: 마디 절 (madi jeol))
+(MC reading: 節 (MC tset))(eumhun reading: 끊을 절 (kkeuneul jeol))
+(MC reading: 絶)(MC reading: 絕 (MC dzjwet))
+- 㐉: a slave, a maid
+- 㑜: engrave
+- 伽
+- 切: to cut; everything
+- 卩: military authorization seal
+- 姪
+- 岊
+- 帙
+- 截: sever
+- 折
+- 晢
+- 浙
+- 準: standard
+- 癤
+- 窃
+- 窒
+- 竊: to steal
+- 節: section
+- 絶: end
+- 絕: alternative form of 絶
+Wiktionary | Kaikki
+Word Audio: ![](@/media/yomitan_audio_eaff149d88f09066d35c436031dd86c3d2e1dfe9.mp3)
+Sentence: 이 입구에는 절, 절이 있어요
+#yomitan
+
+@Korean Kaishi-style Vocabulary (Evita 1500)
+Number: 정상
+Word: 정상
+Word Meaning: -
+Grammar
+정상 • (jeongsang) (hanja 正常)
+Etymology
+Sino-Korean word from 正常, from 正 (“proper”) + 常 (“always”)
+-
+normality
+Wiktionary | Kaikki
+-
+Grammar
+정상 • (jeongsang) (hanja 頂上)
+Etymology
+Sino-Korean word from 頂上, from 頂 (“peak”) + 上 (“top”)
+-
+peak; apex
+-
+top
+-
+summit
+Wiktionary | Kaikki
+Word Audio: ![](@/media/yomitan_audio_e1e3cabd9d94eabc48922415a6f42df61efeebc2.mp3)
+Sentence: 여기에서 이렇게 정상에 갈 거예요
+#yomitan
+
+@Korean Kaishi-style Vocabulary (Evita 1500)
+Number: 가다가
+Word: 가다가
+Word Meaning: -
+Grammar
+가다가 • (gadaga)
+Etymology
+가— (ga-, “to go”) + -다가 (-daga, “while; and then”).
+-
+A sequential form of 가다 (gada, “to go”): while going; \[was\] going, and then
+Wiktionary | Kaikki
+-
+Grammar
+가다가 • (gadaga)
+Etymology
+가— (ga-, “to go”) + -다가 (-daga, “while; and then”).
+-
+sometimes, occasionally, now and then1 example
+가끔 가다가 이상한 기분이 들 때가 있다.
+Sometimes now and then, I get a weird feeling.
+Wiktionary | Kaikki
+Sentence: 가다가 잠깐 서서 물을 마셔요
+#yomitan
+
+@Korean Kaishi-style Vocabulary (Evita 1500)
+Number: 돌
+Word: 돌
+Word Meaning: -
+Grammar
+돌 • (dol)
+Etymology
+First attested as Late Old Korean 突 in the Jīlín lèishì (鷄林類事 / 계림유사), 1103. In turn, from an earlier \*tworVk on the basis that a placename element 石 alternates with 珍惡 (MC trin 'ak; OC \*trə\[n\] ʔˤak) in the Samguk Sagi. The final velar plosive is also preserved in some Korean dialects (e.g. 독 (dok), 둑 (duk), 돍 (dok), 돜 (dok), 돌게 (dolge)).
+In the hangul script, first attested in the Seokbo sangjeol (釋譜詳節 / 석보상절), 1447, as Middle Korean 돓〯 (Yale: twǒlh).
+Unrelated to Proto-Turkic \*tāĺ (cf. Chuvash чул (čul)) and Proto-Mongolic \*čïlaxun (cf. Mongolian чулуу (čuluu)).
+-
+rock, stone; pebble
+-
+stone
+-
+col
+slow or obtuse person
+-
+med
+stone (in the body)
+-
+abbv
+clipping of 바둑돌 (badukdol, “(go) Go stone”)
+-
+abbv
+clipping of 라이터돌 (raiteodol, “flint”)
+Wiktionary | Kaikki
+-
+Grammar
+돌 • (dol)
+Etymology
+First attested in the Eoje naehun, (御製內訓 / 어제내훈), 1475 , as Middle Korean 돐〮 (Yale: twóls). From 돌다 (dolda, “to rotate”).
+-
+baby's first birthday1 example
+돌잔치
+first-birthday party
+Wiktionary | Kaikki
+-
+Grammar
+돌 • (dol)
+Etymology
+Borrowed from English dhole.
+-
+dhole (Cuon alpinus)
+Wiktionary | Kaikki
+-
+Grammar
+돌— • (dol-)
+Etymology
+First attested as Late Old Korean 突 in the Jīlín lèishì (鷄林類事 / 계림유사), 1103. In turn, from an earlier \*tworVk on the basis that a placename element 石 alternates with 珍惡 (MC trin 'ak; OC \*trə\[n\] ʔˤak) in the Samguk Sagi. The final velar plosive is also preserved in some Korean dialects (e.g. 독 (dok), 둑 (duk), 돍 (dok), 돜 (dok), 돌게 (dolge)).
+In the hangul script, first attested in the Seokbo sangjeol (釋譜詳節 / 석보상절), 1447, as Middle Korean 돓〯 (Yale: twǒlh).
+Unrelated to Proto-Turkic \*tāĺ (cf. Chuvash чул (čul)) and Proto-Mongolic \*čïlaxun (cf. Mongolian чулуу (čuluu)).
+-
+wild, uncultivated, bad in quality
+-
+incompetent, dysfunctional
+Wiktionary | Kaikki
+-
+Grammar
+돌 • (dol)
+Etymology
+First attested in the Eoje naehun, (御製內訓 / 어제내훈), 1475 , as Middle Korean 돐〮 (Yale: twóls). From 돌다 (dolda, “to rotate”).
+-
+anniversary
+Wiktionary | Kaikki
+-
+Grammar
+돌 • (dol)
+Etymology
+Korean reading of various Chinese characters.
+-
+More information(eumhun reading: 갑자기 돌 (gapjagi dol))
+(MC reading: 突 (MC dwot|thwot))(eumhun reading: 음역자 돌 (eumyeokja dol))
+(MC reading: 乭)(MC reading: 咄 (MC twot|twat))(eumhun reading: 굴뚝 돌 (gulttuk dol))
+(MC reading: 堗 (MC dwot))(MC reading: 腯 (MC dwot))(MC reading: 湥)(MC reading: 揬 (MC dwot))(MC reading: 柮 (MC twot|dzwat))(MC reading: 㐑)(MC reading: 㟮)(MC reading: 㻠)(MC reading: 葖 (MC dwot))(MC reading: 迌)(MC reading: 㷝)(MC reading: 怢)(MC reading: 鶟 (MC dwot))(MC reading: 鍎 (MC dwot))(MC reading: 鼵 (MC dwot))(MC reading: 鈯 (MC dwot))(MC reading: 飿)(MC reading: 䃐)(MC reading: 䠈 (MC thwot))(MC reading: 嚉)
+- 突: dash; clash; sudden; protrusion; penetration, piercing
+- 乭
+- hanja used for transliteration, mainly used in personal names\*\*
+- 咄
+- 堗: chimney; a gudeul
+- 腯
+- 湥
+- 揬
+- 柮
+- 㐑
+- 㟮
+- 㻠
+- 葖
+- 迌
+- 㷝
+- 怢
+- 鶟
+- 鍎
+- 鼵
+- 鈯
+- 飿
+- 䃐
+- 䠈
+- 嚉
+- (MC reading: 突 (MC dwot|thwot))
+- (MC reading: 乭)
+- (MC reading: 堗 (MC dwot))
+-
+More information1 example
+hanja used for transliteration, mainly used in personal names\*\*
+Wiktionary | Kaikki
+Word Audio: ![](@/media/yomitan_audio_eaef555f47088b0b69e27813de55fa7b2c04400e.wav)
+Sentence: 여기 사람들이 돌을 쌓아 놓았어요
+#yomitan
+
+@Korean Kaishi-style Vocabulary (Evita 1500)
+Number: 가파르다
+Word: 가파르다
+Word Meaning: -
+Grammar
+가파르다 • (gapareuda) (infinitive 가팔라, sequential 가파르니)
+Etymology
+First attested in the Yeogeo yuhae (譯語類解 / 역어유해), 1690, as Early Modern Korean 가ᄑᆞᄅᆞ다 (Yale: kapholota).
+-
+to be steep (of a road, path, or slope)
+Wiktionary | Kaikki
+Sentence: 점점 길이 가팔라요
+#yomitan
+
+@Korean Kaishi-style Vocabulary (Evita 1500)
+Number: 경치
+Word: 경치
+Word Meaning: -
+Grammar
+경치 • (gyeongchi) (hanja 景致)
+Etymology
+Sino-Korean word from 景致
+-
+scenery, scene, view
+Wiktionary | Kaikki
+Word Audio: ![](@/media/yomitan_audio_5d517afd463769b90d3967988ea37e6f439fab2e.mp3)
+Sentence: 경치가 좋아요
+#yomitan
+
+@Korean Kaishi-style Vocabulary (Evita 1500)
+Number: 충전하다
+Word: 충전하다
+Word Meaning: -
+Grammar
+충전하다 • (chungjeonhada) (infinitive 충전해 or 충전하여, sequential 충전하니)
+Etymology
+충전(充電) (chungjeon) + -하다 (-hada, “to do”, light verb deriving active verbs).
+-
+to charge or recharge (a battery or an electronic device)1 example
+전지 충전하는 것을 잊었다.
+(I) forgot to charge the battery.
+Wiktionary | Kaikki
+-
+Grammar
+충전하다 • (chungjeonhada) (infinitive 충전해 or 충전하여, sequential 충전하니)
+Etymology
+충전(充塡) (chungjeon) + -하다 (-hada, “to do”, light verb deriving active verbs).
+-
+to refill; to fill up (a space)
+Wiktionary | Kaikki
+Sentence: 충전해요
+#yomitan
+
+@Korean Kaishi-style Vocabulary (Evita 1500)
+Number: 따라가다
+Word: 따라가다
+Word Meaning: -
+Grammar
+따라가다 • (ttaragada) (infinitive 따라가, sequential 따라가니)
+Etymology
+First attested in the Bak Tongsa eonhae (朴通事諺解 / 박통사언해), 1677, as Early Modern Korean ᄠᆞ라가다 (Yale: ptolakata).
+-
+to follow, to go after
+Wiktionary | Kaikki
+Word Audio: ![](@/media/yomitan_audio_6ce726cb72685b812ec9df60c36a6b4d318e1378.mp3)
+Sentence: 표지판을 따라가요
+#yomitan
+
+@Korean Kaishi-style Vocabulary (Evita 1500)
+Number: 표지판
+Word: 표지판
+Word Meaning: -
+Grammar
+표지판 • (pyojipan) (hanja 標識板)
+Etymology
+Sino-Korean word from 표지(標識) (pyoji) + 판(板) (pan).
+-
+sign, notice, signboard1 example
+도로표지판(道路標識板)
+road/traffic sign
+Wiktionary | Kaikki
+Word Audio: ![](@/media/yomitan_audio_bde94aa78b30fd16f70818af0bb975c0831e5e71.mp3)
+Image: ![](@/media/asbp_If_You’re_a_Beginner__WA_544333_lYjS3aUK.jpeg)
+Sentence: 표지판을 따라가요
+#yomitan
+<!-- added: 2026-11-13T20:55:22+05:00 -->

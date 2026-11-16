@@ -267,3 +267,24 @@ A: defeated in battle
 
 Q: dearth
 A: a scarcity of something
+
+Q: to tread
+A: to step or walk on or over
+
+Q: *noblesse oblige*
+A: the obligation of honorable, generous, and responsible behavior associated with high rank or birth
+
+Q: buttoned-up
+A: coldly reserved
+
+Q: standoffish
+A: somewhat cold and reserved
+
+Q: hitherto
+A: up to this or that time
+
+Q: topsy-turvy
+A: totally disordered
+
+Q: airborne
+A: done or being in the air

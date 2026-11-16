@@ -5673,7 +5673,7 @@ Sentence: 저는 기다리면서 **잡지**를 읽었어요.
 Sentence Audio: ![](@/media/hypertts-6ec51545b3a964223cbf6afd13efb4002048b3338b0b3f7eb0217afd.mp3)
 Sentence Meaning: I read a magazine while waiting.
 Grammar Breakdown: -(으)면서 = while doing.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 236
@@ -13463,7 +13463,7 @@ Sentence Meaning: Past this hill is our neighborhood.
 Grammar Breakdown: 고개 here means hill pass.
 Mnemonic: *"Tilt your **head** toward the ball and tell the dog, '**Go get** it!'"*
 Picture yourself jerking your head toward a thrown ball while your dog watches, waiting for the signal. "Go get" ≈ go-gae.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 936

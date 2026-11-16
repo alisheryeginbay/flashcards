@@ -115,3 +115,12 @@ A: A type of word that phonetically imitates a sound.
 
 Q: What's the term for a type of word that phonetically imitates a sound?
 A: [=onomatopoeia]
+
+Q: Which fields did the **original** Nobel Prizes cover?
+A: Physics, chemistry, physiology or medicine, literature, and peace.
+
+Q: Which fields do the Nobel Prizes cover?
+A: Physics, chemistry, physiology or medicine, literature, peace, and economics.
+
+Q: Where are the Nobel Prizes presented?
+A: Most Nobel Prizes are in Sweden, and the Peace Prize is in Norway.

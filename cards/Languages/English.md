@@ -256,8 +256,10 @@ A: manner or mode of speech
 Q: *in vitro*
 A: outside the living body and in an artificial environment
 
-Q: affliction
-A: a cause of persistent pain or distress
+@English Vocabulary
+Expression: affliction
+Meaning: a cause of persistent pain or distress
+Sentence: She lost her sight and is now learning to live with her affliction.
 
 Q: to eradicate
 A: to destroy something completely

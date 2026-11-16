@@ -2803,7 +2803,7 @@ Q: What's a printing press?
 A: A machine that applies pressure to transfer ink onto a surface made of paper, cloth, or a similar material.
 
 Q: Who invented the printing press?
-A: Johaness Gutenberg
+A: [=Johaness Gutenberg]
 
 Q: Who's a goldsmith?
 A: A metalworker who specializes in working with gold or other precious metals.

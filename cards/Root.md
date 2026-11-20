@@ -1060,7 +1060,7 @@ A: \$47.5 billion
 
 Q: What is the NSF's FY2026 budget?
 A: \$8.75 billion
-#us
+#us #suspended
 
 Q: How much did Coefficient Giving direct in grants in 2025?
 A: over \$1 billion

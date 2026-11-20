@@ -1542,7 +1542,7 @@ Sentence: **질문**이 있어요.
 Sentence Audio: ![](@/media/hypertts-01cb9768ca6aa6695dbc93df5376793b438511c89f3c1f08208f32f4.mp3)
 Sentence Meaning: I have a question.
 Grammar Breakdown: 질문 + 이 있다 = to have a question.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 177
@@ -4312,7 +4312,7 @@ Sentence: 그 **가수**는 노래를 정말 잘해요.
 Sentence Audio: ![](@/media/hypertts-91d2ca017e37ab570f43bdfbfe8ae02057d3facbbd9faabef5999eed.mp3)
 Sentence Meaning: That singer sings really well.
 Grammar Breakdown: 노래를 잘하다 = to sing well.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 1335
@@ -5636,7 +5636,7 @@ Sentence Meaning: I really like that actor.
 Grammar Breakdown: 배우 + 를 marks the object.
 Mnemonic: *"Fans scream '**Bae, ooh!**' when the actor walks onto the red carpet."*
 Picture a famous actor stepping out of a limo while the crowd swoons and shouts "Bae, ooh!" at them. "Bae, ooh" ≈ bae-u.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 693
@@ -7413,7 +7413,7 @@ Sentence: 이 방은 창문이 커서 **밝아요**.
 Sentence Audio: ![](@/media/hypertts-ec444ca8d7bb294353ccede80abc711b2a4485ced69b72a9793b0e35.mp3)
 Sentence Meaning: This room is bright because the windows are big.
 Grammar Breakdown: -아/어서 gives the reason.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 698
@@ -9916,7 +9916,7 @@ Sentence: 한국 **문화**를 배우고 싶어요.
 Sentence Audio: ![](@/media/hypertts-4fc89e550e013a6650b62e0334d33338fc1076c473aeb3ec6a3b9161.mp3)
 Sentence Meaning: I want to learn about Korean culture.
 Grammar Breakdown: -고 싶다 = to want to.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 571
@@ -9965,7 +9965,7 @@ Sentence: 영화가 **이미** 시작했어요.
 Sentence Audio: ![](@/media/hypertts-766c0217e1a0c2bce552620147a3a56e501f13928e4972b1e2d68d87.mp3)
 Sentence Meaning: The movie has already started.
 Grammar Breakdown: 이미 = already.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 540
@@ -13399,7 +13399,7 @@ Sentence: 여름에 가족과 **바닷가**에 갔어요.
 Sentence Audio: ![](@/media/hypertts-d729060d46ceed43a28ec498eb852678023243f9010ff7663fe4e6dd.mp3)
 Sentence Meaning: In summer I went to the beach with my family.
 Grammar Breakdown: 바닷가 = seaside.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 988
@@ -13948,7 +13948,7 @@ Sentence: 감기가 **완전히** 나았어요.
 Sentence Audio: ![](@/media/hypertts-bef3fb5c7fa040336588bff290b983f9cab9dc8b2b30e8a7688aee33.mp3)
 Sentence Meaning: My cold is completely gone.
 Grammar Breakdown: 완전히 = completely.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 1350
@@ -14746,7 +14746,7 @@ Sentence: 넘어져서 **무릎**을 다쳤어요.
 Sentence Audio: ![](@/media/hypertts-0b51c2d0ed1ec44f221bb21066b51e83bd4b11379487743ad57c204c.mp3)
 Sentence Meaning: I fell and hurt my knee.
 Grammar Breakdown: 다치다 = to get hurt.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 902
@@ -14810,7 +14810,7 @@ Sentence: 이 가게는 빵 **종류**가 정말 많아요.
 Sentence Audio: ![](@/media/hypertts-fbf1054f729727c15b2a53940404bd04315f25222861dc006b059ae9.mp3)
 Sentence Meaning: This store has so many kinds of bread.
 Grammar Breakdown: 종류가 많다 = many kinds.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 1439
@@ -14947,7 +14947,7 @@ Sentence: **육교**로 길을 건너세요.
 Sentence Audio: ![](@/media/hypertts-173c58674c107f332f716bacff54a6852c55a66446bd604122c6bafe.mp3)
 Sentence Meaning: Cross the road using the overpass.
 Grammar Breakdown: (으)로 marks the route.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 611
@@ -15098,7 +15098,7 @@ Sentence: 시계를 일곱 시에 **맞췄어요**.
 Sentence Audio: ![](@/media/hypertts-a1022e9de4a62576b1e3264349b14bb8437498bccf4b2af7c3c8cc3e.mp3)
 Sentence Meaning: I set the alarm for seven.
 Grammar Breakdown: 시계를 맞추다 = to set a clock.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 1448
@@ -16223,7 +16223,7 @@ Sentence: 우체국에서 **소포**를 보냈어요.
 Sentence Audio: ![](@/media/hypertts-ca795188eb7f64986b3b328d98f9a6224a62d05679b238ecbbdc7650.mp3)
 Sentence Meaning: I sent a package at the post office.
 Grammar Breakdown: 소포를 보내다 = to send a parcel.
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 1242
@@ -17644,7 +17644,7 @@ Sentence Audio: ![](@/media/hypertts-26525e86e047f2dd6cf02c5755a27df0b39a75e43af
 Sentence Meaning: I sent a letter but got no reply.
 Grammar Breakdown: -지만 = but.
 Mnemonic: When you finally get a **reply** from your crush, your phone **JANG**les and you do a victory **DAB**. *Dab-jang!*
-#korean
+#korean #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 637

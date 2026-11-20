@@ -8990,7 +8990,7 @@ See More
 Misc. info
 Learn Korean the EASY way | Slow Korean + Real- Life Conversations (A Day in Jeju) - YouTube
 asbplayer yomitan
-#asbplayer #yomitan
+#asbplayer #yomitan #suspended
 
 Q: 편안하다
 A: peaceful; at ease
@@ -11825,7 +11825,7 @@ Etymology
 to refill; to fill up (a space)
 Wiktionary | Kaikki
 Sentence: 충전해요
-#yomitan
+#yomitan #suspended
 
 @Korean Kaishi-style Vocabulary (Evita 1500)
 Number: 따라가다

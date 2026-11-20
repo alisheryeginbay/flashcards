@@ -29,7 +29,7 @@ mnemonic: **m**ake **d**ate **d**eadline
 
 Q: How to find the keyboard shortcut for a specific command in Emacs?
 A: `⌃+H` + `W` + `Command Name`
-#emacs
+#emacs #suspended
 
 Q: How to open the agenda for current week or day in Emacs?
 A: `SPC` + `o` + `A`

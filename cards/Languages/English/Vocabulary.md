@@ -867,7 +867,7 @@ Meaning: - *(noun, seth-oald-extra)*
 - They sat with their fingers laced.
 Image: ![](@/media/proxy-image-a08946b2d6cad26d4ff8e72c4c0cf6b6c57c3619.jpg)
 Audio: ![](@/media/yomitan_audio_06a97ef577e779ddd96792c8babc360e49808309.mp3)
-#english #yomitan
+#english #yomitan #suspended
 
 @English Vocabulary
 Expression: bewilderment

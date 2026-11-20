@@ -290,3 +290,6 @@ A: totally disordered
 
 Q: airborne
 A: done or being in the air
+
+Q: fierce
+A: violently hostile or aggressive

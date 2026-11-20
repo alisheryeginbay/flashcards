@@ -47,3 +47,4 @@ A: The Scream
 Q: ![](@/media/the-scream.jpg)
 Artist?
 A: Edvard Munch
+#suspended

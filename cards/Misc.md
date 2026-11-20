@@ -124,3 +124,7 @@ A: Physics, chemistry, physiology or medicine, literature, peace, and economics.
 
 Q: Where are the Nobel Prizes presented?
 A: Most Nobel Prizes are in Sweden, and the Peace Prize is in Norway.
+
+Q: What's the name of this thing?
+![](@/media/abacus.png)
+A: abacus
